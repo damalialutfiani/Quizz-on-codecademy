@@ -90,3 +90,52 @@ Lesson 1 - **Manipulation**
 
 > WHERE flavor NULL;
 
+8. What would be correct syntax for a *CREATE TABLE* statement?
+
+  a.
+  
+> **CREATE TABLE meals {**
+
+>   **name TEXT,**
+
+>   **rating INTEGER**
+
+> **};**
+  
+  b. 
+  
+> CREATE meals {
+
+>   name TEXT,
+
+>   rating INTEGER
+
+> };
+  
+  c.
+  
+> NEW TABLE meals {
+
+>   name TEXT,
+
+>   rating INTEGER
+
+> };
+  
+  d.
+
+> CREATE meals
+
+>   name TEXT
+
+>   rating INTEGER
+
+9. Which clause is used with the *AKTER TABLE* statement?
+
+  a. SELECT
+  
+  b. **ADD COLUMN**
+  
+  c. JOIN
+  
+  d. INTO
