@@ -36,3 +36,14 @@ Lesson 1 - **Manipulation**
   
   d. Insert new columns into a table
   
+4. What are common data types in SQL?
+
+  a. **Integer, Text, Date, Real**
+  
+  b. Row, Column
+  
+  c. id, name, age
+  
+  d. PDF, JPEG, GIF, MP3
+  
+  
