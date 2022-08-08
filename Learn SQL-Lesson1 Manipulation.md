@@ -130,7 +130,7 @@ Lesson 1 - **Manipulation**
 
 >   rating INTEGER
 
-9. Which clause is used with the *AKTER TABLE* statement?
+9. Which clause is used with the *ALTER TABLE* statement?
 
   a. SELECT
   
@@ -139,3 +139,16 @@ Lesson 1 - **Manipulation**
   c. JOIN
   
   d. INTO
+
+10. What is the purpose of the * character?
+> SELECT *
+
+> FROM celebs;
+
+  a. **A table name**
+  
+  b. A column name
+  
+  c. A row name
+  
+  d. The keyword INTO
