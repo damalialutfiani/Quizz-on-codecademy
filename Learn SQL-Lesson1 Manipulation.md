@@ -145,10 +145,10 @@ Lesson 1 - **Manipulation**
 
 > FROM celebs;
 
-  a. **A table name**
+  a. **It selects every column in the table.**
   
-  b. A column name
+  b. It only selects columns where values are not empty in the table.
   
-  c. A row name
+  c. It selects new values in the table.
   
-  d. The keyword INTO
+  d. It selects the leftmost column in the table.
