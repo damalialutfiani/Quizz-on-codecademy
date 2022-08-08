@@ -66,4 +66,27 @@ Lesson 1 - **Manipulation**
   
   d. **A database that organizes information into one or more tables.**
   
+7. Which of the following statement is correct and complete?
+
+  a.
   
+> **DELETE FROM icecream**
+
+> **WHERE flavor is NULL;**
+  
+  b. 
+  
+> WHERE flavor is NULL
+
+> DELETE FROM icecream;
+  
+  c.
+  
+> DELETE icecream
+
+> WHERE flavor NULL;
+  
+  d.
+
+> WHERE flavor NULL;
+
