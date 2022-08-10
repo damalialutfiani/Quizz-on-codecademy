@@ -28,10 +28,15 @@ d.
 > FROM colors
 
 > ______________;
--	ORDER BY name ASC
--	GRUP BY name ASC
--	**ORDER BY name DESC**
--	ORDER BY name
+
+a.	ORDER BY name ASC
+
+b.	GRUP BY name ASC
+
+c.	**ORDER BY name DESC**
+
+d.	ORDER BY name
+
 3.	What is *LIMIT*?
 -	**A clause that lets you specify the maximum number of rows the result set will have.**
 -	A clause that restricts our query results in order to obtain only the information we want.
