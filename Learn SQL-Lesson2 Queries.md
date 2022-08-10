@@ -97,7 +97,7 @@ c.	LIKE
 
 d.	OR
 
-9.	What is *ORDER BY*?
+8.	What is *ORDER BY*?
 
 a.	An operator used with the WHERE clause.
 
@@ -107,15 +107,23 @@ c.	**A clause that sorts the result set alphabetically or numerically.**
 
 d.	A clause that allows you to select unique values.
 
-11.	*IS NULL* condition returns true if the field is empty.
--	False
--	**True**
-12.	What is *LIKE*?
--	**A special operator that can be used with the WHERE clause to search for a pattern.**
--	A clause used to bookmark columns that are frequently queried.
--	A statement that allows us to create different outputs.
--	A clause used to selet unique values from a table.
-13.	What is the correct query o select only the cities with temperatures less than 35?
+9.	*IS NULL* condition returns true if the field is empty.
+
+a.	False
+
+b.	**True**
+
+10.	What is *LIKE*?
+
+a.	**A special operator that can be used with the WHERE clause to search for a pattern.**
+
+b.	A clause used to bookmark columns that are frequently queried.
+
+c.	A statement that allows us to create different outputs.
+
+d.	A clause used to selet unique values from a table.
+
+11.	What is the correct query o select only the cities with temperatures less than 35?
 -	SELECT *
 FROM cities;
 -	**SELECT**
