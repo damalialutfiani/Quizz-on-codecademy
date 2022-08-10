@@ -38,23 +38,41 @@ c.	**ORDER BY name DESC**
 d.	ORDER BY name
 
 3.	What is *LIMIT*?
--	**A clause that lets you specify the maximum number of rows the result set will have.**
--	A clause that restricts our query results in order to obtain only the information we want.
--	A clause that lets you specify the maximum number of column the result set will have.
--	A clause that is used to return unique values in the output.
+
+a.	**A clause that lets you specify the maximum number of rows the result set will have.**
+
+b.	A clause that restricts our query results in order to obtain only the information we want.
+
+c.	A clause that lets you specify the maximum number of column the result set will have.
+
+d.	A clause that is used to return unique values in the output.
+
 4.	Which of the following is *NOT* a comparison operator in SQL?
--	**~**
--	!=
--	<
--	>=
+
+a.	**~**
+
+b.	!=
+
+c.	<
+
+d.	>=
+
 5.	What does the wildcard character % in the following SQL statement do?
-SELECT *
-FROM sports
-WHERE name LIKE ‘%ball’;
--	It matches all sports that contain ‘ball’.
--	It matches all sports that begin with ‘ball’.
--	It matches all sports that have a pattern like ‘ball’, such as ‘b3ll’ and ‘b@ll’.
--	**It matches all sports that end with ‘ball’.**
+
+>	SELECT *
+
+>	FROM sports
+
+>	WHERE name LIKE ‘%ball’;
+
+a.	It matches all sports that contain ‘ball’.
+
+b.	It matches all sports that begin with ‘ball’.
+
+c.	It matches all sports that have a pattern like ‘ball’, such as ‘b3ll’ and ‘b@ll’.
+
+d.	**It matches all sports that end with ‘ball’.**
+
 6.	What is the correct syntax to query both the name and date columns from the database?
 SELECT _____
 FROM album;
