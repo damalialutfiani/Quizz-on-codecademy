@@ -49,7 +49,7 @@ d.	A clause that is used to return unique values in the output.
 
 4.	Which of the following is *NOT* a comparison operator in SQL?
 
-a.	**~**
+a.	__~__
 
 b.	!=
 
@@ -123,26 +123,52 @@ c.	A statement that allows us to create different outputs.
 
 d.	A clause used to selet unique values from a table.
 
-11.	What is the correct query o select only the cities with temperatures less than 35?
--	SELECT *
-FROM cities;
--	**SELECT**
-**FROM cities**
-**WHERE temperature < 35;**
--	SELECT *
-FROM cities
-WHERE temperature = 35;
--	SELECT *
-FROM cities
-WHERE temperature != 35;
+11.	What is the correct query to select only the cities with temperatures less than 35?
+
+a.
+>	SELECT *
+
+>	FROM cities;
+
+b.
+>	__SELECT *__
+
+>	**FROM cities**
+
+>	**WHERE temperature < 35;**
+
+c.
+>	SELECT *
+
+>	FROM cities
+
+>	WHERE temperature = 35;
+
+d.
+>	SELECT *
+
+>	FROM cities
+
+>	WHERE temperature != 35;
+
 12.	Find the error in this code:
-SELECT name,
-	CASE
-		WHEN imdb_rating > 8 THEN ‘Oscar’
-		WHEN imdb_rating > 7 THEN ‘Good’
-		WHEN imdb_rating > 6 THEN ‘Fair’
-FROM movies;
--	The column was not removwed.
--	Not enough WHEN/THEN statements.
--	Missing ELSE statement.
--	**Missing END statement.**
+
+>	SELECT name,
+
+>		CASE
+
+>			WHEN imdb_rating > 8 THEN ‘Oscar’
+
+>			WHEN imdb_rating > 7 THEN ‘Good’
+
+>			WHEN imdb_rating > 6 THEN ‘Fair’
+
+>	FROM movies;
+
+a.	The column was not removed.
+
+b.	Not enough WHEN/THEN statements.
+
+c.	Missing ELSE statement.
+
+d.	**Missing END statement.**
