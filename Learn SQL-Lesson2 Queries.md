@@ -74,31 +74,48 @@ c.	It matches all sports that have a pattern like ‘ball’, such as ‘b3ll’
 d.	**It matches all sports that end with ‘ball’.**
 
 6.	What is the correct syntax to query both the name and date columns from the database?
-SELECT _____
-FROM album;
--	name & date
--	**name, date**
--	name; date
--	name + date
-7.	Which operator would you use to query values that meet all conditions in a *where* clause?
--	BETWEEN
--	**AND**
--	LIKE
--	OR
-8.	What is *ORDER BY*?
--	An operator used with the WHERE clause.
--	A clause that sorts the result set in alphabetical order only.
--	**A clause that sorts the result set alphabetically or numerically.**
--	A clause that allows you to select unique values.
-9.	*IS NULL* condition returns true if the field is empty.
+
+>	SELECT _____
+
+>	FROM album;
+
+a.	name & date
+
+b.	**name, date**
+
+c.	name; date
+
+d.	name + date
+
+7.	Which operator would you use to query values that meet all conditions in a *WHERE* clause?
+
+a.	BETWEEN
+
+b.	**AND**
+
+c.	LIKE
+
+d.	OR
+
+9.	What is *ORDER BY*?
+
+a.	An operator used with the WHERE clause.
+
+b.	A clause that sorts the result set in alphabetical order only.
+
+c.	**A clause that sorts the result set alphabetically or numerically.**
+
+d.	A clause that allows you to select unique values.
+
+11.	*IS NULL* condition returns true if the field is empty.
 -	False
 -	**True**
-10.	What is *LIKE*?
+12.	What is *LIKE*?
 -	**A special operator that can be used with the WHERE clause to search for a pattern.**
 -	A clause used to bookmark columns that are frequently queried.
 -	A statement that allows us to create different outputs.
 -	A clause used to selet unique values from a table.
-11.	What is the correct query o select only the cities with temperatures less than 35?
+13.	What is the correct query o select only the cities with temperatures less than 35?
 -	SELECT *
 FROM cities;
 -	**SELECT**
