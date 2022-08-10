@@ -2,16 +2,24 @@ Lesson 2 – **Queries**
 
 1.	How would you query all the unique genres from the *books* table?
 
-a.	**SELECT DISTINCT genres**
+a.
+>	**SELECT DISTINCT genres**
+
 >	**FROM books;**
 	
-b.	FROM books
+b.	
+>	FROM books
+
 >	SELECT DISTINCT genres;
 	
-c. 	SELECT UNIQUE genres
+c. 	
+>	SELECT UNIQUE genres
+
 >	FROM books;
 	
-d.	SELECT genres
+d.	
+>	SELECT genres
+
 >	FROM books;
 
 2.	What code would you add to this query to order colors by name alphabetically (Z to A)?
