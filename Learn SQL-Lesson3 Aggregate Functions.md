@@ -10,20 +10,38 @@ c.	Round the values of a colomn.
 
 d.	Count the number of rows where the value(s) is not NULL.
 
-3.	How would you calculate the minimum number of stops from train table?
--	**SELECT MIN(stops)**
-**FROM train;**
--	SELECT SUM(stops)
-FROM train;
--	SELECT AVG(stops)
-FROM train;
--	SELECT MAX(stops)
-FROM train;
+2.	How would you calculate the minimum number of stops from train table?
+
+a.
+>	**SELECT MIN(stops)**
+
+>	**FROM train;**
+
+b.	
+>	SELECT SUM(stops)
+
+>	FROM train;
+
+c.	
+>	SELECT AVG(stops)
+
+>	FROM train;
+
+d.	
+>	SELECT MAX(stops)
+
+>	FROM train;
+
 3.	What does the *COUNT()* function take as argument(s)?
--	**The name of a column or *.**
--	The name of a row.
--	The name of a table.
--	The name of a database.
+
+a.	__The name of a column or *.__
+
+b.	The name of a row.
+
+c.	The name of a table.
+
+d.	The name of a database.
+
 4.	What does the *ROUND* function take as argument(s)?
 -	The table name.
 -	The column name, and a + or – sign to indicate rounding up or rounding down.
