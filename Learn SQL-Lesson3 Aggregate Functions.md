@@ -1,11 +1,16 @@
 Lesson 3 - **Aggregate Functions**
 
 1.	Aggregate function
--	Return the total sum of the values in a numeric colum.
--	**Compute a single result set from a set values.**
--	Round the values of a colomn.
--	Count the number of rows where the value(s) is not NULL.
-2.	How would you calculate the minimum number of stops from train table?
+
+a.	Return the total sum of the values in a numeric colum.
+
+b.	**Compute a single result set from a set values.**
+
+c.	Round the values of a colomn.
+
+d.	Count the number of rows where the value(s) is not NULL.
+
+3.	How would you calculate the minimum number of stops from train table?
 -	**SELECT MIN(stops)**
 **FROM train;**
 -	SELECT SUM(stops)
