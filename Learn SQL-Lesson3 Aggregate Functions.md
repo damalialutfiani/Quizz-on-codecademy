@@ -43,16 +43,19 @@ c.	The name of a table.
 d.	The name of a database.
 
 4.	What does the *ROUND* function take as argument(s)?
--	The table name.
--	The column name, and a + or – sign to indicate rounding up or rounding down.
--	It does not take an argument.
--	**The column name, and the number of decimal places to round the values in the column to.**
-5.	Which function takes a column and returns the total sum of the numeric values in that column?
--	**SUM()**
--	MAX()
--	AVG()
--	COUNT()
-6.	What does the following query do?
+
+a.	The table name.
+b.	The column name, and a + or – sign to indicate rounding up or rounding down.
+c.	It does not take an argument.
+d.	**The column name, and the number of decimal places to round the values in the column to.**
+
+6.	Which function takes a column and returns the total sum of the numeric values in that column?
+a.	**SUM()**
+b.	MAX()
+c.	AVG()
+d.	COUNT()
+
+7.	What does the following query do?
 SELECT genre,
 	SUM(downloads)
 FROM kindle
