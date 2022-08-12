@@ -123,12 +123,18 @@ c.	It should be GROUP BY instead of HAVING.
 d.	**It should be WHERE instead of HAVING.**
 
 10.	What does the following query do?
-SELECT neighborhood,
-	AVG(price)
-FROM apartments
-GROUP BY neighborhood;
--	**It calculates the average price of apartments in each neighborhood.**
--	It calculates the lowest price of apartments in each neighborhood.
--	It calculates the highest price of apartments in each neighborhood.
--	It calculates the total number of apartments in each neighborhood.
+
+>	SELECT neighborhood,
+
+>		AVG(price)
+
+>	FROM apartments
+
+>	GROUP BY neighborhood;
+
+a.	**It calculates the average price of apartments in each neighborhood.**
+
+b.	It calculates the lowest price of apartments in each neighborhood.
+c.	It calculates the highest price of apartments in each neighborhood.
+d.	It calculates the total number of apartments in each neighborhood.
 
