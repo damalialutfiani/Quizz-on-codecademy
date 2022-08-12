@@ -107,13 +107,21 @@ c.	It calculates the total number of menu items.
 d.	It calculates the total number of menu items that have been ordered more than 50 times.
 
 9.	Find the error in this code:
-SELECT COUNT(*)
-FROM songs
-HAVING plays > 100;
--	There is no error.
--	There is no such thing as COUNT(*).
--	It should be GROUP BY instead of HAVING.
--	**It should be WHERE instead of HAVING.**
+
+>	SELECT COUNT(*)
+
+>	FROM songs
+
+>	HAVING plays > 100;
+
+a.	There is no error.
+
+b.	There is no such thing as COUNT(*).
+
+c.	It should be GROUP BY instead of HAVING.
+
+d.	**It should be WHERE instead of HAVING.**
+
 10.	What does the following query do?
 SELECT neighborhood,
 	AVG(price)
