@@ -52,7 +52,7 @@ c.	It does not take an argument.
 
 d.	**The column name, and the number of decimal places to round the values in the column to.**
 
-6.	Which function takes a column and returns the total sum of the numeric values in that column?
+5.	Which function takes a column and returns the total sum of the numeric values in that column?
 
 a.	**SUM()**
 
@@ -62,7 +62,7 @@ c.	AVG()
 
 d.	COUNT()
 
-7.	What does the following query do?
+6.	What does the following query do?
 
 >	SELECT genre,
 	
@@ -81,18 +81,31 @@ c.	It returns the highest number of downloads – for each genre.
 d.	**It returns the total amount of downloads – for each genre.**
 
 7.	The *WHERE* clause filters rows, whereas the having clause filter groups.
--	False
--	**True**
+
+a.	False
+
+b.	**True**
+
 8.	What does the following query do?
-SELECT price,
-	COUNT(*)
-FROM menu
-WHERE orders > 50
-GROUP BY price;
--	It calculates the total number of menu items that have been ordered more than 50 times – sorted by price.
--	**It calculates the total number of menu items that have been ordered more than 50 times – for each price.**
--	It calculates the total number of menu items.
--	It calculates the total number of menu items that have been ordered more than 50 times.
+
+>	SELECT price,
+
+>		COUNT(*)
+
+>	FROM menu
+
+>	WHERE orders > 50
+
+>	GROUP BY price;
+
+a.	It calculates the total number of menu items that have been ordered more than 50 times – sorted by price.
+
+b.	**It calculates the total number of menu items that have been ordered more than 50 times – for each price.**
+
+c.	It calculates the total number of menu items.
+
+d.	It calculates the total number of menu items that have been ordered more than 50 times.
+
 9.	Find the error in this code:
 SELECT COUNT(*)
 FROM songs
