@@ -135,6 +135,8 @@ d.	**It should be WHERE instead of HAVING.**
 a.	**It calculates the average price of apartments in each neighborhood.**
 
 b.	It calculates the lowest price of apartments in each neighborhood.
+
 c.	It calculates the highest price of apartments in each neighborhood.
+
 d.	It calculates the total number of apartments in each neighborhood.
 
