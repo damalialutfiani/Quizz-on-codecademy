@@ -63,6 +63,15 @@ Lesson 4 - **Multiple Tables**
 -	**It combines every row in one table with every row in another table.**
 -	It combines all foreign keys into one table called foreign keys.
 10.	Which kind of join is in the animation below?
+
+- First Table
+
+| C1 | C2 |
+|:--:|:--:|
+| A  | B  |
+| Q  | W  |
+| X  | Y  |
+
 C1	C2	C2	C3
 A	B	B	C
 Q	W	E	R
@@ -77,3 +86,9 @@ A	B	C
 -	**Oh, that’s a INNER JOIN.**
 -	No, it is a CROSS JOIN.
 -	This is definitely a LEFT JOIN.
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
