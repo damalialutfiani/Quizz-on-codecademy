@@ -72,23 +72,22 @@ Lesson 4 - **Multiple Tables**
 | Q  | W  |
 | X  | Y  |
 
-C1	C2	C2	C3
-A	B	B	C
-Q	W	E	R
- X	Y	Y	Z
+- Second Tablee
 
-Became : 
-C1	C2	C3
-A	B	C
- X	Y	Z
+| C2 | C3 |
+|:--:|:--:|
+| B  | C  |
+| E  | R  |
+| Y  | z  |
+
+- Became : 
+
+| C1 | C2 | C3 |
+|:--:|:--:|:--:|
+| A  | B  | C  |
+| X  | Y  | Z  |
 
 -	Um, none of these?
 -	**Oh, that’s a INNER JOIN.**
 -	No, it is a CROSS JOIN.
 -	This is definitely a LEFT JOIN.
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
