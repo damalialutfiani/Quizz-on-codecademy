@@ -14,11 +14,17 @@ Lesson 4 - **Multiple Tables**
 -	A NULL value.
 -	**A column that contains the primary key of another table in the database.**
 4.	Which keyword would you use to alias recipes.name and chefs.name in the following query?
-SELECT recipes.name __ ‘Recipe’ ,
-	Chefs.name __ ‘Chef’
-FROM recipes
-JOIN chefs
-	ON recipes.chef_id = chefs.id;
+
+>	SELECT recipes.name __ ‘Recipe’ ,
+
+>		Chefs.name __ ‘Chef’
+
+>	FROM recipes
+
+>	JOIN chefs
+
+>		ON recipes.chef_id = chefs.id;
+
 -	**AS**
 -	ALIAS
 -	WITH
