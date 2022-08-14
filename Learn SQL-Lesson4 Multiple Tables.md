@@ -34,10 +34,15 @@ Lesson 4 - **Multiple Tables**
 -	id
 -	foreign_key
 6.	You have two tables teachers and students. Each student belongs to a teacher. Complete the query to join the tables on the teacher id.
-SELECT *
-FROM studenrs
-Join teachers
-	ON ____ ;
+
+>	SELECT *
+
+>	FROM studenrs
+
+>	Join teachers
+
+>		ON ____ ;
+
 -	**students.teacher_id = teachers.id**
 -	teachers.id = student_id
 -	teacher_id = id
