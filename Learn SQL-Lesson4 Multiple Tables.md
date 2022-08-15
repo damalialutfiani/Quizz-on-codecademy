@@ -1,34 +1,51 @@
 Lesson 4 - **Multiple Tables**
 
 1.	What is the best definition of a primary key?
--	A primary record in a database that serves as a template for all other records.
--	A NULL value.
--	**A unique identifier for each row or record in a given table.**
--	A foreign key with distinct attributes.
+
+     a.  A primary record in a database that serves as a template for all other records.
+
+     b.  A NULL value.
+
+     c.  **A unique identifier for each row or record in a given table.**
+
+     d.  A foreign key with distinct attributes.
+
 2.	*UNION* allows us to stack one dataset on top of another.
--	**True**
--	False
+
+    a.  **True**
+    
+    b.  False
+    
 3.	What is the best definition of a foreign key?
--	A primary key that is not present when a table is created but is later added.
--	A unique identifier for each row or record in a given table.
--	A NULL value.
--	**A column that contains the primary key of another table in the database.**
+
+    a.  A primary key that is not present when a table is created but is later added.
+    
+    b.	A unique identifier for each row or record in a given table.
+    
+    c.  A NULL value.
+    
+    d.  **A column that contains the primary key of another table in the database.**
+    
 4.	Which keyword would you use to alias recipes.name and chefs.name in the following query?
 
->	SELECT recipes.name __ ‘Recipe’ ,
+    	SELECT recipes.name __ ‘Recipe’ ,
 
->		Chefs.name __ ‘Chef’
+      	Chefs.name __ ‘Chef’
 
->	FROM recipes
+    	FROM recipes
 
->	JOIN chefs
+    	JOIN chefs
 
->		ON recipes.chef_id = chefs.id;
+    	ON recipes.chef_id = chefs.id;
 
--	**AS**
--	ALIAS
--	WITH
--	ON
+    a.	**AS**
+    
+    b.  ALIAS
+    
+    c.  WITH
+    
+    d.  ON
+    
 5.	You have two tables authors and books. Each book belongs to an author and references that author through a foreign key. If the primary key of the authors table is id, what would be the most sensical name for a foreign key in the books table that references the id column in authors?
 -	**author_id**
 -	id
