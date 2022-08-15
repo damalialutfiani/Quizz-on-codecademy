@@ -82,17 +82,27 @@ Lesson 4 - **Multiple Tables**
 
      d. A LEFT JOIN is an obsolete form of an INNER JOIN.
 
-9.	In a LEFT JOIN, if a join condition is not met, what will it use to fill columns on the right table?
--	column_name.id
--	**NULL values**
--	id
--	primary keys
-10.	Why is a CROSS JOIN not so usefull?
--	It nullifies all primary keys.
--	It is no longer supported by SQL.
--	**It combines every row in one table with every row in another table.**
--	It combines all foreign keys into one table called foreign keys.
-11.	Which kind of join is in the animation below?
+8.	In a LEFT JOIN, if a join condition is not met, what will it use to fill columns on the right table?
+
+     a. column_name.id
+     
+     b. **NULL values**
+     
+     c. id
+     
+     d. primary keys
+     
+9.	Why is a CROSS JOIN not so usefull?
+
+     a. It nullifies all primary keys.
+     
+     b. It is no longer supported by SQL.
+     
+     c. **It combines every row in one table with every row in another table.**
+     
+     d. It combines all foreign keys into one table called foreign keys.
+     
+10.	Which kind of join is in the animation below?
 
 - First Table
 
