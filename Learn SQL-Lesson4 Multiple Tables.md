@@ -73,21 +73,26 @@ Lesson 4 - **Multiple Tables**
      d. teachers = students.id
      
 7.	What is the difference between an INNER JOIN and a LEFT JOIN?
--	An INNER JOIN joins rows within a table. A LEFT JOIN joins rows between tables.
--	**LEFT JOIN combines rows from two or more tables, but unlike INNER JOIN, it does not require the join condition to be met.**
--	An INNER JOIN is an obsolete form of a LEFT JOIN.
--	A LEFT JOIN is an obsolete form of an INNER JOIN.
-8.	In a LEFT JOIN, if a join condition is not met, what will it use to fill columns on the right table?
+
+     a. An INNER JOIN joins rows within a table. A LEFT JOIN joins rows between tables.
+
+     b. **LEFT JOIN combines rows from two or more tables, but unlike INNER JOIN, it does not require the join condition to be met.**
+
+     c. An INNER JOIN is an obsolete form of a LEFT JOIN.
+
+     d. A LEFT JOIN is an obsolete form of an INNER JOIN.
+
+9.	In a LEFT JOIN, if a join condition is not met, what will it use to fill columns on the right table?
 -	column_name.id
 -	**NULL values**
 -	id
 -	primary keys
-9.	Why is a CROSS JOIN not so usefull?
+10.	Why is a CROSS JOIN not so usefull?
 -	It nullifies all primary keys.
 -	It is no longer supported by SQL.
 -	**It combines every row in one table with every row in another table.**
 -	It combines all foreign keys into one table called foreign keys.
-10.	Which kind of join is in the animation below?
+11.	Which kind of join is in the animation below?
 
 - First Table
 
