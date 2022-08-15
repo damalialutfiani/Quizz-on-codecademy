@@ -30,7 +30,7 @@ Lesson 4 - **Multiple Tables**
 
     	SELECT recipes.name __ ‘Recipe’ ,
 
-      	Chefs.name __ ‘Chef’
+      	     Chefs.name __ ‘Chef’
 
     	FROM recipes
 
