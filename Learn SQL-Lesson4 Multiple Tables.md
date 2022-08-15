@@ -47,23 +47,31 @@ Lesson 4 - **Multiple Tables**
     d.  ON
     
 5.	You have two tables authors and books. Each book belongs to an author and references that author through a foreign key. If the primary key of the authors table is id, what would be the most sensical name for a foreign key in the books table that references the id column in authors?
--	**author_id**
--	id
--	foreign_key
+
+     a. **author_id**
+     
+     b. id
+     
+     c. foreign_key
+     
 6.	You have two tables teachers and students. Each student belongs to a teacher. Complete the query to join the tables on the teacher id.
 
->	SELECT *
+          SELECT *
+     
+          FROM studenrs
+     
+          Join teachers
+     
+               ON ____ ;
 
->	FROM studenrs
-
->	Join teachers
-
->		ON ____ ;
-
--	**students.teacher_id = teachers.id**
--	teachers.id = student_id
--	teacher_id = id
--	teachers = students.id
+     a. **students.teacher_id = teachers.id**
+     
+     b. teachers.id = student_id
+     
+     c. teacher_id = id
+     
+     d. teachers = students.id
+     
 7.	What is the difference between an INNER JOIN and a LEFT JOIN?
 -	An INNER JOIN joins rows within a table. A LEFT JOIN joins rows between tables.
 -	**LEFT JOIN combines rows from two or more tables, but unlike INNER JOIN, it does not require the join condition to be met.**
