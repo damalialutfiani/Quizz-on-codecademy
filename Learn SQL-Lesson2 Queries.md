@@ -27,29 +27,30 @@ Lesson 2 – **Queries**
 	FROM books;
 
 2.	What code would you add to this query to order colors by name alphabetically (Z to A)?
-> SELECT *
+	
+		SELECT *
 
-> FROM colors
+		FROM colors
 
-> ______________;
+		______________;
 
-a.	ORDER BY name ASC
+	a.	ORDER BY name ASC
 
-b.	GRUP BY name ASC
+	b.	GRUP BY name ASC
 
-c.	**ORDER BY name DESC**
+	c.	**ORDER BY name DESC**
 
-d.	ORDER BY name
+	d.	ORDER BY name
 
 3.	What is *LIMIT*?
 
-a.	**A clause that lets you specify the maximum number of rows the result set will have.**
+	a.	**A clause that lets you specify the maximum number of rows the result set will have.**
 
-b.	A clause that restricts our query results in order to obtain only the information we want.
+	b.	A clause that restricts our query results in order to obtain only the information we want.
 
-c.	A clause that lets you specify the maximum number of column the result set will have.
+	c.	A clause that lets you specify the maximum number of column the result set will have.
 
-d.	A clause that is used to return unique values in the output.
+	d.	A clause that is used to return unique values in the output.
 
 4.	Which of the following is *NOT* a comparison operator in SQL?
 
