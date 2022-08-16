@@ -120,10 +120,10 @@ Lesson 4 - **Multiple Tables**
 | A  | B  | C  |
 | X  | Y  | Z  |
 
-       a.     Um, none of these?
+a.     Um, none of these?
      
-       b.     **Oh, that’s a INNER JOIN.**
+b.     **Oh, that’s a INNER JOIN.**
      
-       c.     No, it is a CROSS JOIN.
+c.     No, it is a CROSS JOIN.
      
-       d.     This is definitely a LEFT JOIN.
+d.     This is definitely a LEFT JOIN.
