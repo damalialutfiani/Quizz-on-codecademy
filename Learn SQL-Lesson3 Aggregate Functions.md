@@ -12,25 +12,29 @@ Lesson 3 - **Aggregate Functions**
 
 2.	How would you calculate the minimum number of stops from train table?
 
-	a.
-	>	**SELECT MIN(stops)**
+	a.	
+	
+	**SELECT MIN(stops)**
 
-	>	**FROM train;**
+	**FROM train;**
 
 	b.	
-	>	SELECT SUM(stops)
+		
+	SELECT SUM(stops)
 
-	>	FROM train;
+	FROM train;
 
 	c.	
-	>	SELECT AVG(stops)
+	
+	SELECT AVG(stops)
 
-	>	FROM train;
+	FROM train;
 
 	d.	
-	>	SELECT MAX(stops)
+	
+	SELECT MAX(stops)
 
-	>	FROM train;
+	FROM train;
 
 3.	What does the *COUNT()* function take as argument(s)?
 
@@ -83,29 +87,29 @@ Lesson 3 - **Aggregate Functions**
 
 7.	The *WHERE* clause filters rows, whereas the having clause filter groups.
 
-a.	False
+	a.	False
 
-b.	**True**
+	b.	**True**
 
 8.	What does the following query do?
 
->	SELECT price,
+		SELECT price,
 
->		COUNT(*)
+			COUNT(*)
 
->	FROM menu
+		FROM menu
 
->	WHERE orders > 50
+		WHERE orders > 50
 
->	GROUP BY price;
+		GROUP BY price;
 
-a.	It calculates the total number of menu items that have been ordered more than 50 times – sorted by price.
+	a.	It calculates the total number of menu items that have been ordered more than 50 times – sorted by price.
 
-b.	**It calculates the total number of menu items that have been ordered more than 50 times – for each price.**
+	b.	**It calculates the total number of menu items that have been ordered more than 50 times – for each price.**
 
-c.	It calculates the total number of menu items.
+	c.	It calculates the total number of menu items.
 
-d.	It calculates the total number of menu items that have been ordered more than 50 times.
+	d.	It calculates the total number of menu items that have been ordered more than 50 times.
 
 9.	Find the error in this code:
 
