@@ -64,13 +64,13 @@ Lesson 3 - **Aggregate Functions**
 
 6.	What does the following query do?
 
-	>	SELECT genre,
+		SELECT genre,
 	
-	>		SUM(downloads)
+			SUM(downloads)
 
-	>	FROM kindle
+		FROM kindle
 
-	>	GROUP BY genre;
+		GROUP BY genre;
 
 
 	a.	It returns the total amount of downloads.
