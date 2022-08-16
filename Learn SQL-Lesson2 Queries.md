@@ -162,7 +162,7 @@ Lesson 2 – **Queries**
 
 12.	Find the error in this code:
 
-	SELECT name,
+		SELECT name,
 
 		CASE
 
@@ -172,7 +172,7 @@ Lesson 2 – **Queries**
 
 			WHEN imdb_rating > 6 THEN ‘Fair’
 
-	FROM movies;
+		FROM movies;
 
 	a.	The column was not removed.
 
