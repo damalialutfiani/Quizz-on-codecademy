@@ -54,29 +54,29 @@ Lesson 2 – **Queries**
 
 4.	Which of the following is *NOT* a comparison operator in SQL?
 
-a.	__~__
+	a.	__~__
 
-b.	!=
+	b.	!=
 
-c.	<
+	c.	<
 
-d.	>=
+	d.	>=
 
 5.	What does the wildcard character % in the following SQL statement do?
 
->	SELECT *
+		SELECT *
 
->	FROM sports
+		FROM sports
 
->	WHERE name LIKE ‘%ball’;
+		WHERE name LIKE ‘%ball’;
 
-a.	It matches all sports that contain ‘ball’.
+	a.	It matches all sports that contain ‘ball’.
 
-b.	It matches all sports that begin with ‘ball’.
+	b.	It matches all sports that begin with ‘ball’.
 
-c.	It matches all sports that have a pattern like ‘ball’, such as ‘b3ll’ and ‘b@ll’.
+	c.	It matches all sports that have a pattern like ‘ball’, such as ‘b3ll’ and ‘b@ll’.
 
-d.	**It matches all sports that end with ‘ball’.**
+	d.	**It matches all sports that end with ‘ball’.**
 
 6.	What is the correct syntax to query both the name and date columns from the database?
 
