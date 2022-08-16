@@ -54,7 +54,7 @@ Lesson 2 – **Queries**
 
 4.	Which of the following is *NOT* a comparison operator in SQL?
 
-	a.	__~__
+	a.	**~**
 
 	b.	!=
 
@@ -80,43 +80,43 @@ Lesson 2 – **Queries**
 
 6.	What is the correct syntax to query both the name and date columns from the database?
 
->	SELECT _____
+		SELECT _____
 
->	FROM album;
+		FROM album;
 
-a.	name & date
+	a.	name & date
 
-b.	**name, date**
+	b.	**name, date**
 
-c.	name; date
+	c.	name; date
 
-d.	name + date
+	d.	name + date
 
 7.	Which operator would you use to query values that meet all conditions in a *WHERE* clause?
 
-a.	BETWEEN
+	a.	BETWEEN
 
-b.	**AND**
+	b.	**AND**
 
-c.	LIKE
+	c.	LIKE
 
-d.	OR
+	d.	OR
 
 8.	What is *ORDER BY*?
 
-a.	An operator used with the WHERE clause.
+	a.	An operator used with the WHERE clause.
 
-b.	A clause that sorts the result set in alphabetical order only.
+	b.	A clause that sorts the result set in alphabetical order only.
 
-c.	**A clause that sorts the result set alphabetically or numerically.**
+	c.	**A clause that sorts the result set alphabetically or numerically.**
 
-d.	A clause that allows you to select unique values.
+	d.	A clause that allows you to select unique values.
 
 9.	*IS NULL* condition returns true if the field is empty.
 
-a.	False
+	a.	False
 
-b.	**True**
+	b.	**True**
 
 10.	What is *LIKE*?
 
