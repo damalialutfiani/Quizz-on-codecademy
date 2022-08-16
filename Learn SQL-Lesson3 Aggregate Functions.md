@@ -2,55 +2,55 @@ Lesson 3 - **Aggregate Functions**
 
 1.	Aggregate function
 
-a.	Return the total sum of the values in a numeric colum.
+	a.	Return the total sum of the values in a numeric colum.
 
-b.	**Compute a single result set from a set values.**
+	b.	**Compute a single result set from a set values.**
 
-c.	Round the values of a colomn.
+	c.	Round the values of a colomn.
 
-d.	Count the number of rows where the value(s) is not NULL.
+	d.	Count the number of rows where the value(s) is not NULL.
 
 2.	How would you calculate the minimum number of stops from train table?
 
-a.
->	**SELECT MIN(stops)**
+	a.
+	>	**SELECT MIN(stops)**
 
->	**FROM train;**
+	>	**FROM train;**
 
-b.	
->	SELECT SUM(stops)
+	b.	
+	>	SELECT SUM(stops)
 
->	FROM train;
+	>	FROM train;
 
-c.	
->	SELECT AVG(stops)
+	c.	
+	>	SELECT AVG(stops)
 
->	FROM train;
+	>	FROM train;
 
-d.	
->	SELECT MAX(stops)
+	d.	
+	>	SELECT MAX(stops)
 
->	FROM train;
+	>	FROM train;
 
 3.	What does the *COUNT()* function take as argument(s)?
 
-a.	__The name of a column or *.__
+	a.	__The name of a column or *.__
 
-b.	The name of a row.
+	b.	The name of a row.
 
-c.	The name of a table.
+	c.	The name of a table.
 
-d.	The name of a database.
+	d.	The name of a database.
 
 4.	What does the *ROUND* function take as argument(s)?
 
-a.	The table name.
+	a.	The table name.
 
-b.	The column name, and a + or – sign to indicate rounding up or rounding down.
+	b.	The column name, and a + or – sign to indicate rounding up or rounding down.
 
-c.	It does not take an argument.
+	c.	It does not take an argument.
 
-d.	**The column name, and the number of decimal places to round the values in the column to.**
+	d.	**The column name, and the number of decimal places to round the values in the column to.**
 
 5.	Which function takes a column and returns the total sum of the numeric values in that column?
 
