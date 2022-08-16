@@ -120,60 +120,64 @@ Lesson 2 – **Queries**
 
 10.	What is *LIKE*?
 
-a.	**A special operator that can be used with the WHERE clause to search for a pattern.**
+	a.	**A special operator that can be used with the WHERE clause to search for a pattern.**
 
-b.	A clause used to bookmark columns that are frequently queried.
+	b.	A clause used to bookmark columns that are frequently queried.
 
-c.	A statement that allows us to create different outputs.
+	c.	A statement that allows us to create different outputs.
 
-d.	A clause used to selet unique values from a table.
+	d.	A clause used to selet unique values from a table.
 
 11.	What is the correct query to select only the cities with temperatures less than 35?
 
-a.
->	SELECT *
+	a.
 
->	FROM cities;
+	SELECT *
 
-b.
->	__SELECT *__
+	FROM cities;
 
->	**FROM cities**
+	b.
 
->	**WHERE temperature < 35;**
+	__SELECT *__
 
-c.
->	SELECT *
+	**FROM cities**
 
->	FROM cities
+	**WHERE temperature < 35;**
 
->	WHERE temperature = 35;
+	c.
 
-d.
->	SELECT *
+	SELECT *
 
->	FROM cities
+	FROM cities
 
->	WHERE temperature != 35;
+	WHERE temperature = 35;
+
+	d.
+
+	SELECT *
+
+	FROM cities
+
+	WHERE temperature != 35;
 
 12.	Find the error in this code:
 
->	SELECT name,
+	SELECT name,
 
->		CASE
+		CASE
 
->			WHEN imdb_rating > 8 THEN ‘Oscar’
+			WHEN imdb_rating > 8 THEN ‘Oscar’
 
->			WHEN imdb_rating > 7 THEN ‘Good’
+			WHEN imdb_rating > 7 THEN ‘Good’
 
->			WHEN imdb_rating > 6 THEN ‘Fair’
+			WHEN imdb_rating > 6 THEN ‘Fair’
 
->	FROM movies;
+	FROM movies;
 
-a.	The column was not removed.
+	a.	The column was not removed.
 
-b.	Not enough WHEN/THEN statements.
+	b.	Not enough WHEN/THEN statements.
 
-c.	Missing ELSE statement.
+	c.	Missing ELSE statement.
 
-d.	**Missing END statement.**
+	d.	**Missing END statement.**
