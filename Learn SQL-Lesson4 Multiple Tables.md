@@ -112,19 +112,18 @@ Lesson 4 - **Multiple Tables**
 | A  | B  |    | B  | C  |
 | Q  | W  |    | E  | R  |
 | X  | Y  |    | Y  | z  |
-     
-          Became : 
+
+ Became : 
 
 | C1 | C2 | C3 |
 |:--:|:--:|:--:|
 | A  | B  | C  |
 | X  | Y  | Z  |
 
-
-   a.     Um, none of these?
+       a.     Um, none of these?
      
-   b.     **Oh, that’s a INNER JOIN.**
+       b.     **Oh, that’s a INNER JOIN.**
      
-   c.     No, it is a CROSS JOIN.
+       c.     No, it is a CROSS JOIN.
      
-   d.     This is definitely a LEFT JOIN.
+       d.     This is definitely a LEFT JOIN.
