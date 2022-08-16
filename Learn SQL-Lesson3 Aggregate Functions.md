@@ -54,13 +54,13 @@ Lesson 3 - **Aggregate Functions**
 
 5.	Which function takes a column and returns the total sum of the numeric values in that column?
 
-a.	**SUM()**
+	a.	**SUM()**
 
-b.	MAX()
+	b.	MAX()
 
-c.	AVG()
+	c.	AVG()
 
-d.	COUNT()
+	d.	COUNT()
 
 6.	What does the following query do?
 
