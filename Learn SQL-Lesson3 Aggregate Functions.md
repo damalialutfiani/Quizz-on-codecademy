@@ -113,35 +113,35 @@ Lesson 3 - **Aggregate Functions**
 
 9.	Find the error in this code:
 
->	SELECT COUNT(*)
+		SELECT COUNT(*)
 
->	FROM songs
+		FROM songs
 
->	HAVING plays > 100;
+		HAVING plays > 100;
 
-a.	There is no error.
+	a.	There is no error.
 
-b.	There is no such thing as COUNT(*).
+	b.	There is no such thing as COUNT(*).
 
-c.	It should be GROUP BY instead of HAVING.
+	c.	It should be GROUP BY instead of HAVING.
 
-d.	**It should be WHERE instead of HAVING.**
+	d.	**It should be WHERE instead of HAVING.**
 
 10.	What does the following query do?
 
->	SELECT neighborhood,
+		SELECT neighborhood,
 
->		AVG(price)
+			AVG(price)
 
->	FROM apartments
+		FROM apartments
 
->	GROUP BY neighborhood;
+		GROUP BY neighborhood;
 
-a.	**It calculates the average price of apartments in each neighborhood.**
+	a.	**It calculates the average price of apartments in each neighborhood.**
 
-b.	It calculates the lowest price of apartments in each neighborhood.
+	b.	It calculates the lowest price of apartments in each neighborhood.
 
-c.	It calculates the highest price of apartments in each neighborhood.
+	c.	It calculates the highest price of apartments in each neighborhood.
 
-d.	It calculates the total number of apartments in each neighborhood.
+	d.	It calculates the total number of apartments in each neighborhood.
 
