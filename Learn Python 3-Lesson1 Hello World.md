@@ -17,9 +17,12 @@ Lesson 1 – **Hello World**
     c.  *
 
 3.	How do you combine two strings?
--	string1.concatenate(string2)
--	**string1 + string2**
--	string1.combine(string2)
+
+	a.	string1.concatenate(string2)
+
+	b.	**string1 + string2**
+
+	c.	string1.combine(string2)
 
 4.	Which of the following will produce a SyntaxError?
 -	answer = is_this_error
