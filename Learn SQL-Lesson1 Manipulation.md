@@ -95,13 +95,13 @@ Lesson 1 - **Manipulation**
 
     a.
       
-        **CREATE TABLE meals {**
+      **CREATE TABLE meals {**
+           
+      > **name TEXT,**
 
-            **name TEXT,**
+      > **rating INTEGER**
 
-            **rating INTEGER**
-
-        **};**
+      **};**
   
     b. 
       
