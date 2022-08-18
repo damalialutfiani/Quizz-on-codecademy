@@ -29,43 +29,43 @@ Lesson 1 - **Manipulation**
 
 3. What does the *INSERT* statement do?
 
-  a. Insert a new table into a database.
+    a. Insert a new table into a database.
   
-  b. **Insert new rows into a table.**
+    b. **Insert new rows into a table.**
   
-  c. Fetch data from a database.
+    c. Fetch data from a database.
   
-  d. Insert new columns into a table.
+    d. Insert new columns into a table.
   
 4. What are common data types in SQL?
 
-  a. **Integer, Text, Date, Real**
+    a. **Integer, Text, Date, Real**
   
-  b. Row, Column
+    b. Row, Column
   
-  c. id, name, age
+    c. id, name, age
   
-  d. PDF, JPEG, GIF, MP3
+    d. PDF, JPEG, GIF, MP3
   
 5. What is a *NULL* value?
 
-  a. **A value that represents missing or unknown data.**
+    a. **A value that represents missing or unknown data.**
   
-  b. A known value.
+    b. A known value.
   
-  c. A numerical value.
+    c. A numerical value.
   
-  d. An outdated value.
+    d. An outdated value.
 
 6. What is a relational database?
 
-  a. A collection of data organized into rows and columns.
+    a. A collection of data organized into rows and columns.
   
-  b. A set of data values of a particular type.
+    b. A set of data values of a particular type.
   
-  c. A single record in a table.
+    c. A single record in a table.
   
-  d. **A database that organizes information into one or more tables.**
+    d. **A database that organizes information into one or more tables.**
   
 7. Which of the following statement is correct and complete?
 
