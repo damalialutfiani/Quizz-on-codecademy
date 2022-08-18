@@ -133,23 +133,24 @@ Lesson 1 - **Manipulation**
 
 9. Which clause is used with the *ALTER TABLE* statement?
 
-  a. SELECT
+    a. SELECT
   
-  b. **ADD COLUMN**
+    b. **ADD COLUMN**
   
-  c. JOIN
+    c. JOIN
   
-  d. INTO
+    d. INTO
 
 10. What is the purpose of the * character?
-> SELECT *
+        
+        SELECT *
 
-> FROM celebs;
+        FROM celebs;
 
-  a. **It selects every column in the table.**
+    a. **It selects every column in the table.**
   
-  b. It only selects columns where values are not empty in the table.
+    b. It only selects columns where values are not empty in the table.
   
-  c. It selects new values in the table.
+    c. It selects new values in the table.
   
-  d. It selects the leftmost column in the table.
+    d. It selects the leftmost column in the table.
