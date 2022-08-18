@@ -1,9 +1,12 @@
 Lesson 1 – **Hello World**
 
 1.	What is the difference between a *float* and an *int*?
--	A float can only be used with whole numbers. An int can be any number with a decimal point.
--	**A float represents decimal quantities. An int represents whole numbers.**
--	A float contains text information. An int is any number.
+
+    a. A float can only be used with whole numbers. An int can be any number with a decimal point.
+  
+    b. **A float represents decimal quantities. An int represents whole numbers.**
+  
+    c. A float contains text information. An int is any number.
 
 2.	What character begins a comment in Python?
 -	%
