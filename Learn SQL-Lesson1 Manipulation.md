@@ -94,42 +94,42 @@ Lesson 1 - **Manipulation**
 8. What would be correct syntax for a *CREATE TABLE* statement?
 
     a.
-  
-     **CREATE TABLE meals {**
+      
+        **CREATE TABLE meals {**
 
-        **name TEXT,**
+            **name TEXT,**
 
-        **rating INTEGER**
+            **rating INTEGER**
 
-      **};**
+        **};**
   
     b. 
-  
-    CREATE meals {
+      
+        CREATE meals {
 
-        name TEXT,
+            name TEXT,
 
-        rating INTEGER
+            rating INTEGER
 
-    };
+        };
   
     c.
-  
-    NEW TABLE meals {
+    
+        NEW TABLE meals {
 
-        name TEXT,
+            name TEXT,
 
-        rating INTEGER
+            rating INTEGER
 
-    };
+        };
   
     d.
+    
+        CREATE meals
 
-    CREATE meals
+            name TEXT
 
-        name TEXT
-
-        rating INTEGER
+            rating INTEGER
 
 9. Which clause is used with the *ALTER TABLE* statement?
 
