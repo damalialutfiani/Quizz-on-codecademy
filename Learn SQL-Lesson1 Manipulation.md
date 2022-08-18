@@ -69,27 +69,27 @@ Lesson 1 - **Manipulation**
   
 7. Which of the following statement is correct and complete?
 
-  a.
-  
-> **DELETE FROM icecream**
+    a.
+    
+    **DELETE FROM icecream**
 
-> **WHERE flavor is NULL;**
+    **WHERE flavor is NULL;**
   
-  b. 
+    b. 
   
-> WHERE flavor is NULL
+    WHERE flavor is NULL
 
-> DELETE FROM icecream;
+    DELETE FROM icecream;
   
-  c.
+    c.
   
-> DELETE icecream
+    DELETE icecream
 
-> WHERE flavor NULL;
+    WHERE flavor NULL;
   
-  d.
+    d.
 
-> WHERE flavor NULL;
+    WHERE flavor NULL;
 
 8. What would be correct syntax for a *CREATE TABLE* statement?
 
