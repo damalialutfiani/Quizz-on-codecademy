@@ -3,28 +3,29 @@ Lesson 1 - **Manipulation**
 
 1. What does SQL stand for?
 
-  a. Standard Query Language
+    a. Standard Query Language
   
-  b. Statistical Query Language
+    b. Statistical Query Language
   
-  c. Static Query Language
+    c. Static Query Language
   
-  d. **Structured Query Language**
+    d. **Structured Query Language**
   
 2. What would you need to complete the associated *UPDATE* statement?
-> UPDATE ___
 
-> SET height = 6
+        UPDATE ___
 
-> WHERE id = 1 ;
+        SET height = 6
 
-  a. **A table name**
+        WHERE id = 1 ;
+
+    a. **A table name**
   
-  b. A column name
+    b. A column name
   
-  c. A row name
+    c. A row name
   
-  d. The keyword INTO
+    d. The keyword INTO
 
 3. What does the *INSERT* statement do?
 
