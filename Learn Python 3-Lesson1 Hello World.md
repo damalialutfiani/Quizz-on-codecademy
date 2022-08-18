@@ -9,9 +9,12 @@ Lesson 1 – **Hello World**
     c. A float contains text information. An int is any number.
 
 2.	What character begins a comment in Python?
--	%
--	**#**
--	*
+
+    a.	%
+
+    b.  **#**
+	
+    c.  *
 
 3.	How do you combine two strings?
 -	string1.concatenate(string2)
