@@ -73,23 +73,36 @@ Lesson 1 – **Hello World**
 	c.	“What a cool message!” gets printed to the console.
 
 8.	What is the output of the following code?
-cool_number = 12 + 30
-cool_number * 5
-print(cool_number)
--	**42**
--	210
--	cool_number
+
+		cool_number = 12 + 30
+		
+		cool_number * 5
+
+		print(cool_number)
+		
+	a.	**42**
+
+	b.	210
+	
+	c.	cool_number
 
 9.	Wha number is saved to exponented_variable in the following expression?
-exponented_variable = 2 ** 4
--	**16**
--	8
+
+		exponented_variable = 2 ** 4
+		
+	a.	**16**
+	
+	b.	8
 
 10.	What is Python syntax for creating a variable and assigning the number 10 to it?
--	**variable_name = 10**
--	new variable_name = 10
--	def variable_name = 10
--	variable_name == 10
+
+	a.	**variable_name = 10**
+
+	b.	new variable_name = 10
+
+	c.	def variable_name = 10
+
+	d.	variable_name == 10
 
 11.	How does one define a multi-line string in Python?
 -	###
