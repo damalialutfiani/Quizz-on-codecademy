@@ -25,19 +25,30 @@ Lesson 1 – **Hello World**
 	c.	string1.combine(string2)
 
 4.	Which of the following will produce a SyntaxError?
--	answer = is_this_error
--	answer = “Is this an error”
--	**answer = “Is this an error’**
+
+	a.	answer = is_this_error
+	
+	b.	answer = “Is this an error”
+	
+	c.	**answer = “Is this an error’**
 
 5.	Which of the following defined variable is a string?
-cool_variable_1 = 23.18
-cool_variable_2 = 9
-cool_variable_3 = “Important Message!”
-cool_variable_4 = 14 ** 3
--	cool_variable_2
--	**cool_variable_3**
--	cool_variable_1
--	cool_variable_4
+
+		cool_variable_1 = 23.18
+	
+		cool_variable_2 = 9
+	
+		cool_variable_3 = “Important Message!”
+	
+		cool_variable_4 = 14 ** 3
+	
+	a.	cool_variable_2
+	
+	b.	**cool_variable_3**
+	
+	c.	cool_variable_1
+	
+	d.	cool_variable_4
 
 6.	Which function outputs text to the terminal?
 -	**print()**
