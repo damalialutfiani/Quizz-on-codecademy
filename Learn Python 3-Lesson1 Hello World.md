@@ -51,17 +51,26 @@ Lesson 1 – **Hello World**
 	d.	cool_variable_4
 
 6.	Which function outputs text to the terminal?
--	**print()**
--	write()
--	type()
--	output()
+
+	a.	**print()**
+	
+	b.	write()
+	
+	c.	type()
+	
+	d.	output()
 
 7.	What happens when running the following code?
-message = what a cool message!
-print(message)
--	“message” is printed.
--	**Python throws a SyntaxError because the string is not surrounded by quotes.**
--	“What a cool message!” gets printed to the console.
+
+		message = what a cool message!
+
+		print(message)
+		
+	a.	“message” is printed.
+	
+	b.	**Python throws a SyntaxError because the string is not surrounded by quotes.**
+	
+	c.	“What a cool message!” gets printed to the console.
 
 8.	What is the output of the following code?
 cool_number = 12 + 30
