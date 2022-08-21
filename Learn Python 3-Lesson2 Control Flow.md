@@ -49,9 +49,12 @@ This is also printed.
 -	**True**
 
 5.	Determine the truth value of the following expression:
-(4	<= 2 * 3) and (7 + 1 == 8)
+
+		(4 <= 2 * 3) and (7 + 1 == 8)
+
 -	**True**
 -	False
+
 6.	Read the following code carefully. What will happen when the code is executed?
 x = 0
 
