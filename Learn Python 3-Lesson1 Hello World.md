@@ -119,12 +119,16 @@ This
 ***
 
 12.	What is the value of total_cost that ges printed?
-total_cost = 5
-total_cost += 10
-print(total_cost)
--	5
--	**15**
--	10
+
+		total_cost = 5
+		total_cost += 10
+		print(total_cost)
+
+	a.	5
+	
+	b.	**15**
+	
+	c.	10
 
 13.	What is the value of modulo_variable in the following expression?
 modulo_variable = 14 % 4
