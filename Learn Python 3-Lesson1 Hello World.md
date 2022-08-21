@@ -105,18 +105,36 @@ Lesson 1 – **Hello World**
 	d.	variable_name == 10
 
 11.	How does one define a multi-line string in Python?
--	###
-Like
-This
-###
--	“””
-Like
-This
-“””
--	***
-Like
-This
-***
+
+	a.	
+	
+		###
+	
+		Like
+		
+		This
+		
+		###
+	
+	b.	
+	
+		“””
+	
+		Like
+		
+		This
+		
+		“””
+		
+	c.	
+	
+		***
+	
+		Like
+		
+		This
+		
+		***
 
 12.	What is the value of total_cost that ges printed?
 
