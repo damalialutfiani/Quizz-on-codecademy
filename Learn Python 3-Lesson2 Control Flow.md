@@ -28,7 +28,9 @@ This is also printed.
 -	Nothing is printed.
 	
 2.	Determine the truth value of the following expression:
-3	** 2 + 1 != 30 / 3
+
+		3 ** 2 + 1 != 30 / 3
+
 -	True
 -	**False**
 3.	Determine the truth value of the following expression :
