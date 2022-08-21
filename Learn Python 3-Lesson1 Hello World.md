@@ -118,13 +118,13 @@ Lesson 1 – **Hello World**
 	
 	b.	
 	
-		“””
+	__“””__
+
+	**Like**
 	
-		Like
-		
-		This
-		
-		“””
+	__This__
+	
+	**“””**
 		
 	c.	
 	
