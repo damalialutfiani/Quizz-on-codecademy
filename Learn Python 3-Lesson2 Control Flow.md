@@ -1,16 +1,25 @@
-Lesson 2 – Control Flow
-1.	Consider the code below; what would this prin to the terminal?
+Lesson 2 – **Control Flow**
 
-x=5
+1.	Consider the code below; what would this print to the terminal?
 
-if x <= 2 :
-	print(“This is printed.”)
-if x <= 4 :
-	print(“This is also printed.”)
-if x <= 6 :
-	print(“Is this printed?”)
-if x <= 8 :
-	print(“This might be printed.”)
+		x=5
+
+		if x <= 2 :
+		
+			print(“This is printed.”)
+			
+		if x <= 4 :
+		
+			print(“This is also printed.”)
+			
+		if x <= 6 :
+		
+			print(“Is this printed?”)
+			
+		if x <= 8 :
+		
+			print(“This might be printed.”)
+		
 -	Is this printed?
 -	**Is this printed?**
 **This might be printed.**
