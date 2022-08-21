@@ -33,14 +33,21 @@ This is also printed.
 
 -	True
 -	**False**
+
 3.	Determine the truth value of the following expression :
-(9 – 4) * 2 == 77 / 7 -1
+
+		(9 – 4) * 2 == 77 / 7 -1
+
 -	False
 -	**True**
+
 4.	Determine the truth value of the following expression :
-4 * 5 <= 21 - 1
+
+		4 * 5 <= 21 - 1
+
 -	False
 -	**True**
+
 5.	Determine the truth value of the following expression:
 (4	<= 2 * 3) and (7 + 1 == 8)
 -	**True**
