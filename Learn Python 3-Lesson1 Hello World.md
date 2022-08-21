@@ -131,7 +131,11 @@ This
 	c.	10
 
 13.	What is the value of modulo_variable in the following expression?
-modulo_variable = 14 % 4
--	56
--	3.5
--	**2**
+
+		modulo_variable = 14 % 4
+
+	a.	56
+	
+	b.	3.5
+	
+	c.	**2**
