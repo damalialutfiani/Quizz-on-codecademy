@@ -56,14 +56,20 @@ This is also printed.
 -	False
 
 6.	Read the following code carefully. What will happen when the code is executed?
-x = 0
 
-if x = 0:
-	print(“x is equal to zero.”)
-if x >= 0:
-	print(“x is greater than zero.”)
-else:
-	print(“x is less than zero.”)
+		x = 0
+
+		if x = 0:
+	
+			print(“x is equal to zero.”)
+
+		if x >= 0:
+	
+			print(“x is greater than zero.”)
+
+		else:
+	
+			print(“x is less than zero.”)
 
 -	**There will be a SyntaxError.**
 -	“x is equal to zero.” and “x is greater than zero.” will print to the terminal.
