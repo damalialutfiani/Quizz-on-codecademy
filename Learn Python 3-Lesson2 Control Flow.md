@@ -64,8 +64,9 @@ Lesson 2 – **Control Flow**
 
 		(4 <= 2 * 3) and (7 + 1 == 8)
 
--	**True**
--	False
+	a.	**True**
+	
+	b.	False
 
 6.	Read the following code carefully. What will happen when the code is executed?
 
@@ -83,10 +84,14 @@ Lesson 2 – **Control Flow**
 	
 			print(“x is less than zero.”)
 
--	**There will be a SyntaxError.**
--	“x is equal to zero.” and “x is greater than zero.” will print to the terminal.
--	“x is greater than zero.” will print to the terminal.
--	“x is equal to zero.” will print to the terminal
+	a.	**There will be a SyntaxError.**
+	
+	b.	“x is equal to zero.” and “x is greater than zero.” will print to the terminal.
+	
+	c.	“x is greater than zero.” will print to the terminal.
+	
+	d.	“x is equal to zero.” will print to the terminal
+	
 7.	Which of the following variables contains a Boolean value?
 - my_chill_variable = “This is True.”
 - **my_cool_variable = 7 +8 != 13**
