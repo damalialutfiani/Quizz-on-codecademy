@@ -48,15 +48,17 @@ Lesson 2 – **Control Flow**
 
 		(9 – 4) * 2 == 77 / 7 -1
 
--	False
--	**True**
+	a.	False
+	
+	b.	**True**
 
 4.	Determine the truth value of the following expression :
 
 		4 * 5 <= 21 - 1
 
--	False
--	**True**
+	a.	False
+	
+	b.	**True**
 
 5.	Determine the truth value of the following expression:
 
