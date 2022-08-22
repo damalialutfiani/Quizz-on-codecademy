@@ -20,19 +20,29 @@ Lesson 2 – **Control Flow**
 		
 			print(“This might be printed.”)
 		
--	Is this printed?
--	**Is this printed?**
-**This might be printed.**
--	This is printed.
-This is also printed.
--	Nothing is printed.
+	a.	Is this printed?
+	
+	b.	
+	
+	**Is this printed?**
+		
+	**This might be printed.**
+		
+	c.	
+	
+	This is printed.
+	
+	This is also printed.
+		
+	d.	Nothing is printed.
 	
 2.	Determine the truth value of the following expression:
 
 		3 ** 2 + 1 != 30 / 3
 
--	True
--	**False**
+	a.	True
+	
+	b.	**False**
 
 3.	Determine the truth value of the following expression :
 
