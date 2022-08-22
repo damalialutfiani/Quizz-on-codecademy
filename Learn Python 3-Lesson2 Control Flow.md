@@ -93,12 +93,21 @@ Lesson 2 – **Control Flow**
 	d.	“x is equal to zero.” will print to the terminal
 	
 7.	Which of the following variables contains a Boolean value?
-- my_chill_variable = “This is True.”
-- **my_cool_variable = 7 +8 != 13**
-- my_super_variable = “True” + “False”
-- my_fun_variable = 2 + 9
+
+	a.	my_chill_variable = “This is True.”
+	
+	b.	**my_cool_variable = 7 +8 != 13**
+	
+	c.	my_super_variable = “True” + “False”
+	
+	d.	my_fun_variable = 2 + 9
+	
 8.  Which of the following is a Boolean expression?
-- Three is the most elegant number.
-- The New York Yankees are the classiest baseball team.
-- **My name is Angelo.**
-- This quiz is very hard.
+
+	a.	Three is the most elegant number.
+	
+	b.	The New York Yankees are the classiest baseball team.
+	
+	c.	**My name is Angelo.**
+	
+	d.	This quiz is very hard.
