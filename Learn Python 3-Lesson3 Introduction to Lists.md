@@ -29,10 +29,14 @@ Lesson 3 – **Introduction to Lists**
       So, the answer is **interview_line[2] = “Sarah”**
 
 3.	Which of the following is the correct way to remove the first instance of “Rio” from name_list?
--	**name_list.remove(“Rio”)**
--	remove(name_list[“Rio”])
--	“Rio”.remove(name_list)
--	name_list.remove([Rio])
+
+      a.        **name_list.remove(“Rio”)**
+
+      b.        remove(name_list[“Rio”])
+        
+      c.        “Rio”.remove(name_list)
+        
+      d.        name_list.remove([Rio])
 
 4.	Which of the following is the correct way to turn the following into a list of names: “Tom”, “Jerry”, “Tweetie”, “Sylvester”?
 -	names = [“Tom” “Jerry” “Tweetie” “Sylvester”]
