@@ -49,17 +49,29 @@ Lesson 3 – **Introduction to Lists**
       d.      **names = [“Tom”, “Jerry”, “Tweetie”, “Sylvester”]**
 
 5.	Define a two-dimensional list called student_data using the table below to represent student names and their respective quiz scores.
-The order of elements should be ordered using the index in the table.
-Element	Index
-[“Olga”, 90]	0
-[“Maksim”, 77.45]	1
-[“Doug”, 80.3]	2
-[“Sophie”, 87.45]	3
-___ = [ ___ , ___ , ___ , ___ ]
--	[“Maksim”, 77.45]
--	student_data
--	[“Olga”, 90]
--	[“Sophie”, 87.45]
--	[“Doug”, 80.3]
-Click or drag and drop to fill in the blank
-So, the answer is ** student_data = [ [“Olga”, 90], [“Maksim”, 77.45], [“Doug”, 80.3], [“Sophie”, 87.45] ] **
+
+     The order of elements should be ordered using the index in the table.
+
+      | Element | Index |
+      |:--------|:-----:|
+      |[“Olga”, 90]| 0  |
+      |[“Maksim”, 77.45]| 1  |
+      |[“Doug”, 80.3]| 2  |
+      |[“Sophie”, 87.45]| 3  |
+       
+             
+      ___ = [ ___ , ___ , ___ , ___ ]
+        
+     a. [“Maksim”, 77.45]
+       
+     b. student_data
+       
+     c. [“Olga”, 90]
+       
+     d. [“Sophie”, 87.45]
+       
+     e. [“Doug”, 80.3]
+
+     Click or drag and drop to fill in the blank
+     
+     So, the answer is **student_data = [ [“Olga”, 90], [“Maksim”, 77.45], [“Doug”, 80.3], [“Sophie”, 87.45] ]**
