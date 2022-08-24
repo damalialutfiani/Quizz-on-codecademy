@@ -104,26 +104,26 @@ Lesson 4 - **Multiple Tables**
      
 10.	Which kind of join is in the animation below?
 
-| First Table | Second Table |
-|:-----------:|:------------:|
+     | First Table | Second Table |
+     |:-----------:|:------------:|
 
-| C1 | C2 |    | C2 | C3 |
-|:--:|:--:|:--:|:--:|:--:|
-| A  | B  |    | B  | C  |
-| Q  | W  |    | E  | R  |
-| X  | Y  |    | Y  | z  |
+     | C1 | C2 |    | C2 | C3 |
+     |:--:|:--:|:--:|:--:|:--:|
+     | A  | B  |    | B  | C  |
+     | Q  | W  |    | E  | R  |
+     | X  | Y  |    | Y  | z  |
 
- Became : 
+     Became : 
 
-| C1 | C2 | C3 |
-|:--:|:--:|:--:|
-| A  | B  | C  |
-| X  | Y  | Z  |
+     | C1 | C2 | C3 |
+     |:--:|:--:|:--:|
+     | A  | B  | C  |
+     | X  | Y  | Z  |
 
-a.     Um, none of these?
+     a.     Um, none of these?
      
-b.     **Oh, that’s a INNER JOIN.**
+     b.     **Oh, that’s a INNER JOIN.**
      
-c.     No, it is a CROSS JOIN.
+     c.     No, it is a CROSS JOIN.
      
-d.     This is definitely a LEFT JOIN.
+     d.     This is definitely a LEFT JOIN.
