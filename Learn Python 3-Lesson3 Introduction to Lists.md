@@ -1,9 +1,12 @@
 Lesson 3 – **Introduction to Lists**
 
 1.	Is the following list a valid Python list?
-mylist = [“Mount Everest”, 29029]
--	No, lists can only contain one data type.
--	**Yes, lists can contain multiple data types.**
+
+        mylist = [“Mount Everest”, 29029]
+    
+    a.  No, lists can only contain one data type.
+    
+    b.  **Yes, lists can contain multiple data types.**
 
 2.	How would you properly modify the list interview_line to replace “Ben” with “Sarah”
 interview_line = [“Jess”, “Noelle”, “Ben”, “Orlando”]
