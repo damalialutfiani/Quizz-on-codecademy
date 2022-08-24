@@ -9,15 +9,24 @@ Lesson 3 – **Introduction to Lists**
     b.  **Yes, lists can contain multiple data types.**
 
 2.	How would you properly modify the list interview_line to replace “Ben” with “Sarah”
-interview_line = [“Jess”, “Noelle”, “Ben”, “Orlando”]
-interview_line[ ___ ] = ___
--	**2**
--	3
--	0
--	“Ben”
--	**“Sarah”**
-Click or drag and drop to fill in the blank
-So, the answer is ** interview_line[2] = “Sarah” **
+
+        interview_line = [“Jess”, “Noelle”, “Ben”, “Orlando”]
+
+        interview_line[ ___ ] = ___
+
+      a.      **2**
+        
+      b.      3
+        
+      c.      0
+        
+      d.      “Ben”
+       
+      e.      **“Sarah”**
+        
+      Click or drag and drop to fill in the blank
+
+      So, the answer is **interview_line[2] = “Sarah”**
 
 3.	Which of the following is the correct way to remove the first instance of “Rio” from name_list?
 -	**name_list.remove(“Rio”)**
