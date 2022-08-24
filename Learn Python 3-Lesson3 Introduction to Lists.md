@@ -39,10 +39,14 @@ Lesson 3 – **Introduction to Lists**
       d.        name_list.remove([Rio])
 
 4.	Which of the following is the correct way to turn the following into a list of names: “Tom”, “Jerry”, “Tweetie”, “Sylvester”?
--	names = [“Tom” “Jerry” “Tweetie” “Sylvester”]
--	names = “Tom”, “Jerry”, “Tweetie”, “Sylvester”
--	names = {“Tom”, “Jerry”, “Tweetie”, “Sylvester”}
--	**names = [“Tom”, “Jerry”, “Tweetie”, “Sylvester”]**
+
+      a.      names = [“Tom” “Jerry” “Tweetie” “Sylvester”]
+        
+      b.      names = “Tom”, “Jerry”, “Tweetie”, “Sylvester”
+        
+      c.      names = {“Tom”, “Jerry”, “Tweetie”, “Sylvester”}
+        
+      d.      **names = [“Tom”, “Jerry”, “Tweetie”, “Sylvester”]**
 
 5.	Define a two-dimensional list called student_data using the table below to represent student names and their respective quiz scores.
 The order of elements should be ordered using the index in the table.
