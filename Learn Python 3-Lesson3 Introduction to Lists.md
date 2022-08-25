@@ -75,3 +75,42 @@ Lesson 3 – **Introduction to Lists**
      Click or drag and drop to fill in the blank
      
      So, the answer is **student_data = [ [“Olga”, 90], [“Maksim”, 77.45], [“Doug”, 80.3], [“Sophie”, 87.45] ]**
+
+1.	The python method .remove() will delete every instance of a provided value.
+-	True
+-	**False**
+2.	Which of the following is the correct way to add the number 4 to number_list?
+-	number_list + 4
+-	number_list.append([4])
+-	4.append(number_list)
+-	**number_list.append(4)**
+3.	Which of the following is the correct way to create an empty list?
+-	empty_list = [0]
+-	empty_list = {}
+-	**empty_list = []**
+-	empty_list = None
+4.	Modify the two-dimensional list student_hobbies so that “Samantha” has the hobby of “Football” instead of “Cricket”.
+Student_hobbies = [[“Nitaya”, “Karate”], [“Samantha”, “Cricket”], [“Noelle”, “Painting”]]
+___ [ ___ ][ ___ ] = ___
+-	1
+-	“Samantha”
+-	student_hobbies
+-	1
+-	“Football”
+-	2
+-	0
+Click or drag and drop to fill in the blank
+So, the answer is ** student_hobbies[1][1]= “Footbal” **
+5.	How would you access “77.45” from the following list?
+student_data = [[“Ali”, 90], [“Bob”, 87.5], [“Cam”, 80.3], [“Doug”, 77.45]]
+-	student_data = [0][0]
+-	student_data = [2][1]
+-	student_data = [4][2]
+-	**student_data = [-1][-1]**
+6.	What would be the proper way to access “Strawberry” from the list groceries
+groceries = [“Grapes”, “Strawberry”, “Starfruit”, “Apple”]
+-	**groceries[1]**
+-	groceries[0][1]
+-	groceries[2]
+-	groceries[“Strawberry”]
+
