@@ -77,8 +77,10 @@ Lesson 3 – **Introduction to Lists**
      So, the answer is **student_data = [ [“Olga”, 90], [“Maksim”, 77.45], [“Doug”, 80.3], [“Sophie”, 87.45] ]**
 
 6.	The python method .remove() will delete every instance of a provided value.
--	True
--	**False**
+
+        a.      True
+        
+        b.      **False**
 
 7.	Which of the following is the correct way to add the number 4 to number_list?
 -	number_list + 4
