@@ -78,9 +78,9 @@ Lesson 3 – **Introduction to Lists**
 
 6.	The python method .remove() will delete every instance of a provided value.
 
-        a.      True
+      a.      True
         
-        b.      **False**
+      b.      **False**
 
 7.	Which of the following is the correct way to add the number 4 to number_list?
 -	number_list + 4
