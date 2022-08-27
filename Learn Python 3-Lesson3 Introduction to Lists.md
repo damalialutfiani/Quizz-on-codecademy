@@ -83,10 +83,14 @@ Lesson 3 – **Introduction to Lists**
       b.      **False**
 
 7.	Which of the following is the correct way to add the number 4 to number_list?
--	number_list + 4
--	number_list.append([4])
--	4.append(number_list)
--	**number_list.append(4)**
+
+      a.      number_list + 4
+        
+      b.      number_list.append([4])
+        
+      c.      4.append(number_list)
+       
+      d.      **number_list.append(4)**
 
 8.	Which of the following is the correct way to create an empty list?
 -	empty_list = [0]
