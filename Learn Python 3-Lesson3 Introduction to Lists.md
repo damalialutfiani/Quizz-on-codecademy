@@ -127,11 +127,16 @@ Lesson 3 – **Introduction to Lists**
       So, the answer is **student_hobbies[1][1]= “Footbal”**
 
 10.	How would you access “77.45” from the following list?
+
 student_data = [[“Ali”, 90], [“Bob”, 87.5], [“Cam”, 80.3], [“Doug”, 77.45]]
--	student_data = [0][0]
--	student_data = [2][1]
--	student_data = [4][2]
--	**student_data = [-1][-1]**
+
+        a.      student_data = [0][0]
+        
+        b.      student_data = [2][1]
+        
+        c.      student_data = [4][2]
+        
+        d.      **student_data = [-1][-1]**
 
 11.	What would be the proper way to access “Strawberry” from the list groceries
 groceries = [“Grapes”, “Strawberry”, “Starfruit”, “Apple”]
