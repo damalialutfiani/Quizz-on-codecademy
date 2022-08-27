@@ -139,9 +139,14 @@ Lesson 3 – **Introduction to Lists**
        d.      **student_data = [-1][-1]**
 
 11.	What would be the proper way to access “Strawberry” from the list groceries
-groceries = [“Grapes”, “Strawberry”, “Starfruit”, “Apple”]
--	**groceries[1]**
--	groceries[0][1]
--	groceries[2]
--	groceries[“Strawberry”]
+
+        groceries = [“Grapes”, “Strawberry”, “Starfruit”, “Apple”]
+        
+       a.      **groceries[1]**
+        
+       b.      groceries[0][1]
+        
+       c.      groceries[2]
+        
+       d.      groceries[“Strawberry”]
 
