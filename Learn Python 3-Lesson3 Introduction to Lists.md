@@ -103,17 +103,28 @@ Lesson 3 – **Introduction to Lists**
       d.      empty_list = None
 
 9.	Modify the two-dimensional list student_hobbies so that “Samantha” has the hobby of “Football” instead of “Cricket”.
-Student_hobbies = [[“Nitaya”, “Karate”], [“Samantha”, “Cricket”], [“Noelle”, “Painting”]]
-___ [ ___ ][ ___ ] = ___
--	1
--	“Samantha”
--	student_hobbies
--	1
--	“Football”
--	2
--	0
-Click or drag and drop to fill in the blank
-So, the answer is ** student_hobbies[1][1]= “Footbal” **
+
+        Student_hobbies = [[“Nitaya”, “Karate”], [“Samantha”, “Cricket”], [“Noelle”, “Painting”]]
+        
+        ___ [ ___ ][ ___ ] = ___
+
+      a.      **1**
+        
+      b.      “Samantha”
+        
+      c.      **student_hobbies**
+        
+      d.      **1**
+        
+      e.      **“Football”**
+        
+      f.      2
+        
+      g.      0
+
+      Click or drag and drop to fill in the blank
+        
+      So, the answer is **student_hobbies[1][1]= “Footbal”**
 
 10.	How would you access “77.45” from the following list?
 student_data = [[“Ali”, 90], [“Bob”, 87.5], [“Cam”, 80.3], [“Doug”, 77.45]]
