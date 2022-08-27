@@ -93,10 +93,14 @@ Lesson 3 – **Introduction to Lists**
       d.      **number_list.append(4)**
 
 8.	Which of the following is the correct way to create an empty list?
--	empty_list = [0]
--	empty_list = {}
--	**empty_list = []**
--	empty_list = None
+
+      a.      empty_list = [0]
+        
+      b.      empty_list = {}
+        
+      c.      **empty_list = []**
+        
+      d.      empty_list = None
 
 9.	Modify the two-dimensional list student_hobbies so that “Samantha” has the hobby of “Football” instead of “Cricket”.
 Student_hobbies = [[“Nitaya”, “Karate”], [“Samantha”, “Cricket”], [“Noelle”, “Painting”]]
