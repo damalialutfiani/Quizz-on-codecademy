@@ -1,9 +1,14 @@
 Lesson 3 – **Working with Lists in Python**
 1.	Which of the following commands will return the length of the list mylist?
--	**len(mylist)**
--	length(mylist)
--	mylist.len()
--	mylist.length()
+
+    a.  **len(mylist)**
+  
+    b.  length(mylist)
+  
+    c.  mylist.len()
+  
+    d.  mylist.length()
+  
 2.	Which of the following lines of code would slice the list [“b”, “c”] from mylist:
 Mylist = [“a”, “b”, “c”, “d”, “e”]
 -	mylist[1,3]
