@@ -44,11 +44,17 @@ Lesson 3 – **Working with Lists in Python**
     So, the answer is **animals.insert( 3 , “Buffalo” )**
     
 4.	Which of the following lines of code would remove “Breakdancing” from the list olympic_sports.
-olympic_sports = [“Hockey”, “Swimming”, “Fencing”, “Volleyball”, “Breakdancing”]
--	olympic_sports.pop[“Breakdancing”]
--	olympic_sports.pop(-2)
--	**olympic_sports.pop()**
--	olympic_sports.pop(3)
+
+        olympic_sports = [“Hockey”, “Swimming”, “Fencing”, “Volleyball”, “Breakdancing”]
+
+    a.  olympic_sports.pop[“Breakdancing”]
+    
+    b.  olympic_sports.pop(-2)
+    
+    c.  **olympic_sports.pop()**
+    
+    d.  olympic_sports.pop(3)
+    
 5.	Which of the following lines of code will tell us how many times “win” appears in the list game_results?
 -	**game_results.count(“win”)**
 -	“win”.count(game_results)
