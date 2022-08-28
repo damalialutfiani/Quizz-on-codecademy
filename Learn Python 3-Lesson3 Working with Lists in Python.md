@@ -10,11 +10,17 @@ Lesson 3 – **Working with Lists in Python**
     d.  mylist.length()
   
 2.	Which of the following lines of code would slice the list [“b”, “c”] from mylist:
-Mylist = [“a”, “b”, “c”, “d”, “e”]
--	mylist[1,3]
--	mylist[1:2]
--	mylist[1,2]
--	**mylist[1:3]**
+
+        mylist = [“a”, “b”, “c”, “d”, “e”]
+    
+    a.  mylist[1,3]
+    
+    b.  mylist[1:2]
+    
+    c.  mylist[1,2]
+    
+    d.  **mylist[1:3]**
+    
 3.	Complete the code to insert “Buffalo” into a list called animals as the 4th element?
 ___ . ___ ( ___ , ___ )
 -	**“Buffalo”**
