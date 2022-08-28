@@ -56,6 +56,9 @@ Lesson 3 – **Working with Lists in Python**
     d.  olympic_sports.pop(3)
     
 5.	Which of the following lines of code will tell us how many times “win” appears in the list game_results?
--	**game_results.count(“win”)**
--	“win”.count(game_results)
--	Count(game_results, “win”)
+
+    a.  **game_results.count(“win”)**
+    
+    b.  “win”.count(game_results)
+    
+    c.  count(game_results, “win”)
