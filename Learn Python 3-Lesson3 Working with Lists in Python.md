@@ -22,16 +22,27 @@ Lesson 3 – **Working with Lists in Python**
     d.  **mylist[1:3]**
     
 3.	Complete the code to insert “Buffalo” into a list called animals as the 4th element?
-___ . ___ ( ___ , ___ )
--	**“Buffalo”**
--	**3**
--	**animals**
--	2
--	4
--	**insert**
--	append
-Click or drag and drop to fill in the blank
-So, the answer is ** animals.insert( 3 , “Buffalo” )**
+
+        ___ . ___ ( ___ , ___ )
+
+    a.  **“Buffalo”**
+    
+    b.  **3**
+    
+    c.  **animals**
+    
+    d.  2
+    
+    e.  4
+    
+    f.  **insert**
+    
+    g.  append
+    
+    Click or drag and drop to fill in the blank
+    
+    So, the answer is **animals.insert( 3 , “Buffalo” )**
+    
 4.	Which of the following lines of code would remove “Breakdancing” from the list olympic_sports.
 olympic_sports = [“Hockey”, “Swimming”, “Fencing”, “Volleyball”, “Breakdancing”]
 -	olympic_sports.pop[“Breakdancing”]
