@@ -2,11 +2,11 @@ Lesson 3 - **Aggregate Functions**
 
 1.	Aggregate function
 
-	a.	Return the total sum of the values in a numeric colum.
+	a.	Return the total sum of the values in a numeric column.
 
 	b.	**Compute a single result set from a set values.**
 
-	c.	Round the values of a colomn.
+	c.	Round the values of a column.
 
 	d.	Count the number of rows where the value(s) is not NULL.
 
