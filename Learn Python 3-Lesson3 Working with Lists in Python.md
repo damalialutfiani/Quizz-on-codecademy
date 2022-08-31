@@ -100,10 +100,14 @@ Lesson 3 – **Working with Lists in Python**
     d.  [2, 6, 10, 12]
 
 9.	Which of the following would create a range object that starts at 3 and goes up to 15 (non-inclusive) in increments of 4?
--	**range(3, 15, 4)**
--	range(4, 15, 3)
--	range(3, 4, 15)
--	range(15, 4, 3)
+
+    a.  **range(3, 15, 4)**
+    
+    b.  range(4, 15, 3)
+    
+    c.  range(3, 4, 15)
+    
+    d.  range(15, 4, 3)
 
 10.	Fill in the code that would allow us to remove the 5th element from the following list :
 pizza_toppings = [“Cheese”, “Pepperoni”, “Garlic”, “Pineapple”, “Mushroom”, “Prosciutto”]
