@@ -69,10 +69,13 @@ Lesson 3 – **Working with Lists in Python**
     
         print(my_list[2:5])
         
--	[“b”, “c”, “d”, “e”]
--	[“b”, “c”, “d”]
--	**[“c”, “d”, “e”]**
--	[“c”, “d”, “e”, “f”]
+    a.  [“b”, “c”, “d”, “e”]
+    
+    b.  [“b”, “c”, “d”]
+    
+    c.  **[“c”, “d”, “e”]**
+    
+    d.  [“c”, “d”, “e”, “f”]
 
 7.	Which of the following lines of code will correctly sort mylist?
 -	**mylist.sort()**
