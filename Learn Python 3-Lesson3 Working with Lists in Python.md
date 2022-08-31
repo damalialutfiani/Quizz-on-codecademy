@@ -88,11 +88,16 @@ Lesson 3 – **Working with Lists in Python**
     d.  mylist.sort
 
 8.	Which list would be created by running this code?
-list(range(2, 14, 4))
--	[4, 8, 10, 12, 14]
--	**[2, 6, 10]**
--	[2, 6, 10, 14]
--	[2, 6, 10, 12]
+
+        list(range(2, 14, 4))
+        
+    a.  [4, 8, 10, 12, 14]
+    
+    b.  **[2, 6, 10]**
+    
+    c.  [2, 6, 10, 14]
+    
+    d.  [2, 6, 10, 12]
 
 9.	Which of the following would create a range object that starts at 3 and goes up to 15 (non-inclusive) in increments of 4?
 -	**range(3, 15, 4)**
