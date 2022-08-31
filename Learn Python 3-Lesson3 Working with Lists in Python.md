@@ -78,10 +78,14 @@ Lesson 3 – **Working with Lists in Python**
     d.  [“c”, “d”, “e”, “f”]
 
 7.	Which of the following lines of code will correctly sort mylist?
--	**mylist.sort()**
--	sort(mylist)
--	mylist.sorted()
--	mylist.sort
+
+    a.  **mylist.sort()**
+    
+    b.  sort(mylist)
+    
+    c.  mylist.sorted()
+    
+    d.  mylist.sort
 
 8.	Which list would be created by running this code?
 list(range(2, 14, 4))
