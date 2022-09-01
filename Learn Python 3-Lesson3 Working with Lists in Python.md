@@ -133,10 +133,13 @@ Lesson 3 – **Working with Lists in Python**
 
         friends = [“Annabelle”, “Greg”, “Katya”, “Sol”]
         
--	friends.insert(-3, “Gus”)
--	insert(friends, 2, “Gus”)
--	friends.insert(1, “Gus”)
--	**friends.insert(-2, “Gus”)**
+    a.  friends.insert(-3, “Gus”)
+    
+    b.  insert(friends, 2, “Gus”)
+    
+    c.  friends.insert(1, “Gus”)
+    
+    d.  **friends.insert(-2, “Gus”)**
 
 12.	Which of the following code selects the las three elements of mylist?
 -	mylist[:-3]
