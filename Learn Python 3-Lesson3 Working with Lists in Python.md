@@ -110,15 +110,24 @@ Lesson 3 – **Working with Lists in Python**
     d.  range(15, 4, 3)
 
 10.	Fill in the code that would allow us to remove the 5th element from the following list :
-pizza_toppings = [“Cheese”, “Pepperoni”, “Garlic”, “Pineapple”, “Mushroom”, “Prosciutto”]
-___ . ___ ( ___ )
--	5
--	**pop**
--	**pizza_toppings**
--	3
--	**4**
-Click or drag and drop to fill in the blank
-So, the answer is **pizza_toppings.pop(4)**
+        
+        pizza_toppings = [“Cheese”, “Pepperoni”, “Garlic”, “Pineapple”, “Mushroom”, “Prosciutto”]
+
+        ___ . ___ ( ___ )
+
+    a.  5
+    
+    b.  **pop**
+    
+    c.  **pizza_toppings**
+    
+    d.  3
+    
+    e.  **4**
+    
+    Click or drag and drop to fill in the blank
+
+    So, the answer is **pizza_toppings.pop(4)**
 
 11.	Which of the following lines of code will insert “Gus” as the middle element of the list friends?
 friends = [“Annabelle”, “Greg”, “Katya”, “Sol”]
