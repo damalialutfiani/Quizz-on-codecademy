@@ -130,7 +130,9 @@ Lesson 3 – **Working with Lists in Python**
     So, the answer is **pizza_toppings.pop(4)**
 
 11.	Which of the following lines of code will insert “Gus” as the middle element of the list friends?
-friends = [“Annabelle”, “Greg”, “Katya”, “Sol”]
+
+        friends = [“Annabelle”, “Greg”, “Katya”, “Sol”]
+        
 -	friends.insert(-3, “Gus”)
 -	insert(friends, 2, “Gus”)
 -	friends.insert(1, “Gus”)
