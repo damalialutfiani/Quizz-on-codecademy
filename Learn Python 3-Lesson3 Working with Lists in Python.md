@@ -142,7 +142,11 @@ Lesson 3 – **Working with Lists in Python**
     d.  **friends.insert(-2, “Gus”)**
 
 12.	Which of the following code selects the las three elements of mylist?
--	mylist[:-3]
--	**mylist[-3:]**
--	mylist[3:]
--	mylist[-3, -2, -1]
+
+    a.  mylist[:-3]
+    
+    b.  **mylist[-3:]**
+    
+    c.  mylist[3:]
+    
+    d.  mylist[-3, -2, -1]
