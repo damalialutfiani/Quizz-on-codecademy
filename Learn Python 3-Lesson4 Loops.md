@@ -25,21 +25,44 @@ Lesson 4 – **Loops**
 	d.	2 hello! 4 hello! 6 hello! 8 hello!
 	
 2.	What would be the output of the following code:
-for i in range(3):
-	print(i)
--	**0
-1
-2**
--	1
-2
-3
--	i
-i
-i
--	i
-i
-i
-i
+
+	for i in range(3):
+		print(i)
+		
+	a.
+	
+	**0**
+	
+	**1**
+	
+	**2**
+	
+	b.
+	
+	1
+	
+	2
+	
+	3
+	
+	c.	
+	
+	i
+	
+	i
+	
+	i
+	
+	d.
+	
+	i
+	
+	i
+	
+	i
+	
+	i
+	
 3.	What would be the output of the following code:
 numbers = [1, 1, 2, 3]
 for number in numbers:
