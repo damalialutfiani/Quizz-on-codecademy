@@ -37,31 +37,31 @@ Lesson 4 – **Loops**
 	
 	**2**
 	
-	b.
+	b.	
 	
-	1
+		1
 	
-	2
-	
-	3
+		2
+		
+		3
 	
 	c.	
 	
-	i
+		i
 	
-	i
+		i
 	
-	i
+		i
 	
 	d.
 	
-	i
+		i
 	
-	i
+		i
 	
-	i
+		i
 	
-	i
+		i
 	
 3.	What would be the output of the following code:
 numbers = [1, 1, 2, 3]
