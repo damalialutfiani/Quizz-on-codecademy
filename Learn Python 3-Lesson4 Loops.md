@@ -7,14 +7,23 @@ Lesson 4 – **Loops**
         for number in numbers:
   
           print(“hello!”)
-    
--	hello!
--	**hello!
-hello!
-hello!
-hello!**
--	2 4 6 8
--	2 hello! 4 hello! 6 hello! 8 hello!
+
+	a.	hello!
+	
+	b.	
+	
+	**hello!**
+		
+	**hello!**
+	
+	**hello!**
+		
+	**hello!**
+	
+	c.	2 4 6 8
+	
+	d.	2 hello! 4 hello! 6 hello! 8 hello!
+	
 2.	What would be the output of the following code:
 for i in range(3):
 	print(i)
