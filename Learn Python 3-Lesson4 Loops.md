@@ -29,8 +29,8 @@ Lesson 4 – **Loops**
 	for i in range(3):
 		print(i)
 		
-	a.
-	
+	a.	
+		
 	**0**
 	
 	**1**
