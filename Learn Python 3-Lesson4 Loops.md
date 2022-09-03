@@ -75,16 +75,34 @@ Lesson 4 – **Loops**
 			
 			print(number)
 			
--	1
-1
-3
--	1
-1
-2
-3
--	2
--	**1
-1**
+	a.	
+		
+		1
+	
+		1
+		
+		3
+	
+	b.	
+	
+		1
+	
+		1
+		
+		2
+		
+		3
+		
+	c.	
+		
+		2
+	
+	d.	
+	
+	  **1**
+	
+	  **1**
+		
 4.	What would be the output of the following code:
 drink_choices = [“coffee”, “tea”, “water”, “juice”, “soda”]
 for drink in drink_choices:
