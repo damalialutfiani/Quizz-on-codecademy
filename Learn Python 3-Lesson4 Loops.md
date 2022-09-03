@@ -130,20 +130,43 @@ Lesson 4 – **Loops**
 	d.	coffee
 	
 5.	What would be the output of the following code:
-numbers = [1, 1, 2, 3]
-for number in numbers:
-	if number % 2 == 0:
-		continue
-	print(number)
--	2
--	1
-1
--	**1
-1
-3**
--	1
-1
-2
+
+		numbers = [1, 1, 2, 3]
+
+		for number in numbers:
+			
+			if number % 2 == 0:
+		
+				continue
+	
+			print(number)
+			
+	a.	
+	
+		2
+	
+	b.	
+	
+		1
+	
+		1
+		
+	c.	
+	
+	**1**
+	
+	**1**
+		
+	**3**
+		
+	d.	
+	
+		1
+	
+		1
+		
+		2
+		
 6.	Fill in the blank with the appropriate while condition in order to print the numbers 1 through 10 in order:
 i = 1
 __blank__
