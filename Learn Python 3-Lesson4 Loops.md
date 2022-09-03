@@ -104,17 +104,31 @@ Lesson 4 – **Loops**
 	  **1**
 		
 4.	What would be the output of the following code:
-drink_choices = [“coffee”, “tea”, “water”, “juice”, “soda”]
-for drink in drink_choices:
-	print(drink)
--	drink
--	[“coffee”, “tea”, “water”, “juice”, “soda”]
--	**coffee
-tea
-water
-juice
-soda**
--	coffee
+
+		drink_choices = [“coffee”, “tea”, “water”, “juice”, “soda”]
+	
+		for drink in drink_choices:
+	
+			print(drink)
+			
+	a.	drink
+	
+	b.	[“coffee”, “tea”, “water”, “juice”, “soda”]
+	
+	c.	
+	
+	**coffee**
+	
+	**tea**
+	
+	**water**
+	
+	**juice**
+	
+	**soda**
+	
+	d.	coffee
+	
 5.	What would be the output of the following code:
 numbers = [1, 1, 2, 3]
 for number in numbers:
