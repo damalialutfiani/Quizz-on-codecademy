@@ -64,11 +64,17 @@ Lesson 4 – **Loops**
 		i
 	
 3.	What would be the output of the following code:
-numbers = [1, 1, 2, 3]
-for number in numbers:
-	if number % 2 == 0:
-		break
-	print(number)
+
+		numbers = [1, 1, 2, 3]
+	
+		for number in numbers:
+	
+			if number % 2 == 0:
+		
+				break
+			
+			print(number)
+			
 -	1
 1
 3
