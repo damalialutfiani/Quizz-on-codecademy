@@ -270,9 +270,9 @@ Lesson 4 – **Loops**
 	
 		for sublist in **grouped_topics**:
 		
-			for sublist_element in **sublist**:
+   			for sublist_element in **sublist**:
 			
-				print (**sublist_element**)
+        			print (**sublist_element**)
 				
 10.	Which of these list comprehensions will create a list equal to desired_list?
 
