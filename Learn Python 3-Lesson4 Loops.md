@@ -256,20 +256,38 @@ Lesson 4 – **Loops**
 		
 				print( _____ )
 
--	**sublist**
--	for
--	**grouped_topics**
--	**sublist_element**
-Click or drag and drop to fill in the blank
-So, the answer is
-for sublist in **grouped_topics**:
-	for sublist_element in **sublist**:
-		print (**sublist_element**)
+	a.	**sublist**
+	
+	b.	for
+	
+	c.	**grouped_topics**
+	
+	d.	**sublist_element**
+	
+	Click or drag and drop to fill in the blank.
+	
+	So, the answer is
+	
+		for sublist in **grouped_topics**:
+		
+			for sublist_element in **sublist**:
+			
+				print (**sublist_element**)
+				
 10.	Which of these list comprehensions will create a list equal to desired_list?
-desired_list = [-1, 0, 1, 2, 3]
--	desired_list = []
-for i in range(5)
-	desired_list = i -1
--	range(5)
--	**[i – 1 for i in range(5)]**
--	[i for i in range(5)]
+
+		desired_list = [-1, 0, 1, 2, 3]
+		
+	a.	
+		
+		desired_list = []
+		
+		for i in range(5)
+		
+			desired_list = i -1
+			
+	b.	range(5)
+	
+	c.	**[i – 1 for i in range(5)]**
+	
+	d.	[i for i in range(5)]
