@@ -186,12 +186,19 @@ Lesson 4 – **Loops**
 	d.	while I > 10:
 	
 7.	Which of these list comprehensions will create a list equal to desired_list?
-my_list = [5, 10, -2, 8, 20]
-desired_list = [10, 8, 20]
--	[i + 5 for i in my_list]
--	**[i for i in my_list if i > 5]**
--	[i for i in my_list]
--	[i for i in my_list if I > 10]
+
+		my_list = [5, 10, -2, 8, 20]
+
+		desired_list = [10, 8, 20]
+		
+	a.	[i + 5 for i in my_list]
+	
+	b.	**[i for i in my_list if i > 5]**
+	
+	c.	[i for i in my_list]
+	
+	d.	[i for i in my_list if I > 10]
+	
 8.	What would be the output of the following code:
 for i in range(3):
 	print(5)
