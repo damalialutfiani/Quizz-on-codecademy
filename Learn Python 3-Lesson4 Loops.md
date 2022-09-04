@@ -246,11 +246,15 @@ Lesson 4 – **Loops**
 		3
 		
 9.	Fill in the code to loop over the list grouped_topics and print every element in the list.
-grouped_topics = [[“Algorithms”, “Data Structures”, “AI”], [“Linear Regression”, “SQL”]]
 
-for sublist in _____ :
-	for sublist_element in ______ :
-		print( _____ )
+		grouped_topics = [[“Algorithms”, “Data Structures”, “AI”], [“Linear Regression”, “SQL”]]
+
+	
+		for sublist in _____ :
+		
+			for sublist_element in ______ :
+		
+				print( _____ )
 
 -	**sublist**
 -	for
