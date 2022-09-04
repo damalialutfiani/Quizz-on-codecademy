@@ -200,24 +200,51 @@ Lesson 4 – **Loops**
 	d.	[i for i in my_list if I > 10]
 	
 8.	What would be the output of the following code:
-for i in range(3):
-	print(5)
--	0
-1
-2
--	0
-1
-2
-3
-4
--	**5
-5
-5**
--	3
-3
-3
-3
-3
+
+		for i in range(3):
+	
+			print(5)
+			
+	a.	
+	
+		0
+		
+		1
+		
+		2
+		
+	b.
+	
+		0
+		
+		1
+		
+		2
+		
+		3
+		
+		4
+		
+	c.	
+	
+	**5**
+	
+	**5**
+	
+	**5**
+	
+	d.
+	
+		3
+		
+		3
+		
+		3
+		
+		3
+		
+		3
+		
 9.	Fill in the code to loop over the list grouped_topics and print every element in the list.
 grouped_topics = [[“Algorithms”, “Data Structures”, “AI”], [“Linear Regression”, “SQL”]]
 
