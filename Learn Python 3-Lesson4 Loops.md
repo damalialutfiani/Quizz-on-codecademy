@@ -168,14 +168,23 @@ Lesson 4 – **Loops**
 		2
 		
 6.	Fill in the blank with the appropriate while condition in order to print the numbers 1 through 10 in order:
-i = 1
-__blank__
-	print(i)
-	i += 1
--	while i == range (11):
--	while I < 10:
--	**while i <= 10:**
--	while I > 10:
+
+		i = 1
+		
+		__blank__
+		
+			print(i)
+		
+			i += 1
+		
+	a.	while i == range (11):
+	
+	b.	while I < 10:
+	
+	c.	**while i <= 10:**
+	
+	d.	while I > 10:
+	
 7.	Which of these list comprehensions will create a list equal to desired_list?
 my_list = [5, 10, -2, 8, 20]
 desired_list = [10, 8, 20]
