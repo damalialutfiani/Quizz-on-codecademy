@@ -1,9 +1,15 @@
 Lesson 5 – **Functions**
+
 1.	What line of code can be used to return a variable inner_var from a function back to the piece of code that called the function?
--	inner_var = None
--	print(inner_var)
--	**return inner_var**
--	def ineer_var
+
+	a.	inner_var = None
+	
+	b.	print(inner_var)
+	
+	c.	**return inner_var**
+	
+	d.	def ineer_var
+	
 2.	Which variables can be called in the blank spot in this code:
 
 counter = 0
