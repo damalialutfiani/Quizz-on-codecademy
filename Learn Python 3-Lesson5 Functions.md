@@ -49,13 +49,13 @@ Lesson 5 – **Functions**
 			return force_val
 
 
-	a.	**force(10, 9.81)**
+      a.	**force(10, 9.81)**
 
-	b.	force(mass=10, 9.81)
+      b.	force(mass=10, 9.81)
 	
-	c.	force(10, mass=9.81)
+      c.	force(10, mass=9.81)
 	
-	d.	force(9.81, 10)
+      d.	force(9.81, 10)
 	
 5.	How do you call update with a new_value of 20?
 
