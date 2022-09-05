@@ -48,10 +48,14 @@ Lesson 5 – **Functions**
 			
 			return force_val
 
--	**force(10, 9.81)**
--	force(mass=10, 9.81)
--	force(10, mass=9.81)
--	force(9.81, 10)
+	a.	**force(10, 9.81)**
+	
+	b.	force(mass=10, 9.81)
+	
+	c.	force(10, mass=9.81)
+	
+	d.	force(9.81, 10)
+	
 5.	How do you call update with a new_value of 20?
 
 def update(new_value = 10):
