@@ -12,13 +12,15 @@ Lesson 5 – **Functions**
 	
 2.	Which variables can be called in the blank spot in this code:
 
-counter = 0
+		counter = 0
 
-def update():
-	new_counter = counter + 1
-	return new_counter
-
-_____
+		def update():
+		
+			new_counter = counter + 1
+			
+			return new_counter
+			
+		_____
 
 -	**Just counter.**
 -	Neither counter nor new_counter.
