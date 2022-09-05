@@ -59,10 +59,11 @@ Lesson 5 – **Functions**
 	
 5.	How do you call update with a new_value of 20?
 
-def update(new_value = 10):
-	old_value = new_value
+		def update(new_value = 10):
+	
+			old_value = new_value
 
--	update()
+	a.	update()
 -	def update()
 -	update
 -	**update(20)**
