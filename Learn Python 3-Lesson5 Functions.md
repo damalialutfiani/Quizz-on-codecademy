@@ -22,16 +22,25 @@ Lesson 5 – **Functions**
 			
 		_____
 
--	**Just counter.**
--	Neither counter nor new_counter.
--	counter and new_counter
--	Just new_counter
+	a.	**Just counter.**
+	
+	b.	Neither counter nor new_counter.
+	
+	c.	counter and new_counter
+	
+	d.	Just new_counter
+	
 3.	How do you call a function called setup with no arguments?
--	def setup():
--	**setup()**
--	setup
--	setup(None)
-4.	 What line of code will call force with a value of 10 for mass and a value of 9.81 for acceleration?
+
+	a.	def setup():
+	
+	b.	**setup()**
+	
+	c.	setup
+	
+	d.	setup(None)
+	
+5.	 What line of code will call force with a value of 10 for mass and a value of 9.81 for acceleration?
 
 def force(mass, acceleration):
 	force_val = mass*acceleration
