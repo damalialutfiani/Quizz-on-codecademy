@@ -64,6 +64,9 @@ Lesson 5 – **Functions**
 			old_value = new_value
 
 	a.	update()
--	def update()
--	update
--	**update(20)**
+	
+	b.	def update()
+	
+	c.	update
+	
+	d.	**update(20)**
