@@ -102,7 +102,10 @@ Lesson 5 – **Functions**
 		
 		report()
 
--	One String is printed: “The current time is 3pm”
--	**Two Strings are printed: “The current time is 3pm” and “The mood is good”**
--	Three Strings are printed: “Beginning of report”, “The current time is 3pm”, “The mood is good”
--	Two Strings are printed: “The current time is ” and “The mood is ”
+	a.	One String is printed: “The current time is 3pm”
+	
+	b.	**Two Strings are printed: “The current time is 3pm” and “The mood is good”**
+	
+	c.	Three Strings are printed: “Beginning of report”, “The current time is 3pm”, “The mood is good”
+	
+	d.	Two Strings are printed: “The current time is ” and “The mood is ”
