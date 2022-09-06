@@ -86,7 +86,7 @@ Lesson 1 – **Hello World**
 	
 	c.	cool_number
 
-9.	Wha number is saved to exponented_variable in the following expression?
+9.	What number is saved to exponented_variable in the following expression?
 
 		exponented_variable = 2 ** 4
 		
