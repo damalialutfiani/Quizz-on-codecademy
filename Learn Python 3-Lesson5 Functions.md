@@ -76,10 +76,13 @@ Lesson 5 – **Functions**
 		def quote(x):
 			print(“There is no greater agony than bearing “ + x + “ inside you.”)
 
--	def quote(“an untold story”)
--	quote(an untold story)
--	**quote(“an untold story”)**
--	quote()
+	a.	def quote(“an untold story”)
+	
+	b.	quote(an untold story)
+	
+	c.	**quote(“an untold story”)**
+	
+	d.	quote()
 
 7.	What happens when you call report()?
 
