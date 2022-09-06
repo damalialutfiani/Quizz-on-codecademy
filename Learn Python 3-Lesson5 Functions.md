@@ -80,3 +80,21 @@ def quote(x):
 -	quote(an untold story)
 -	**quote(“an untold story”)**
 -	quote()
+
+7.	What happens when you call report()?
+
+time = “3pm”
+mood = “good”
+
+def report():
+	print(“The current time is “ + time)
+	print(“The mood is “ + mood)
+
+print(“Beginning of report”)
+
+report()
+
+-	One String is printed: “The current time is 3pm”
+-	**Two Strings are printed: “The current time is 3pm” and “The mood is good”**
+-	Three Strings are printed: “Beginning of report”, “The current time is 3pm”, “The mood is good”
+-	Two Strings are printed: “The current time is ” and “The mood is ”
