@@ -73,8 +73,8 @@ Lesson 5 – **Functions**
 
 6.	Given the following function, what will produce the output “There is no greater agony than bearing an untold story inside you.”?
 
-def quote(x):
-	print(“There is no greater agony than bearing “ + x + “ inside you.”)
+		def quote(x):
+			print(“There is no greater agony than bearing “ + x + “ inside you.”)
 
 -	def quote(“an untold story”)
 -	quote(an untold story)
