@@ -44,3 +44,5 @@
         print(large_power(5000, 1))
 
     >   Result :
+    
+      ![python I - 1](https://user-images.githubusercontent.com/74751990/188761625-a528f57c-4f52-493c-8438-1fe09492a1ac.jpg)
