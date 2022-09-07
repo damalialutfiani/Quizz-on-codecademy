@@ -10,10 +10,13 @@
   
     3.  Use an if statement to test if the result is greater than 5000. If it is then return True. Otherwise, return False.
   
-Coding question
+    >   Coding question
 
--	Create a function named large_power() that takes two parameters named base and exponent.
--	If base raised to the exponent is greater than 5000, return True, otherwise return False
+    1.  Create a function named large_power() that takes two parameters named base and exponent.
+    
+    2.  If base raised to the exponent is greater than 5000, return True, otherwise return False
+    
+    
 Code :
 # Write your large_power function here:
 def large_power(base, exponent):
