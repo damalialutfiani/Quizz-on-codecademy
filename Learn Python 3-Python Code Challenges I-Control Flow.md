@@ -67,29 +67,29 @@
 
     >   Code :
     
-    # Write your over_budget function here:
+        # Write your over_budget function here:
     
-    def over_budget(budget, food_bill, electricity_bill, internet_bill, rent):
+        def over_budget(budget, food_bill, electricity_bill, internet_bill, rent):
 
-        if budget < (food_bill + electricity_bill + internet_bill + rent):
+            if budget < (food_bill + electricity_bill + internet_bill + rent):
 
-            return True
+                return True
 
-        else:
+            else:
  
-            return False
+                return False
 
-    # Uncomment these function calls to test your over_budget function:
+        # Uncomment these function calls to test your over_budget function:
 
-    print(over_budget(100, 20, 30, 10, 40))
+        print(over_budget(100, 20, 30, 10, 40))
 
-    # should print False
+        # should print False
 
-    print(over_budget(80, 20, 30, 10, 30))
+        print(over_budget(80, 20, 30, 10, 30))
 
-    # should print True
+        # should print True
 
-    print(over_budget(10, 2, 2, 2, 4))
+        print(over_budget(10, 2, 2, 2, 4))
 
 
 
