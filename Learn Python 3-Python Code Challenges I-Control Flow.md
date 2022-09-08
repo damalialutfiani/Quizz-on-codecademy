@@ -18,18 +18,18 @@
     
     
     >   Code :
-
-            # Write your large_power function here:
+    
+        # Write your large_power function here:
         
-            def large_power(base, exponent):
+        def large_power(base, exponent):
         
-                if base ** exponent > 5000:
+            if base ** exponent > 5000:
             
-                    return True
+                return True
                 
-                else:
+            else:
             
-                    return False
+                return False
                 
         # Uncomment these function calls to test your large_power function:
         
