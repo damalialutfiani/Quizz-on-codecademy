@@ -91,10 +91,9 @@
 
         print(over_budget(10, 2, 2, 2, 4))
 
+    >   Result :
 
-
-
-
+      ![python I - 1 2](https://user-images.githubusercontent.com/74751990/189028539-8fe939ae-a177-4382-92f5-2b5154732d47.jpg)
 
 
 
