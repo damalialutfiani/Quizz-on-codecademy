@@ -107,3 +107,12 @@
 
     4.  If num1 is greater then return True otherwise return False
 
+    >   Coding question
+
+
+    >   Code :
+
+    >   Result :
+
+
+
