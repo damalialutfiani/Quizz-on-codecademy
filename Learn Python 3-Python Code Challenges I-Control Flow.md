@@ -109,6 +109,9 @@
 
     >   Coding question
 
+    1.  Create a function named twice_as_large() that has two parameters named num1 and num2.
+
+    2.  Return True if num1 is more than double num2. Return False otherwise.
 
     >   Code :
 
