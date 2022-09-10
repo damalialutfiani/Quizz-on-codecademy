@@ -185,3 +185,6 @@
         # should print False
 
     >   Result :
+    
+      ![python I - 1 4](https://user-images.githubusercontent.com/74751990/189469910-8936fccb-6ee5-48db-aa74-9f0f4378761b.jpg)
+
