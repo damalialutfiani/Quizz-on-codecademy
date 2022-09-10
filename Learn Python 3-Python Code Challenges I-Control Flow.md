@@ -161,27 +161,27 @@
 
     >   Code :
     
-    # Write your divisible_by_ten() function here:
+        # Write your divisible_by_ten() function here:
 
-    def divisible_by_ten(num):
+        def divisible_by_ten(num):
   
-        if (num % 10 == 0):
+            if (num % 10 == 0):
     
-            return True
+                return True
   
-        else :
+            else :
     
-            return False
+                return False
 
 
-    # Uncomment these print() function calls to test your divisible_by_ten() function:
+        # Uncomment these print() function calls to test your divisible_by_ten() function:
 
-    print(divisible_by_ten(20))
+        print(divisible_by_ten(20))
 
-    # should print True
+        # should print True
 
-    print(divisible_by_ten(25))
+        print(divisible_by_ten(25))
 
-    # should print False
+        # should print False
 
     >   Result :
