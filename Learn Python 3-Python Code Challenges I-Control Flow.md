@@ -144,11 +144,14 @@
       ![python I - 1 3](https://user-images.githubusercontent.com/74751990/189250447-69d9d208-ffd5-4e69-bcd8-7b411bdba498.jpg)
 
 4. Divisible By Ten
-To make things a bit more challenging, we are going to create a function that determines whether or not a number is divisible by ten. A number is divisible by ten if the remainder of the number divided by 10 is 0. Using this, we can complete this function in a few steps:
 
-Define the function header to accept one input num
-Calculate the remainder of the input divided by 10 (use modulus)
-Use an if statement to check if the remainder was 0. If the remainder was 0, return True, otherwise, return False
+    To make things a bit more challenging, we are going to create a function that determines whether or not a number is divisible by ten. A number is divisible by ten if the remainder of the number divided by 10 is 0. Using this, we can complete this function in a few steps:
+
+        a.  Define the function header to accept one input num
+        
+        b.  Calculate the remainder of the input divided by 10 (use modulus)
+        
+        c.  Use an if statement to check if the remainder was 0. If the remainder was 0, return True, otherwise, return False
 
 Coding question
 Create a function called divisible_by_ten() that has one parameter named num.
