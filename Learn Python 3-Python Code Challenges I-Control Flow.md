@@ -189,11 +189,29 @@
       ![python I - 1 4](https://user-images.githubusercontent.com/74751990/189469910-8936fccb-6ee5-48db-aa74-9f0f4378761b.jpg)
 
 5. Not Sum To Ten
-Finally, we are going to check if the summation of two inputs does not equal ten. Our function will accept two inputs and add them together. If the two numbers added together are not equal to ten, then we will return True, otherwise, we will return False. Here is what we need to do:
 
-Define the function to accept two parameters, num1 and num2
-Add the two parameters together
-Test if the result is not equal to 10
-If the sum is not equal, return True, otherwise, return False
+    Finally, we are going to check if the summation of two inputs does not equal ten. Our function will accept two inputs and add them together. If the two numbers added together are not equal to ten, then we will return True, otherwise, we will return False. Here is what we need to do:
+
+        a.  Define the function to accept two parameters, num1 and num2
+        
+        b.  Add the two parameters together
+        
+        c.  Test if the result is not equal to 10
+        
+        d.  If the sum is not equal, return True, otherwise, return False
+
+    >   Coding question
+    
+    1.  Create a function named not_sum_to_ten() that has two parameters named num1 and num2.
+    
+    2.  Return True if num1 and num2 do not sum to 10. Return False otherwise.
+
+    >   Code :
+    
+    
+    
+    >   Result :
+    
+    
 
 
