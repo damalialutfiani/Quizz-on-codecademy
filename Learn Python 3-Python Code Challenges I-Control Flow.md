@@ -208,34 +208,34 @@
 
     >   Code :
     
-    # Write your not_sum_to_ten function here:
+        # Write your not_sum_to_ten function here:
 
-    def not_sum_to_ten(num1, num2):
+        def not_sum_to_ten(num1, num2):
   
-        if num1 + num2 != 10:
+            if num1 + num2 != 10:
         
-            return True
+                return True
   
-        else:
+            else:
     
-            return False
+                return False
 
-    # Uncomment these function calls to test your not_sum_to_ten function:
+        # Uncomment these function calls to test your not_sum_to_ten function:
 
-    print(not_sum_to_ten(9, -1))
+        print(not_sum_to_ten(9, -1))
 
-    # should print True
+        # should print True
 
-    print(not_sum_to_ten(9, 1))
+        print(not_sum_to_ten(9, 1))
 
-    # should print False
+        # should print False
     
-    print(not_sum_to_ten(5,5))
+        print(not_sum_to_ten(5,5))
 
-    # should print False
+        # should print False
     
     >   Result :
     
-    
+      ![python I - 1 5](https://user-images.githubusercontent.com/74751990/189519426-42e84e20-945f-40e2-9839-3406d7b2edfe.jpg)
 
 
