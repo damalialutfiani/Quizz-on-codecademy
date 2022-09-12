@@ -2,45 +2,45 @@
 
 1. In Range
 
-  Let’s start the advanced challenge problems by testing if a number falls within a certain range. We will accept three parameters where the first parameter is the number we are testing, the second parameter is the lower bound and the third parameter is the upper bound of our range. These are the steps required:
+    Let’s start the advanced challenge problems by testing if a number falls within a certain range. We will accept three parameters where the first parameter is the number we are testing, the second parameter is the lower bound and the third parameter is the upper bound of our range. These are the steps required:
 
-      a.  Define the function to accept three numbers as parameters.
+        a.  Define the function to accept three numbers as parameters.
   
-      b.  Test if the number is greater than or equal to the lower bound and less than or equal to the upper bound.
+        b.  Test if the number is greater than or equal to the lower bound and less than or equal to the upper bound.
   
-      c.  If this is true, return True, otherwise, return False
+        c.  If this is true, return True, otherwise, return False
 
-  >   Coding question
+    >   Coding question
   
-  1.    Create a function named in_range() that has three parameters named num, lower, and upper.
+        1.  Create a function named in_range() that has three parameters named num, lower, and upper.
+        
+        2.  The function should return True if num is greater than or equal to lower and less than or equal to upper. Otherwise, return False.
   
-  2.   The function should return True if num is greater than or equal to lower and less than or equal to upper. Otherwise, return False.
-  
-  >   Code :
+    >   Code :
 
-  # Write your in_range function here:
+        # Write your in_range function here:
 
-  def in_range(num, lower, upper):
+        def in_range(num, lower, upper):
   
-    if num >= lower and num <= upper:
+          if num >= lower and num <= upper:
     
-      return True
+            return True
   
-    else:
+          else:
     
-      return False
+            return False
 
-  # Uncomment these function calls to test your in_range function:
+        # Uncomment these function calls to test your in_range function:
 
-  print(in_range(10, 10, 10))
+        print(in_range(10, 10, 10))
 
-  # should print True
+        # should print True
 
-  print(in_range(5, 10, 20))
+        print(in_range(5, 10, 20))
 
-  # should print False
+        # should print False
 
-  >   Result :
+    >   Result :
   
   
   
