@@ -44,12 +44,15 @@
   
       ![python I - 2 1](https://user-images.githubusercontent.com/74751990/189597019-01fee086-bb99-4312-8dfd-f4bf2584db7f.jpg)
 
-  2. Same Name
-We need to write a program that checks different names and determines if they are equal. We need to accept two strings and compare them. Here are the steps:
+2. Same Name
+  
+    We need to write a program that checks different names and determines if they are equal. We need to accept two strings and compare them. Here are the steps:
 
-Define the function to accept two strings, your_name and my_name
-Test if the two strings are equal
-Return True if they are equal, otherwise return False
+        a.  Define the function to accept two strings, your_name and my_name
+        
+        b.  Test if the two strings are equal
+        
+        c.  Return True if they are equal, otherwise return False
 
       >   Coding question
   
