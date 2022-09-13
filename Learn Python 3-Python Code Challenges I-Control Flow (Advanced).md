@@ -86,7 +86,8 @@
 
     >   Result :
 
-      
+      ![python I - 2 2](https://user-images.githubusercontent.com/74751990/189800524-64b207b3-7d01-4309-97a7-5e8488030de7.jpg)
+
       
       
       
