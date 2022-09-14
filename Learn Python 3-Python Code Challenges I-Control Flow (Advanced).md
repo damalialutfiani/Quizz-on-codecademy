@@ -92,8 +92,22 @@
 
     There are some situations that you normally want to avoid when programming using conditional statements. One example is a contradiction. This occurs when your condition will always be false no matter what value you pass into it. Let’s create an example of a function that contains a contradiction. It will contain a few steps:
 
-Define the function to accept a single parameter called num
-Use a combination of <, > and and to create a contradiction in an if statement.
-If the condition is true, return True, otherwise return False. The trick here is that because we’ve written a contradiction, the condition should never be true, so we should expect to always return False.      
+        a.  Define the function to accept a single parameter called num
+
+        b.  Use a combination of <, > and and to create a contradiction in an if statement.
+
+        c.  If the condition is true, return True, otherwise return False. The trick here is that because we’ve written a contradiction, the condition should never be true, so we should expect to always return False.      
       
-      
+      >   Coding question     
+
+
+
+      >   Code :
+
+
+
+      >   Result :
+
+
+
+
