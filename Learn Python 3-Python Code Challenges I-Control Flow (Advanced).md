@@ -100,7 +100,11 @@
       
       >   Coding question     
 
+    1.  Create a function named always_false() that has one parameter named num.
 
+    2.  Using an if statement, your variable num, and the operators >, and <, make it so your function will return False no matter what number is stored in num.
+
+    3.  An if statement that is always false is called a contradiction. You will rarely want to do this while programming, but it is important to realize it is possible to do this.
 
       >   Code :
 
