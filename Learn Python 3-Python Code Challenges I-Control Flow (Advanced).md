@@ -138,5 +138,28 @@
 
       ![python I - 2 3](https://user-images.githubusercontent.com/74751990/190114639-42e7ec77-af5c-44cf-b22b-0f5de2456911.jpg)
 
+4. Movie Review
+
+    We want to create a function that will help us rate movies. Our function will split the ratings into different ranges and tell the user how the movie was based on the movie’s rating. Here are the steps needed:
+
+        a.  Define our function to accept a single number called rating
+        
+        b.  If the rating is equal to or less than 5, return "Avoid at all costs!"
+        
+        c.  If the rating was less than 9, return "This one was fun."
+        
+        d.  If neither of the if statement conditions were met, return "Outstanding!"
+
+      >   Coding question     
+
+
+      >   Code :
+
+
+
+      >   Result :
+
+
+
 
 
