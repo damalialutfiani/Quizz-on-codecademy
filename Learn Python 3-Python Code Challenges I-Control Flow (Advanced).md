@@ -193,6 +193,26 @@
 
       ![python I - 2 4](https://user-images.githubusercontent.com/74751990/190290559-cd75fc7e-c640-46fd-82ec-d84eb623051a.jpg)
 
+5. Max Number
+
+    For the final challenge, we are going to select which number from three input values is the greatest using conditional statements. To do this, we need to check the different combinations of values to see which number is greater than the other two. Here is what we need to do:
+
+        a.  Define a function that has three input parameters, num1, num2, and num3
+
+        b.  Test if num1 is greater than the other two numbers
+
+        c.  If so, return num1
+
+        d.  Test if num2 is greater than the other two numbers
+
+        e.  If so, return num2
+
+        f.  Test if num3 is greater than the other two numbers
+
+        g.  If so, return num3
+
+        h.  If there was a tie between the two largest numbers, then return "It's a tie!"
+
 
 
 
