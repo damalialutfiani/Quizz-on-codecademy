@@ -36,6 +36,7 @@
     
     >   Result  :
       
+      ![python I - 3 1](https://user-images.githubusercontent.com/74751990/190638363-936fd924-cc95-46bc-a7ef-40088abe3fa2.jpg)
       
       
       
