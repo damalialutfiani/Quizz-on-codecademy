@@ -52,8 +52,14 @@
 
         e.  Return the modified list
 
+    >   Coding question
 
 
+    >   Code :
 
-
-      
+   
+    >   Result  :   
+   
+   
+   
+   
