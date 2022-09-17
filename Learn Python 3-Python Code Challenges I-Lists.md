@@ -38,5 +38,22 @@
       
       ![python I - 3 1](https://user-images.githubusercontent.com/74751990/190638363-936fd924-cc95-46bc-a7ef-40088abe3fa2.jpg)
       
-      
+2. Append Sum
+
+    Let’s create a function that calculates the sum of the last two elements of a list and appends it to the end. After doing so, it will repeat this process two more times and return the resulting list. You can choose to use a loop or manually use three lines. Here are the steps we need:
+
+        a.  Define the function to accept one parameter for our list of numbers
+
+        b.  Add the last and second to last elements from our list together
+
+        c.  Append the calculated value to the end of our list.
+
+        d.  Repeat steps 2 and 3 two more times
+
+        e.  Return the modified list
+
+
+
+
+
       
