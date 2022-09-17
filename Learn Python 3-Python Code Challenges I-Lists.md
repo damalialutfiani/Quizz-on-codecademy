@@ -91,11 +91,12 @@ Check if the length of the first list is greater than or equal to the length of 
 If true, then return the last element from the first list. Otherwise, return the last element from the second list   
    
 
+    >   Coding question
 
 
+    >   Code :
 
 
-
-
+    >   Result  :  
 
 
