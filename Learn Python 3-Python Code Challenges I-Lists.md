@@ -82,5 +82,20 @@
    
       ![python I - 3 2](https://user-images.githubusercontent.com/74751990/190858912-7a290c29-dc48-40d3-bf05-5398857c2968.jpg)
    
+3. Larger List
+
+    Let’s say we are working with two conveyor belts that contain items represented by a numerical ID. If one conveyor belt contains more items than the other, then we need to return the ID of the last item on that belt. In the case where they have the same number of items, return the last item from the first conveyor belt. In our code, we can represent the belts using lists. Here are the steps:
+
+Define the function to accept two parameters for our two lists of numbers
+Check if the length of the first list is greater than or equal to the length of the second list
+If true, then return the last element from the first list. Otherwise, return the last element from the second list   
    
-   
+
+
+
+
+
+
+
+
+
