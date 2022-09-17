@@ -100,16 +100,23 @@
 
     >   Code :
 
-#Write your function here
-def larger_list(lst1, lst2):
-  if len(lst1) >= len(lst2):
-    return lst1[-1]
-  else:
-    return lst2[-1]
+        #Write your function here
 
-#Uncomment the line below when your function is done
-print(larger_list([4, 10, 2, 5], [-10, 2, 5, 10]))
+        def larger_list(lst1, lst2):
+
+            if len(lst1) >= len(lst2):
+
+                return lst1[-1]
+
+            else:
+
+                return lst2[-1]
+
+        #Uncomment the line below when your function is done
+
+        print(larger_list([4, 10, 2, 5], [-10, 2, 5, 10]))
 
     >   Result  :  
 
+      ![python I - 3 3](https://user-images.githubusercontent.com/74751990/190869886-0f87eb03-33f8-4241-aaab-a370facf990b.jpg)
 
