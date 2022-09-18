@@ -120,3 +120,19 @@
 
       ![python I - 3 3](https://user-images.githubusercontent.com/74751990/190869886-0f87eb03-33f8-4241-aaab-a370facf990b.jpg)
 
+4. More Than N
+
+    Our factory produces a variety of different flavored snacks and we want to check the number of instances of a certain type. We have a conveyor belt full of different types of snacks represented by different numbers. Our function will accept a list of numbers (representing the type of snack), a number for the second parameter (the type of snack we are looking for), and another number as the third parameter (the maximum number of that type of snack on the conveyor belt). The function will return True if the snack we are searching for appears more times than we provided as our third parameter. These are the steps we need:
+
+        a.  Define the function to accept three parameters, a list of numbers, a number to look for, and a number for the number of instances
+
+        b.  Count the number of occurrences of item (the second parameter) in lst (the first parameter)
+
+        c.  If the number of occurrences is greater than n (the third parameter), return True. Otherwise, return False
+
+
+
+
+
+
+
