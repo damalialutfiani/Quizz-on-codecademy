@@ -130,6 +130,16 @@
 
         c.  If the number of occurrences is greater than n (the third parameter), return True. Otherwise, return False
 
+    >   Coding question
+
+    1.  Create a function named more_than_n that has three parameters named lst, item, and n.
+
+    2.  The function should return True if item appears in the list more than n times. The function should return False otherwise.
+
+    >   Code :
+
+
+    >   Result  :  
 
 
 
