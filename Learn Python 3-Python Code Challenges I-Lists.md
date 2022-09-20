@@ -158,6 +158,18 @@
 
       ![python I - 3 4](https://user-images.githubusercontent.com/74751990/190928460-b4edc51f-9a4d-4218-b937-3ddee4f9980e.jpg)
 
+5. Combine Sort
+
+    Finally, let’s create a function that combines two different lists together and then sorts them. To do this we can combine the lists with an operation and then sort using a function call. Here are the steps we need to use:
+
+        a.  Define the function to accept two parameters, one for each list.
+
+        b.  Combine the two lists together
+
+        c.  Sort the result
+
+        d.  Return the sorted and combined list
+
 
 
 
