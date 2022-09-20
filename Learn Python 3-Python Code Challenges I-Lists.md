@@ -192,5 +192,6 @@
 
     >   Result  :  
 
+     ![python I - 3 5](https://user-images.githubusercontent.com/74751990/191156999-960cfcb5-2a9f-4aab-bab3-dd88af1cd12c.jpg)
 
 
