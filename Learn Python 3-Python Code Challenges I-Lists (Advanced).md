@@ -35,7 +35,8 @@
       ![python I - 4 1](https://user-images.githubusercontent.com/74751990/191417206-68ec8efd-d01e-4877-9c74-0ede35fc3104.jpg)
 
 2. Remove Middle
-Our next function will remove all elements from a list with an index within a certain range. The function will accept a list, a starting index, and an ending index. All elements with an index between the starting and ending index should be removed from the list. Here are the steps:
+
+    Our next function will remove all elements from a list with an index within a certain range. The function will accept a list, a starting index, and an ending index. All elements with an index between the starting and ending index should be removed from the list. Here are the steps:
 
 Define the function to accept three parameters: the list, the starting index, and the ending index
 Get all elements before the starting index
