@@ -180,6 +180,7 @@
 
     >   Result  :
 
+      ![python I - 4 4](https://user-images.githubusercontent.com/74751990/191827460-12072613-2c12-4524-9c81-e71255c537e5.jpg)
 
 
 
