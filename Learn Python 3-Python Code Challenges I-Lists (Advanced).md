@@ -88,7 +88,11 @@
 
     >   Coding question
 
+    1.  Create a function named more_frequent_item that has three parameters named lst, item1, and item2.
 
+    2.  Return either item1 or item2 depending on which item appears more often in lst.
+
+    3.  If the two items appear the same number of times, return item1.
 
     >   Code :
 
