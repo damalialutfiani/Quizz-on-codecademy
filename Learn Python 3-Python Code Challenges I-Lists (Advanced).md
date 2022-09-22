@@ -120,12 +120,17 @@
 
     Our next function will double a value at a given position. We will provide a list and an index to double. This will create a new list by replacing the value at the index provided with double the original value. If the index is invalid then we should return the original list. Here is what we need to do:
 
-Define the function to accept two parameters, one for the list and another for the index of the value we are going to double
-Test if the index is invalid. If its invalid then return the original list
-If the list is valid then get all values up to the index and store it as a new list
-Append the value at the index times 2 to the new list
-Add the rest of the list from the index onto the new list
-Return the new list
+        a.  Define the function to accept two parameters, one for the list and another for the index of the value we are going to double
+
+        b.  Test if the index is invalid. If its invalid then return the original list
+
+        c.  If the list is valid then get all values up to the index and store it as a new list
+
+        d.  Append the value at the index times 2 to the new list
+
+        e.  Add the rest of the list from the index onto the new list
+
+        f.  Return the new list
 
     >   Coding question
 
