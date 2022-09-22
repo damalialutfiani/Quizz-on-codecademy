@@ -114,6 +114,7 @@
 
     >   Result  :
 
+      ![python I - 4 3](https://user-images.githubusercontent.com/74751990/191766378-2d8f60d2-e6ec-4fac-a88b-0ee4905c90f1.jpg)
 
 
 
