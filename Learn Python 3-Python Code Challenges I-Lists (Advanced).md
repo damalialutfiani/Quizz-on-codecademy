@@ -74,6 +74,23 @@
 
       ![python I - 4 2](https://user-images.githubusercontent.com/74751990/191763362-8257f144-8929-4b40-93c9-a8075f80c488.jpg)
 
+3. More Frequent Item
+
+    Let’s go back to our factory example. We have a conveyor belt of items where each item is represented by a different number. We want to know, out of two items, which one shows up more on our belt. To solve this, we can use a function with three parameters. One parameter for the list of items, another for the first item we are comparing, and another for the second item. Here are the steps:
+
+        1.  Define the function to accept three parameters: the list, the first item, and the second item
+
+        2.  Count the number of times item1 shows up in our list
+
+        3.  Count the number of times item2 shows up in our list
+
+        4.  If item1 shows up more, return item1. Otherwise, return item2
+
+
+
+
+
+
 
 
 
