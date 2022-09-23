@@ -182,5 +182,26 @@
 
       ![python I - 4 4](https://user-images.githubusercontent.com/74751990/191827460-12072613-2c12-4524-9c81-e71255c537e5.jpg)
 
+5. Middle Item
+
+    For the final code challenge, we are going to create a function that finds the middle item from a list of values. This will be different depending on whether there are an odd or even number of values. In the case of an odd number of elements, we want this function to return the exact middle value. If there is an even number of elements, it returns the average of the middle two elements. Here is what we need to do:
+
+        a.  Define the function to accept one parameter for our list of numbers
+
+        b.  Determine if the length of the list is even or odd
+
+        c.  If the length is even, then return the average of the middle two numbers
+
+        d.  If the length is odd, then return the middle number
+
+    >   Coding question
+
+
+
+    >   Code :
+
+
+
+    >   Result  :
 
 
