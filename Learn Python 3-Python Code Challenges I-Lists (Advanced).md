@@ -222,4 +222,5 @@
 
     >   Result  :
 
+      ![python I - 4 5](https://user-images.githubusercontent.com/74751990/192017286-6c74e5c1-b7ff-4454-a8d0-a52fb698b1af.jpg)
 
