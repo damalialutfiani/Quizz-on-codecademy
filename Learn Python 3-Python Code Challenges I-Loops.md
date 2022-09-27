@@ -44,9 +44,29 @@
 
       ![python I - 5 1](https://user-images.githubusercontent.com/74751990/192553691-31638ae1-9d76-4154-94ff-aa9ac9c9ab1e.jpg)
 
+2. Greetings
+
+    You are invited to a social gathering, but you are tired of greeting everyone there. Luckily we can create a function to accomplish this task for us. In this challenge, we will take a list of names and prepend the string 'Hello, ' before each name. This will require a few steps:
+
+        a.  Define the function to accept a list of strings as a single parameter called names
+
+        b.  Create a new list of strings
+
+        c.  Loop through each name in names
+
+        d.  Within the loop, concatenate 'Hello, ' and the current name together and append this new string to the new list of strings
+
+        e.  Afterwards, return the new list of strings
+
+    >   Coding question
 
 
 
+    >   Code :
+
+
+
+    >   Result  :
 
 
 
