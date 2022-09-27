@@ -88,7 +88,27 @@
 
       ![python I - 5 2](https://user-images.githubusercontent.com/74751990/192597088-df91bfab-a9ea-4947-9043-2f2cc29c70c6.jpg)
 
+3. Delete Starting Even Numbers
 
+    Let’s try a tricky challenge involving removing elements from a list. This function will repeatedly remove the first element of a list until it finds an odd number or runs out of elements. It will accept a list of numbers as an input parameter and return the modified list where any even numbers at the beginning of the list are removed. To do this, we will need the following steps:
+
+        a.  Define our function to accept a single input parameter lst which is a list of numbers
+
+        b.  Loop through every number in the list if there are still numbers in the list and if we haven’t hit an odd number yet
+
+        c.  Within the loop, if the first number in the list is even, then remove the first number of the list
+
+        d.  Once we hit an odd number or we run out of numbers, return the modified list
+
+    >   Coding question
+
+
+
+    >   Code :
+
+
+
+    >   Result  :
 
 
 
