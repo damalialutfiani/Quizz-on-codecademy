@@ -132,7 +132,19 @@
 
       ![python I - 5 3](https://user-images.githubusercontent.com/74751990/192845855-94a65473-a5e8-421b-be57-fe8b0b333fff.jpg)
 
+4. Odd Indices
 
+    This next function will give us the values from a list at every odd index. We will need to accept a list of numbers as an input parameter and loop through the odd indices instead of the elements. Here are the steps needed:
+
+        a.  Define the function header to accept one input which will be our list of numbers
+
+        b.  Create a new list which will hold our values to return
+
+        c.  Iterate through every odd index until the end of the list
+
+        d.  Within the loop, get the element at the current odd index and append it to our new list
+
+        e.  Return the list of elements which we got from the odd indices.
 
 
 
