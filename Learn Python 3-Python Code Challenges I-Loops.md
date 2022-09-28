@@ -174,3 +174,10 @@
 
     >   Result  :
 
+      ![python I - 5 4](https://user-images.githubusercontent.com/74751990/192846813-e21a57dd-3133-451f-975b-c7e676f14383.jpg)
+
+
+
+
+
+
