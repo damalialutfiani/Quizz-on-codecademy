@@ -146,9 +146,13 @@
 
         e.  Return the list of elements which we got from the odd indices.
 
+    >   Coding question
 
 
 
+    >   Code :
 
 
+
+    >   Result  :
 
