@@ -6,12 +6,23 @@
 
         a.  Define the function to accept two input parameters: lst1 and lst2
 
-Create two variables to record the two sums
-Loop through the first list and add up all of the numbers
-Loop through the second list and add up all of the numbers
-Compare the first and second sum and return the list with the greater sum
+        b.  Create two variables to record the two sums
+
+        c.  Loop through the first list and add up all of the numbers
+
+        d.  Loop through the second list and add up all of the numbers
+
+        e.  Compare the first and second sum and return the list with the greater sum
+
+    >   Coding question
 
 
+
+    >   Code :
+
+
+
+    >   Result  :
 
 
 
