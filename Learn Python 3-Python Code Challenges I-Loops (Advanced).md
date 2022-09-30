@@ -52,5 +52,10 @@
 
     >   Result  :
 
+      ![python I - 6 1](https://user-images.githubusercontent.com/74751990/193361567-839c8c01-7174-4fb2-9af4-5d24ce7e02b4.jpg)
+
+
+
+
 
 
