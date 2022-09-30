@@ -224,6 +224,4 @@
 
     >   Result  :
 
-
-
-
+      ![python I - 5 5](https://user-images.githubusercontent.com/74751990/193165345-0cebe45c-bee9-423b-bdab-f24311012c7a.jpg)
