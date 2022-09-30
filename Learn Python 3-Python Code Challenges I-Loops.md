@@ -176,7 +176,21 @@
 
       ![python I - 5 4](https://user-images.githubusercontent.com/74751990/192846813-e21a57dd-3133-451f-975b-c7e676f14383.jpg)
 
+5. Exponents
 
+    In this challenge, we will be using nested loops in order to raise a list of numbers to the power of a list of other numbers. What this means is that for every number in the first list, we will raise that number to the power of every number in the second list. If you provide the first list with 2 elements and the second list with 3 numbers, then there will be 6 final answers. Let’s look at the steps we need:
+
+        a.  Define the function to accept two lists of numbers, bases and powers
+
+        b.  Create a new list that will contain our answers
+
+        c.  Create a loop that iterates through every base in bases
+
+        d.  Within that loop, create another loop that iterates through every power in power
+
+        e.  Within that nested loop, append the result of the current base raised to the current power.
+
+        f.  After all iterations of both loops are complete, return the list of answers
 
 
 
