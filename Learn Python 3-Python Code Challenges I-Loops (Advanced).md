@@ -70,6 +70,15 @@
 
         f.  Return the value of the sum when we ended our loop
 
+    >   Coding question
+
+
+
+    >   Code :
+
+
+
+    >   Result  :
 
 
 
