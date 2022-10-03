@@ -120,7 +120,9 @@
 
     >   Coding question
 
+    1.  Create a function named max_num() that takes a list of numbers named nums as a parameter.
 
+    2.  The function should return the largest number in nums
 
     >   Code :
 
