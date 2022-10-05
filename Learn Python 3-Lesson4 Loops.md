@@ -26,8 +26,9 @@ Lesson 4 – **Loops**
 	
 2.	What would be the output of the following code:
 
-	for i in range(3):
-		print(i)
+		for i in range(3):
+		
+			print(i)
 		
 	a.	
 		
