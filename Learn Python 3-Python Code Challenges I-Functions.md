@@ -12,7 +12,9 @@
     
     >   Coding question
     
-    
+    1.  Write a function named tenth_power() that has one parameter named num.
+
+    2.  The function should return num raised to the 10th power.
     
     >   Code :
 
