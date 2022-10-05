@@ -200,8 +200,15 @@
 
         d.  If the loop ended successfully, then we know the lists are reversed and we can return True.
 
+    >   Coding question
 
 
+
+    >   Code :
+
+
+
+    >   Result  :
 
 
 
