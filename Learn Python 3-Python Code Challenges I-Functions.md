@@ -42,7 +42,15 @@
 
       ![python I - 7 1](https://user-images.githubusercontent.com/74751990/194049614-018943e3-5b04-40e8-8aa3-fd07de514354.jpg)
 
+2. Square Root
 
+    Another useful function for solving math problems is the square root function. We can create this using similar steps from the last problem. The code will look very similar. We need to:
+
+        a.  Set up the function header for square_root which accepts one parameter
+
+        b.  Take the square root of the input value
+
+        c.  Return the result
 
 
 
