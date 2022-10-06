@@ -54,7 +54,9 @@
 
     >   Coding question
 
+    1.  Write a function named square_root() that has one parameter named num.
 
+    2.  Use exponents (**) to return the square root of num.
 
     >   Code :
 
