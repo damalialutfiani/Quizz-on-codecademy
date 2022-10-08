@@ -123,7 +123,17 @@
 
       ![python I - 7 3](https://user-images.githubusercontent.com/74751990/194445343-253dbd04-e80b-4ac5-a3ec-81d150f62c81.jpg)
 
+4. Average
 
+    Let’s create a function which takes the average of two numbers. These two numbers will be the input of the function and the output will be the average of the two. In order to do this, we need to do a few steps:
+
+        a.  Define the function with two input parameters, num1 and num2
+
+        b.  Calculate the sum of the two numbers
+
+        c.  Divide the sum by the number of inputs to the function
+
+        d.  Return the answer
 
 
 
