@@ -203,15 +203,4 @@
 
     >   Result  :
 
-
-
-
-
-
-
-
-
-
-
-
-
+      ![python I - 7 5](https://user-images.githubusercontent.com/74751990/194732705-4a05494f-4886-44f4-a3a1-14584b9f5cef.jpg)
