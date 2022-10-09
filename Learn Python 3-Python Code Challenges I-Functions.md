@@ -163,3 +163,39 @@
 
       ![python I - 7 4](https://user-images.githubusercontent.com/74751990/194713127-9b88e5d3-3792-4bd3-9b1a-653596ed7a33.jpg)
 
+5. Remainder
+
+    For the final challenge in this group, we are going to take the remainder of two numbers while performing other mathematical operations on them. We are going to multiply the numerator by 2 and divide the denominator by 2. After the two values have been modified, we will divide them and return the remainder. In order to do this we will need to:
+
+        a.  Define the function to accept two parameters
+
+        b.  Multiply the first input value by 2
+
+        c.  Divide the second input value by 2
+
+        d.  Calculate the remainder of the modified first input value divided by the modified second input value (using modulus)
+
+        e.  Return the answer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
