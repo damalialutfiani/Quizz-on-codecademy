@@ -1,4 +1,4 @@
-**Python Code Challenges I-Functions (Advanced).md**
+**Python Code Challenges I-Functions (Advanced)**
 
 1. First Three Multiples
 
@@ -45,6 +45,14 @@
         # should print 0, 0, 0, and return 0        
         
     >   Result  :
+
+      ![python I - 8 1](https://user-images.githubusercontent.com/74751990/194825115-9b25edde-c82f-4b5c-83e3-4a6a70306612.jpg)
+
+
+
+
+
+
 
 
 
