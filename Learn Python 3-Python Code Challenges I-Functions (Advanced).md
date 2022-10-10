@@ -14,11 +14,16 @@
       
         e.  Return the value of 3 times num
         
+    >   Coding question
         
         
         
+    >   Code :      
         
         
         
-        
-        
+    >   Result  :
+
+
+
+
