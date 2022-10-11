@@ -60,7 +60,9 @@
 
     >   Coding question
 
+    1.  Create a function called tip() that has two parameters named total and percentage.
 
+    2.  This function should return the amount you should tip given a total and the percentage you want to tip.
 
     >   Code : 
 
