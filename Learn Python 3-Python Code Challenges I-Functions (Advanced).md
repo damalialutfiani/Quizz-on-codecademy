@@ -58,15 +58,15 @@
 
         c.  Return the tip amount
 
+    >   Coding question
 
 
 
+    >   Code : 
 
 
 
-
-
-
+    >   Result  :
 
 
 
