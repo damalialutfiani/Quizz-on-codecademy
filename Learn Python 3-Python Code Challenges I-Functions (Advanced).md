@@ -86,7 +86,21 @@
 
       ![python I - 8 2](https://user-images.githubusercontent.com/74751990/195116963-b55e7ec2-02cb-4325-81c0-2fdc7584002d.jpg)
 
+3. Bond, James Bond
 
+    It’s time to re-create a famous movie scene through code. Our function is going to concatenate strings together in order to replace James Bond’s name with whatever name we want. The input to our function will be two strings, one for a first name and another for a last name. The function will return a string consisting of the famous phrase but replaced with our inputs. To accomplish this, we need to:
+
+        a.  Define the function to accept two parameters, first_name and last_name
+
+        b.  Concatenate the string ', ' on to the last_name
+
+        c.  Concatenate the first_name on to the result of the previous step
+
+        d.  Concatenate a space on to the result
+
+        e.  Concatenate the last_name again to the result
+
+        f.  Return the final string
 
 
 
