@@ -8,7 +8,7 @@ Lesson 5 – **Functions**
 	
 	c.	**return inner_var**
 	
-	d.	def ineer_var
+	d.	def inner_var
 	
 2.	Which variables can be called in the blank spot in this code:
 
@@ -22,9 +22,9 @@ Lesson 5 – **Functions**
 			
 		_____
 
-	a.	**Just counter.**
+	a.	**Just counter**
 	
-	b.	Neither counter nor new_counter.
+	b.	Neither counter nor new_counter
 	
 	c.	counter and new_counter
 	
