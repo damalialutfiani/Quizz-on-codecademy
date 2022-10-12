@@ -40,7 +40,7 @@ Lesson 5 – **Functions**
 	
 	d.	setup(None)
 	
-4.	 What line of code will call force with a value of 10 for mass and a value of 9.81 for acceleration?
+4.	What line of code will call force with a value of 10 for mass and a value of 9.81 for acceleration?
 
 		def force(mass, acceleration):
 		
