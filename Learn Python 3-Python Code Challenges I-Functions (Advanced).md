@@ -144,7 +144,13 @@
 
     >   Coding question
 
+    1.  Some say that every one year of a human’s life is equivalent to seven years of a dog’s life. Write a function named dog_years() that has two parameters named name and age.
 
+    2.  The function should compute the age in dog years and return the following string:
+
+            "{name}, you are {age} years old in dog years"
+
+    3.  Test this function with your name and your age!
 
     >   Code : 
 
