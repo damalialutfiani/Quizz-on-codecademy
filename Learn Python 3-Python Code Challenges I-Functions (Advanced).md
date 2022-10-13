@@ -130,5 +130,25 @@
 
       ![python I - 8 3](https://user-images.githubusercontent.com/74751990/195383375-d4dfe03f-c58d-4709-a8b4-8ec4032f4ded.jpg)
 
+4. Dog Years
+
+    Let’s create a function which calculates a dog’s age in dog years! This function will accept the name of the dog and the age in human years. It will calculate the age of the dog in dog years and return a string describing the dog’s age. This will require a few steps:
+
+        a.  Define the function called dog_years to accept two parameters: name and age
+
+        b.  Calculate the age of the dog in dog years
+
+        c.  Concatenate the string with the dog’s name and age in dog years
+
+        d.  Return the resulting string
+
+
+
+
+
+
+
+
+
 
 
