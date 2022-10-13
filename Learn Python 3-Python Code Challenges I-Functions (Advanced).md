@@ -142,10 +142,15 @@
 
         d.  Return the resulting string
 
+    >   Coding question
 
 
 
+    >   Code : 
 
+
+
+    >   Result  :
 
 
 
