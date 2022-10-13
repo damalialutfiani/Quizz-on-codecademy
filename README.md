@@ -1,4 +1,4 @@
-# Quizz-on-codacademy
+# Quizz-on-codecademy
 Contains quizzes on several materials at codecademy
 
 There are :
