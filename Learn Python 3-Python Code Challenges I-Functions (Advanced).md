@@ -188,15 +188,15 @@
 
         e.  Return the previous result modulo a
 
+    >   Coding question
 
 
 
+    >   Code :
 
 
 
-
-
-
+    >   Result  :
 
 
 
