@@ -230,10 +230,4 @@
 
     >   Result  :
 
-
-
-
-
-
-
-
+      ![python I - 8 5](https://user-images.githubusercontent.com/74751990/195821146-834337fb-387b-47d1-b417-e81e4665377b.jpg)
