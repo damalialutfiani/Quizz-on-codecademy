@@ -2,13 +2,13 @@ Lesson 6 - **Introduction to Strings**
 
 1.  What character will be selected from the string cool_fruit = "watermelon" using the code cool_fruit[len(cool_fruit) - 2]?
 
-    a.  This code will throw an IndexError
+	a.	This code will throw an IndexError
 
-    b.  "n"
+	b.	"n"
 
-    c.  "l"
+	c.	"l"
 
-	  d.	**"o"**
+	d.	**"o"**
  
 2.	Which of the following expressions is False?
 -	"cherry" in "cherry"
