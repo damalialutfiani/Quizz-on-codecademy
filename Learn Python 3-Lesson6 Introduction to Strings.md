@@ -1,11 +1,15 @@
 Lesson 6 - **Introduction to Strings**
 
-1.	What character will be selected from the string cool_fruit = "watermelon" using the code cool_fruit[len(cool_fruit) - 2]?
--	This code will throw an IndexError
--	"n"
--	"l"
--	** "o" **
+1.  What character will be selected from the string cool_fruit = "watermelon" using the code cool_fruit[len(cool_fruit) - 2]?
 
+    a.  This code will throw an IndexError
+
+    b.  "n"
+
+    c.  "l"
+
+	  d.	**"o"**
+ 
 2.	Which of the following expressions is False?
 -	"cherry" in "cherry"
 -	** "s" in "watermelon" **
