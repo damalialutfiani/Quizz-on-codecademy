@@ -22,11 +22,16 @@ Lesson 6 - **Introduction to Strings**
 
 3.	What will the following code print to terminal?
 
-def print_some_characters(word):
-for i in range(len(word)):
-if i % 2 == 0:
-print(word[i])
-print_some_characters("watermelon")
+		def print_some_characters(word):
+
+		for i in range(len(word)):
+
+		if i % 2 == 0:
+
+		print(word[i])
+
+		print_some_characters("watermelon")
+
 -	**w
 t
 r
