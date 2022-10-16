@@ -11,10 +11,14 @@ Lesson 6 - **Introduction to Strings**
 	d.	**"o"**
  
 2.	Which of the following expressions is False?
--	"cherry" in "cherry"
--	** "s" in "watermelon" **
--	"cran" in "cranberry"
--	"a" in "banana"
+
+	a.	"cherry" in "cherry"
+	
+	b.	** "s" in "watermelon" **
+
+	c.	"cran" in "cranberry"
+
+	d.	"a" in "banana"
 
 3.	What will the following code print to terminal?
 def print_some_characters(word):
