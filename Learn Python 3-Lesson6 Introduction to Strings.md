@@ -24,11 +24,11 @@ Lesson 6 - **Introduction to Strings**
 
 		def print_some_characters(word):
 
-		for i in range(len(word)):
+			for i in range(len(word)):
 
-		if i % 2 == 0:
+				if i % 2 == 0:
 
-		print(word[i])
+					print(word[i])
 
 		print_some_characters("watermelon")
 
