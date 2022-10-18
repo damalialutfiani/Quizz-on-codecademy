@@ -72,13 +72,13 @@ Lesson 6 - **Introduction to Strings**
 
 4.	Given the string least_favorite_fruit = “cantaloupe”, what piece of code would create a string that was equal to “lou”?
 
--	**least_favorite_fruit[5:8]**
+	a.	**least_favorite_fruit[5:8]**
 
--	least_favorite_fruit[6:8]
+	b.	least_favorite_fruit[6:8]
 
--	least_favorite_fruit[5:7]
+	c.	least_favorite_fruit[5:7]
 
--	least_favorite_fruit[4:7]
+	d.	least_favorite_fruit[4:7]
 
 5.	What code would select the letter “p” from the string good_fruit = “Raspberry”?
 -	good_fruit(3)
