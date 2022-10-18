@@ -70,4 +70,23 @@ Lesson 6 - **Introduction to Strings**
 
 		n
 
+4.	Given the string least_favorite_fruit = “cantaloupe”, what piece of code would create a string that was equal to “lou”?
+-	**least_favorite_fruit[5:8]**
+-	least_favorite_fruit[6:8]
+-	least_favorite_fruit[5:7]
+-	least_favorite_fruit[4:7]
+5.	What code would select the letter “p” from the string good_fruit = “Raspberry”?
+-	good_fruit(3)
+-	good_fruit(4)
+-	**good_fruit[3]**
+-	good_fruit[4]
+6.	Consider he following function. What would it print to the terminal?
+def tell_me_about_icecream(favorite_icecream):
+	response = “My favorite icecream is” + favorite_icecream + “.”
+	print(response)
+tell_me_about_icecream(“chocolate”)
+-	My favorite icecream is + chocolate +.
+-	response
+-	My favorite icecream is chocolate.
+-	**My favorite icecream ischocolate.**
 
