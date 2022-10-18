@@ -32,20 +32,42 @@ Lesson 6 - **Introduction to Strings**
 
 		print_some_characters("watermelon")
 
--	**w
-t
-r
-e
-o**
--	t
--	t
-r
-e
-o
--	a
-e
-m
-l
-n
+	a.	
+	
+	**w**
+
+	**t**
+
+	**r**
+
+	**e**
+
+	**o**
+
+	b.	
+	
+		t
+	
+	c.
+	
+		t
+
+		r
+
+		e
+
+		o
+
+	d.	
+		
+		a
+
+		e
+
+		m
+
+		l
+
+		n
 
 
