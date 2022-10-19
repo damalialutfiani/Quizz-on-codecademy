@@ -91,10 +91,14 @@ Lesson 6 - **Introduction to Strings**
 	d.	good_fruit[4]
 
 6.	Consider he following function. What would it print to the terminal?
-def tell_me_about_icecream(favorite_icecream):
-	response = “My favorite icecream is” + favorite_icecream + “.”
-	print(response)
-tell_me_about_icecream(“chocolate”)
+
+		def tell_me_about_icecream(favorite_icecream):
+
+			response = “My favorite icecream is” + favorite_icecream + “.”
+
+			print(response)
+
+		tell_me_about_icecream(“chocolate”)
 -	My favorite icecream is + chocolate +.
 -	response
 -	My favorite icecream is chocolate.
