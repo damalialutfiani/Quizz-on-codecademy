@@ -81,10 +81,15 @@ Lesson 6 - **Introduction to Strings**
 	d.	least_favorite_fruit[4:7]
 
 5.	What code would select the letter “p” from the string good_fruit = “Raspberry”?
--	good_fruit(3)
--	good_fruit(4)
--	**good_fruit[3]**
--	good_fruit[4]
+
+	a.	good_fruit(3)
+
+	b.	good_fruit(4)
+
+	c.	**good_fruit[3]**
+
+	d.	good_fruit[4]
+
 6.	Consider he following function. What would it print to the terminal?
 def tell_me_about_icecream(favorite_icecream):
 	response = “My favorite icecream is” + favorite_icecream + “.”
