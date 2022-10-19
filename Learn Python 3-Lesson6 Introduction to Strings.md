@@ -99,8 +99,12 @@ Lesson 6 - **Introduction to Strings**
 			print(response)
 
 		tell_me_about_icecream(“chocolate”)
--	My favorite icecream is + chocolate +.
--	response
--	My favorite icecream is chocolate.
--	**My favorite icecream ischocolate.**
+
+	a.	My favorite icecream is + chocolate +.
+
+	b.	response
+
+	c.	My favorite icecream is chocolate.
+
+	d.	**My favorite icecream ischocolate.**
 
