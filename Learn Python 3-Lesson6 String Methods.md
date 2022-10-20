@@ -1,6 +1,7 @@
 Lesson 6 – **String Methods**
 
 1.	Given the poem (When You Are Old, by W. B. Yeats) saved as multiline string as shown in the code block, what code could we use to create a list that contains a string of each line in the poem?
+
 when_you_are_old = \
 “””When you are old and grey and full of sleep,
 And nodding by the fire, take down this book,
