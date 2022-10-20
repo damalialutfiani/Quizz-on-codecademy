@@ -41,10 +41,12 @@ Lesson 6 – **String Methods**
 	d.	user_name_fixed = user_name.strip().strip(":")
 
 3.	Given the list greeting = ["Hello", "my", "name", "is", "Earl"] what line of code would produce a string that contains “Hello_my_name_is_Earl”.
+
 -	" ".join(greeting, “_”)
 -	greeting.join(“_”)
 -	**"_".join(greeting)**
 -	greeting.join()
+
 4.	Which of the following answer choices best describes the function of the string method .find()?
 -	Find searches a string for its argument and replaces it with its second argument.
 -	Find searches a string for its argument returns a string of all the characters that come before the argument.
