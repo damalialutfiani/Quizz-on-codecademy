@@ -31,10 +31,15 @@ Lesson 6 – **String Methods**
 	d.	**list_of_lines = when_you_are_old.split("\n")**
 
 2.	Consider the string user_name = "::::::::Eloise :::::::::::". What line of code would clean this string and produce the string user_name_fixed = "Eloise"?
--	user_name_fixed = user_name.strip(":")
--	user_name_fixed = user_name.strip()
--	**user_name_fixed = user_name.strip(":").strip()**
--	user_name_fixed = user_name.strip().strip(":")
+
+	a.	user_name_fixed = user_name.strip(":")
+
+	b.	user_name_fixed = user_name.strip()
+
+	c.	**user_name_fixed = user_name.strip(":").strip()**
+
+	d.	user_name_fixed = user_name.strip().strip(":")
+
 3.	Given the list greeting = ["Hello", "my", "name", "is", "Earl"] what line of code would produce a string that contains “Hello_my_name_is_Earl”.
 -	" ".join(greeting, “_”)
 -	greeting.join(“_”)
