@@ -17,13 +17,19 @@ Lesson 6 – **String Methods**
 		Murmur, a little sadly, how Love fled
 		And paced upon the mountains overhead
 		And hid his face amid a crowd of stars.”””
+	
+	a.	list_of_lines = when_you_are_old.strip()
+	
+	b.	
+		
+		list_of_lines = []
+		for line in when_you_are_old:
+			list_of_lines.append(line)
+	
+	c.	list_of_lines = “\n”.join(when_you_are_old)
+	
+	d.	**list_of_lines = when_you_are_old.split("\n")**
 
--	list_of_lines = when_you_are_old.strip()
--	list_of_lines = []
-for line in when_you_are_old:
-	list_of_lines.append(line)
--	list_of_lines = “\n”.join(when_you_are_old)
--	**list_of_lines = when_you_are_old.split("\n")**
 2.	Consider the string user_name = "::::::::Eloise :::::::::::". What line of code would clean this string and produce the string user_name_fixed = "Eloise"?
 -	user_name_fixed = user_name.strip(":")
 -	user_name_fixed = user_name.strip()
