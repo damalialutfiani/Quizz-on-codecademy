@@ -3,7 +3,6 @@ Lesson 6 – **String Methods**
 1.	Given the poem (When You Are Old, by W. B. Yeats) saved as multiline string as shown in the code block, what code could we use to create a list that contains a string of each line in the poem?
 
 		when_you_are_old = \
-	
 		“””When you are old and grey and full of sleep,
 		And nodding by the fire, take down this book,
 		And slowly read, and dream of the soft look
@@ -14,10 +13,11 @@ Lesson 6 – **String Methods**
 		But one man loved the pilgrim soul in you,
 		And loved the sorrows of your changing face;
 
-And bending down beside the glowing bars,
-Murmur, a little sadly, how Love fled
-And paced upon the mountains overhead
-And hid his face amid a crowd of stars.”””
+		And bending down beside the glowing bars,
+		Murmur, a little sadly, how Love fled
+		And paced upon the mountains overhead
+		And hid his face amid a crowd of stars.”””
+
 -	list_of_lines = when_you_are_old.strip()
 -	list_of_lines = []
 for line in when_you_are_old:
