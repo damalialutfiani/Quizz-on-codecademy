@@ -43,18 +43,23 @@ Lesson 6 – **String Methods**
 3.	Given the list greeting = ["Hello", "my", "name", "is", "Earl"] what line of code would produce a string that contains “Hello_my_name_is_Earl”.
 
 	a.	" ".join(greeting, “_”)
-
+	
 	b.	greeting.join(“_”)
-
+	
 	c.	**"_".join(greeting)**
 
 	d.	greeting.join()
 
 4.	Which of the following answer choices best describes the function of the string method .find()?
--	Find searches a string for its argument and replaces it with its second argument.
--	Find searches a string for its argument returns a string of all the characters that come before the argument.
--	Find searches a string for its argument and True or False.
--	**Find searches a string for its argument returns the index location of that argument.**
+
+	a.	Find searches a string for its argument and replaces it with its second argument.
+
+	b.	Find searches a string for its argument returns a string of all the characters that come before the argument.
+
+	c.	Find searches a string for its argument and True or False.
+
+	d.	**Find searches a string for its argument returns the index location of that argument.**
+
 5.	Given the following block of code, what is stored in the string split_hairs?
 dirty_harry = "Go ahead, make my day."
 split_hairs = dirty_harry.split("a")
