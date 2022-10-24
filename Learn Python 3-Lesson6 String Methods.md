@@ -74,10 +74,14 @@ Lesson 6 – **String Methods**
 	d.	["Go head, mke my dy”, “a”]
 
 6.	Given the string hello_jerry = "Hi, my name is Jerry", which of the following lines of code will produce the string "Hi, My Name Is Jerry"?
--	hello_jerry.upper()
--	hello_jerry.lower()
--	**hello_jerry.title()**
--	hello_jerry.namecase()
+
+	a.	hello_jerry.upper()
+
+	b.	hello_jerry.lower()
+
+	c.	**hello_jerry.title()**
+
+	d.	hello_jerry.namecase()
 
 7.	Which of the following is a benefit of using .format() to include variables in your strings?
 -	They let you update variales while printing a string.
