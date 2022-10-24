@@ -61,8 +61,10 @@ Lesson 6 – **String Methods**
 	d.	**Find searches a string for its argument returns the index location of that argument.**
 
 5.	Given the following block of code, what is stored in the string split_hairs?
-dirty_harry = "Go ahead, make my day."
-split_hairs = dirty_harry.split("a")
+
+		dirty_harry = "Go ahead, make my day."
+		split_hairs = dirty_harry.split("a")
+
 -	["Go a", "head, ma", "ke my da", "y."]
 -	**["Go ", "he", "d, m", "ke my d", "y."]**
 -	["Go", "ahead,", "make”, “my", "day."]
