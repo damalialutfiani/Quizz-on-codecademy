@@ -65,7 +65,11 @@ Lesson 6 – **String Methods**
 		dirty_harry = "Go ahead, make my day."
 		split_hairs = dirty_harry.split("a")
 
--	["Go a", "head, ma", "ke my da", "y."]
--	**["Go ", "he", "d, m", "ke my d", "y."]**
--	["Go", "ahead,", "make”, “my", "day."]
--	["Go head, mke my dy”, “a”]
+	a.	["Go a", "head, ma", "ke my da", "y."]
+
+	b.	**["Go ", "he", "d, m", "ke my d", "y."]**
+
+	c.	["Go", "ahead,", "make”, “my", "day."]
+
+	d.	["Go head, mke my dy”, “a”]
+
