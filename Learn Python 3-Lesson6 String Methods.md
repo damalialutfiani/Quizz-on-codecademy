@@ -64,7 +64,7 @@ Lesson 6 – **String Methods**
 
 		dirty_harry = "Go ahead, make my day."
 		split_hairs = dirty_harry.split("a")
-
+	
 	a.	["Go a", "head, ma", "ke my da", "y."]
 
 	b.	**["Go ", "he", "d, m", "ke my d", "y."]**
@@ -73,3 +73,14 @@ Lesson 6 – **String Methods**
 
 	d.	["Go head, mke my dy”, “a”]
 
+6.	Given the string hello_jerry = "Hi, my name is Jerry", which of the following lines of code will produce the string "Hi, My Name Is Jerry"?
+-	hello_jerry.upper()
+-	hello_jerry.lower()
+-	**hello_jerry.title()**
+-	hello_jerry.namecase()
+
+7.	Which of the following is a benefit of using .format() to include variables in your strings?
+-	They let you update variales while printing a string.
+-	They are able to catch and process errors if a variable does not exist.
+-	**It makes your code more legible.**
+-	They let you define variables within a string.
