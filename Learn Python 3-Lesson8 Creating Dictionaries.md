@@ -8,13 +8,13 @@ Lesson 8 – **Creating Dictionaries**
 
         print(room_dict)
 
-       a.	**{"executive": 7, "hopper": 20, "lovelace": 6, "pod": 2, "snooze booth": 1}**
+    a.	**{"executive": 7, "hopper": 20, "lovelace": 6, "pod": 2, "snooze booth": 1}**
 
-       b.	[("executive", 7), ("hopper", 20), ("lovelace", 6), ("pod", 2), ("snooze booth", 1)}
+    b.	[("executive", 7), ("hopper", 20), ("lovelace", 6), ("pod", 2), ("snooze booth", 1)}
 
-       c.	{7: "executive", 20: "hopper", 6: "lovelace", 2: "pod", 1: "snooze booth": 1}
+    c.	{7: "executive", 20: "hopper", 6: "lovelace", 2: "pod", 1: "snooze booth": 1}
 
-       d.	["executive", 7, "hopper", 20, "lovelace", 6, "pod", 2, "snooze booth", 1]
+    d.	["executive", 7, "hopper", 20, "lovelace", 6, "pod", 2, "snooze booth", 1]
 
 2.  What is the value of inventory after this code run?
 
