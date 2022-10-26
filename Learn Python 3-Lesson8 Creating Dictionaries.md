@@ -16,3 +16,13 @@ Lesson 8 – **Creating Dictionaries**
        c.	{7: "executive", 20: "hopper", 6: "lovelace", 2: "pod", 1: "snooze booth": 1}
 
        d.	["executive", 7, "hopper", 20, "lovelace", 6, "pod", 2, "snooze booth", 1]
+
+2.          What is the value of inventory after this code run?
+
+inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20}
+inventory["invisible knife"] = 40
+inventory["mithril shield"] = 25
+-	**{"iron spear": 12, "invisible knife": 40, "needle of ambition": 10, "stone glove": 20, "mithril shield": 25}**
+-	{"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, “invisible knife”: 40, "mithril shield": 25}
+-	{"iron spear": 12, "invisible knife": 70, "needle of ambition": 10, "stone glove": 20}
+-	{"iron spear": 12, "invisible knife": 70, "needle of ambition": 10, "stone glove": 20, "mithril shield": 25}
