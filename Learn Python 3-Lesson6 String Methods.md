@@ -85,7 +85,7 @@ Lesson 6 – **String Methods**
 
 7.	Which of the following is a benefit of using .format() to include variables in your strings?
 
-	a.	They let you update variales while printing a string.
+	a.	They let you update variables while printing a string.
 
 	b.	They are able to catch and process errors if a variable does not exist.
 
