@@ -33,10 +33,10 @@ Lesson 8 – **Creating Dictionaries**
 
 3.  What is the line of code to initialize an empty dictionary called thesaurus?
 
-        a.      thesaurus = []
+    a.  thesaurus = []
 
-        b.	thesaurus = empty_dict()
+    b.	thesaurus = empty_dict()
 
-        c.	thesaurus = new Dictionary()
+    c.	thesaurus = new Dictionary()
 
-        d.	**thesaurus = {}**
+    d.	**thesaurus = {}**
