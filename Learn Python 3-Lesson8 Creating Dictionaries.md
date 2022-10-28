@@ -30,3 +30,9 @@ Lesson 8 – **Creating Dictionaries**
     c.  {"iron spear": 12, "invisible knife": 70, "needle of ambition": 10, "stone glove": 20}
 
     d.  {"iron spear": 12, "invisible knife": 70, "needle of ambition": 10, "stone glove": 20, "mithril shield": 25}
+
+3.	What is the line of code to initialize an empty dictionary called thesaurus?
+-	thesaurus = []
+-	thesaurus = empty_dict()
+-	thesaurus = new Dictionary()
+-	**thesaurus = {}**
