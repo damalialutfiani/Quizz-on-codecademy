@@ -41,8 +41,12 @@ Lesson 8 – **Creating Dictionaries**
 
     d.	**thesaurus = {}**
 
-4.	Which of these is an invalid dictionary (will result in a TypeError when trying to run)?
--	**{["apple", "orange"]: "fruit", ["broccoli"]: "vegetable", ["salt", "paprika", "saffron"]: "spice"}**
--	{2: ["apple", "orange"], 1: ["broccoli"], 3: ["salt", "paprika", "saffron"]}
--	{"fruit": “apple”, "vegetable": 100, “spice”: ["salt", "paprika", "saffron"]}
--	All these are valid
+4.  Which of these is an invalid dictionary (will result in a TypeError when trying to run)?
+
+    a.  **{["apple", "orange"]: "fruit", ["broccoli"]: "vegetable", ["salt", "paprika", "saffron"]: "spice"}**
+
+    b.	{2: ["apple", "orange"], 1: ["broccoli"], 3: ["salt", "paprika", "saffron"]}
+        
+    c.  {"fruit": “apple”, "vegetable": 100, “spice”: ["salt", "paprika", "saffron"]}
+        
+    d.  All these are valid
