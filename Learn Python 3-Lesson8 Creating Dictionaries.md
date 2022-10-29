@@ -52,7 +52,11 @@ Lesson 8 – **Creating Dictionaries**
     d.  All these are valid
 
 5.	Which of these dictionaries has integers as the keys and strings as the values?
--	zipcodes = {"Alabama":35801, "Alaska":99501, "Oregon":97201, "Vermont":05751, "New Jersey":07039}
--	**zipcodes = {35801: "Alabama", 99501: "Alaska", 97201: "Oregon", 05751: "Vermont", 07039: "New Jersey"}**
--	zipcodes = {35801: "Alabama", “No Value”: “N/A”, “APO”: “Overseas”}
--	zipcodes = {35801: ["Huntsville", “Montgomery”], 99501: ["Anchorage"], 97201: ["Portland", “Salem”], 05751: [“Burlington”, “Montpelier”, "Rutland"], 07039: ["Hoboken"]}
+
+        a.	zipcodes = {"Alabama":35801, "Alaska":99501, "Oregon":97201, "Vermont":05751, "New Jersey":07039}
+
+        b.	**zipcodes = {35801: "Alabama", 99501: "Alaska", 97201: "Oregon", 05751: "Vermont", 07039: "New Jersey"}**
+
+        c.	zipcodes = {35801: "Alabama", “No Value”: “N/A”, “APO”: “Overseas”}
+
+        d.	zipcodes = {35801: ["Huntsville", “Montgomery”], 99501: ["Anchorage"], 97201: ["Portland", “Salem”], 05751: [“Burlington”, “Montpelier”, "Rutland"], 07039: ["Hoboken"]}
