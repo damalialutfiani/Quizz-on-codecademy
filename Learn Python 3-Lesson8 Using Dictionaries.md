@@ -20,7 +20,7 @@ Lesson 8 – **Using Dictionaries**
 
             print(12 in inventory)
 
--	True
+      a.    True
 -	"iron spear"
 -	KeyError
 -	**False**
