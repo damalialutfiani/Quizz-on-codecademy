@@ -21,6 +21,8 @@ Lesson 8 – **Using Dictionaries**
             print(12 in inventory)
 
       a.    True
--	"iron spear"
+      
+      b.	"iron spear"
+      
 -	KeyError
 -	**False**
