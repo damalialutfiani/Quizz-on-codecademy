@@ -24,5 +24,5 @@ Lesson 8 – **Using Dictionaries**
       
       b.	"iron spear"
       
--	KeyError
+      c.    KeyError
 -	**False**
