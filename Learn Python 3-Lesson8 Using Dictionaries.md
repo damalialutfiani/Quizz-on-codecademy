@@ -13,3 +13,14 @@ Lesson 8 – **Using Dictionaries**
       c.      **["hamburger", "fries"]**
       
       d.      ["veggie burger", "salad", "soda"]
+
+2.    What does the following code output?
+
+            inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, "the peacemaker": 65, "demonslayer": 50}
+
+            print(12 in inventory)
+
+-	True
+-	"iron spear"
+-	KeyError
+-	**False**
