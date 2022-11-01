@@ -27,3 +27,14 @@ Lesson 8 – **Using Dictionaries**
       c.    KeyError
 
       d.	**False**
+
+3.          What will the following code output?
+
+            inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, "the peacemaker": 65, "demonslayer": 50}
+
+            print(inventory.get("stone glove", 30))
+
+-	("stone glove", 20)
+-	**20**
+-	10
+-	30
