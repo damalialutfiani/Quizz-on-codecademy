@@ -34,7 +34,10 @@ Lesson 8 – **Using Dictionaries**
 
             print(inventory.get("stone glove", 30))
 
-            a.          ("stone glove", 20)
-            b.	**20**
-            c.	10
-            d.	30
+      a.    ("stone glove", 20)
+      
+      b.	**20**
+      
+      c.	10
+      
+      d.	30
