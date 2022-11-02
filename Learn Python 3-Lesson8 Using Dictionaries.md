@@ -41,3 +41,13 @@ Lesson 8 – **Using Dictionaries**
       c.	10
       
       d.	30
+
+4.	What will the following code output?
+
+combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
+print(combo_meals[2])
+
+-	KeyError
+-	**["hamburger", "fries", "soda"]**
+-	"soda"
+-	["veggie burger", "salad", "soda"]
