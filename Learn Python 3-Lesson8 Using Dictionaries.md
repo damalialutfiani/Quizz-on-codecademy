@@ -72,10 +72,13 @@ Lesson 8 – **Using Dictionaries**
 
       b.	
       
-      **"Moonlight"
-      "Casey Affleck"
-      “Emma Stone"
-      "Zootopia" **
+      **"Moonlight"**
+      
+      **"Casey Affleck"**
+      
+      **“Emma Stone"**
+      
+      **"Zootopia"**
 
       c.	
             
