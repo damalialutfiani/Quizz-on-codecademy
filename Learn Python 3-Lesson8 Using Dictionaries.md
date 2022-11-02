@@ -56,22 +56,24 @@ Lesson 8 – **Using Dictionaries**
 
       d.	["veggie burger", "salad", "soda"]
 
-5.          What is the output of the following code?
+5.    What is the output of the following code?
 
             oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
 
             for element in oscars.values():
                         print(element)
 
-      a.	("Best Picture", "Moonlight")
+      a.	
+      
+            ("Best Picture", "Moonlight")
             ("Best Actor", "Casey Affleck")
             ("Best Actress", "Emma Stone")
             ("Animated Feature", "Zootopia")
 
-            b.	** "Moonlight"
-"Casey Affleck"
-“Emma Stone"
-"Zootopia" **
+      b.	** "Moonlight"
+            "Casey Affleck"
+            “Emma Stone"
+            "Zootopia" **
 
             c.	"Best Picture"
 "Best Actor"
