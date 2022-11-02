@@ -42,10 +42,11 @@ Lesson 8 – **Using Dictionaries**
       
       d.	30
 
-4.	What will the following code output?
+4.    What will the following code output?
 
-combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
-print(combo_meals[2])
+            combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
+            
+            print(combo_meals[2])
 
       a.    KeyError
 
