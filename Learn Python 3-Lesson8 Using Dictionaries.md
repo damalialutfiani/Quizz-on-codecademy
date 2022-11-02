@@ -94,7 +94,7 @@ Lesson 8 – **Using Dictionaries**
             "Best Actress": "Emma Stone"
             "Animated Feature": "Zootopia"
 
-6.	What will the following code output?
+6.    What will the following code output?
 
             inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, "the peacemaker": 65, "demonslayer": 50}
             
