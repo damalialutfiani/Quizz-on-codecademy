@@ -70,17 +70,23 @@ Lesson 8 – **Using Dictionaries**
             ("Best Actress", "Emma Stone")
             ("Animated Feature", "Zootopia")
 
-      b.	** "Moonlight"
-            "Casey Affleck"
-            “Emma Stone"
-            "Zootopia" **
+      b.	
+      
+      **"Moonlight"
+      "Casey Affleck"
+      “Emma Stone"
+      "Zootopia" **
 
-            c.	"Best Picture"
-"Best Actor"
-"Best Actress"
-"Animated Feature"
+      c.	
+            
+            "Best Picture"
+            "Best Actor"
+            "Best Actress"
+            "Animated Feature"
 
-            d.	"Best Picture" : "Moonlight"
-"Best Actor": "Casey Affleck"
-"Best Actress": "Emma Stone"
-"Animated Feature": "Zootopia"
+      d.	
+      
+            "Best Picture" : "Moonlight"
+            "Best Actor": "Casey Affleck"
+            "Best Actress": "Emma Stone"
+            "Animated Feature": "Zootopia"
