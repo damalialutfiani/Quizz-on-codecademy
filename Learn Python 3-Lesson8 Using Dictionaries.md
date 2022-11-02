@@ -58,10 +58,10 @@ Lesson 8 – **Using Dictionaries**
 
 5.	What is the output of the following code?
 
-oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
+            oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
 
-for element in oscars.values():
-print(element)
+            for element in oscars.values():
+                        print(element)
 
 -	("Best Picture", "Moonlight")
 ("Best Actor", "Casey Affleck")
