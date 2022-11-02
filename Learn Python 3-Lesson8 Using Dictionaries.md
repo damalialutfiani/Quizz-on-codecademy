@@ -47,13 +47,13 @@ Lesson 8 – **Using Dictionaries**
 combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
 print(combo_meals[2])
 
-            a.          KeyError
+      a.    KeyError
 
-            b.	**["hamburger", "fries", "soda"]**
+      b.    **["hamburger", "fries", "soda"]**
 
-            c.	"soda"
+      c.	"soda"
 
-            d.	["veggie burger", "salad", "soda"]
+      d.	["veggie burger", "salad", "soda"]
 
 5.	What is the output of the following code?
 
