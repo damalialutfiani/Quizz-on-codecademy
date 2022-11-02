@@ -100,7 +100,10 @@ Lesson 8 – **Using Dictionaries**
             
             print("the peacemaker" in inventory)
 
--	65
--	**True**
--	KeyError
--	False
+      a.    65
+            
+      b.	**True**
+            
+      c.    KeyError
+            
+      d.	False
