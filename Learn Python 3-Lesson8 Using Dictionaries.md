@@ -51,3 +51,27 @@ print(combo_meals[2])
 -	**["hamburger", "fries", "soda"]**
 -	"soda"
 -	["veggie burger", "salad", "soda"]
+
+5.	What is the output of the following code?
+
+oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
+
+for element in oscars.values():
+print(element)
+
+-	("Best Picture", "Moonlight")
+("Best Actor", "Casey Affleck")
+("Best Actress", "Emma Stone")
+("Animated Feature", "Zootopia")
+-	** "Moonlight"
+"Casey Affleck"
+“Emma Stone"
+"Zootopia" **
+-	"Best Picture"
+"Best Actor"
+"Best Actress"
+"Animated Feature"
+-	"Best Picture" : "Moonlight"
+"Best Actor": "Casey Affleck"
+"Best Actress": "Emma Stone"
+"Animated Feature": "Zootopia"
