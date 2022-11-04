@@ -124,9 +124,10 @@ Lesson 8 – **Using Dictionaries**
 
 8.    What is the output of the following code?
 
-raffle = {223842: "Teddy Bear", 872921: "Concert Tickets", 320291: "Gift Basket", 412123: "Necklace", 298787: "Pasta Maker"}
-raffle.pop(561721, "No Value")
-print(raffle)
+            raffle = {223842: "Teddy Bear", 872921: "Concert Tickets", 320291: "Gift Basket", 412123: "Necklace", 298787: "Pasta Maker"}
+            raffle.pop(561721, "No Value")
+
+            print(raffle)
 
 -	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
 -	**{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker'}**
