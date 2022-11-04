@@ -133,3 +133,26 @@ print(raffle)
 -	'No Value'
 -	KeyError
 
+9.	What is the output of the following code?
+
+oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
+
+for element in oscars:
+print(element)
+
+-	("Best Picture", "Moonlight")
+("Best Actor", "Casey Affleck")
+("Best Actress", "Emma Stone")
+("Animated Feature", "Zootopia")
+-	** "Best Picture"
+"Best Actor"
+"Best Actress"
+"Animated Feature" **
+-	"Moonlight"
+"Casey Affleck"
+"Emma Stone"
+"Zootopia"
+-	"Best Picture" : "Moonlight"
+"Best Actor": "Casey Affleck"
+"Best Actress": "Emma Stone"
+"Animated Feature": "Zootopia"
