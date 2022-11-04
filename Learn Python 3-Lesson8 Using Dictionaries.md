@@ -114,10 +114,10 @@ Lesson 8 – **Using Dictionaries**
 
             print(combo_meals[3])
 
--	["veggie burger", "salad", "soda"]
--	["hot dog", "apple slices", "orange juice"]
--	**KeyError**
--	"fries"
+       a.	["veggie burger", "salad", "soda"]
+       b.	["hot dog", "apple slices", "orange juice"]
+       c.	**KeyError**
+       d.          "fries"
 
 
 
