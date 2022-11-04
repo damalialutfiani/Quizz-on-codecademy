@@ -129,10 +129,13 @@ Lesson 8 – **Using Dictionaries**
 
             print(raffle)
 
--	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
--	**{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker'}**
--	'No Value'
--	KeyError
+       a.	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
+     
+       b.	**{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker'}**
+     
+       c.	'No Value'
+     
+       d.	KeyError
 
 9.	What is the output of the following code?
 
