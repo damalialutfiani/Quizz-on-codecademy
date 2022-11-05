@@ -144,11 +144,14 @@ Lesson 8 – **Using Dictionaries**
             for element in oscars:
             print(element)
 
--	("Best Picture", "Moonlight")
-("Best Actor", "Casey Affleck")
-("Best Actress", "Emma Stone")
-("Animated Feature", "Zootopia")
--	** "Best Picture"
+       a.	
+       
+            ("Best Picture", "Moonlight")
+            ("Best Actor", "Casey Affleck")
+            ("Best Actress", "Emma Stone")
+            ("Animated Feature", "Zootopia")
+
+            b.	** "Best Picture"
 "Best Actor"
 "Best Actress"
 "Animated Feature" **
