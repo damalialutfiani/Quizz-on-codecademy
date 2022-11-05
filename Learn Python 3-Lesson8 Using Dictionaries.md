@@ -20,13 +20,13 @@ Lesson 8 – **Using Dictionaries**
 
           print(12 in inventory)
 
-      a.    True
+      a.  True
       
-      b.	"iron spear"
+      b.  "iron spear"
       
-      c.    KeyError
+      c.  KeyError
 
-      d.	**False**
+      d.  **False**
 
 3.    What will the following code output?
 
@@ -34,7 +34,7 @@ Lesson 8 – **Using Dictionaries**
 
           print(inventory.get("stone glove", 30))
 
-      a.    ("stone glove", 20)
+      a.  ("stone glove", 20)
       
       b.	**20**
       
@@ -48,9 +48,9 @@ Lesson 8 – **Using Dictionaries**
             
           print(combo_meals[2])
 
-      a.    KeyError
+      a.  KeyError
 
-      b.    **["hamburger", "fries", "soda"]**
+      b.  **["hamburger", "fries", "soda"]**
 
       c.	"soda"
 
@@ -100,11 +100,11 @@ Lesson 8 – **Using Dictionaries**
             
           print("the peacemaker" in inventory)
 
-      a.    65
+      a.  65
             
       b.	**True**
             
-      c.    KeyError
+      c.  KeyError
             
       d.	False
 
@@ -114,13 +114,13 @@ Lesson 8 – **Using Dictionaries**
 
           print(combo_meals[3])
 
-       a.	["veggie burger", "salad", "soda"]
+      a.	["veggie burger", "salad", "soda"]
        
-       b.	["hot dog", "apple slices", "orange juice"]
+      b.	["hot dog", "apple slices", "orange juice"]
        
-       c.	**KeyError**
+      c.	**KeyError**
        
-       d.   "fries"
+      d.  "fries"
 
 8.    What is the output of the following code?
 
@@ -129,30 +129,29 @@ Lesson 8 – **Using Dictionaries**
 
           print(raffle)
 
-       a.	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
+      a.	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
      
-       b.	**{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker'}**
+      b.	**{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker'}**
      
-       c.	'No Value'
+      c.	'No Value'
      
-       d.	KeyError
+      d.	KeyError
 
-9.	What is the output of the following code?
+9.    What is the output of the following code?
 
           oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
 
           for element in oscars:
           print(element)
 
-       a.	
+      a.	
        
           ("Best Picture", "Moonlight")
           ("Best Actor", "Casey Affleck")
           ("Best Actress", "Emma Stone")
           ("Animated Feature", "Zootopia")
 
-
-       b.
+      b.
        
       **"Best Picture"**
 
@@ -162,16 +161,16 @@ Lesson 8 – **Using Dictionaries**
 
       **"Animated Feature" **
 
-       c.
+      c.
             
-           "Moonlight"
-           "Casey Affleck"
-           "Emma Stone"
-           "Zootopia"
+          "Moonlight"
+          "Casey Affleck"
+          "Emma Stone"
+          "Zootopia"
             
-       d.   
+      d.   
        
-           "Best Picture" : "Moonlight"
-           "Best Actor": "Casey Affleck"
-           "Best Actress": "Emma Stone"
-           "Animated Feature": "Zootopia"
+          "Best Picture" : "Moonlight"
+          "Best Actor": "Casey Affleck"
+          "Best Actress": "Emma Stone"
+          "Animated Feature": "Zootopia"
