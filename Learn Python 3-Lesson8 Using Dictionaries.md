@@ -96,9 +96,9 @@ Lesson 8 – **Using Dictionaries**
 
 6.    What will the following code output?
 
-            inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, "the peacemaker": 65, "demonslayer": 50}
+          inventory = {"iron spear": 12, "invisible knife": 30, "needle of ambition": 10, "stone glove": 20, "the peacemaker": 65, "demonslayer": 50}
             
-            print("the peacemaker" in inventory)
+          print("the peacemaker" in inventory)
 
       a.    65
             
@@ -110,9 +110,9 @@ Lesson 8 – **Using Dictionaries**
 
 7.    What will the following code output?
 
-            combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
+          combo_meals = {1: ["hamburger", "fries"], 2: ["hamburger", "fries", "soda"], 4: ["veggie burger", "salad", "soda"], 6: ["hot dog", "apple slices", "orange juice"]}
 
-            print(combo_meals[3])
+          print(combo_meals[3])
 
        a.	["veggie burger", "salad", "soda"]
        
@@ -124,10 +124,10 @@ Lesson 8 – **Using Dictionaries**
 
 8.    What is the output of the following code?
 
-            raffle = {223842: "Teddy Bear", 872921: "Concert Tickets", 320291: "Gift Basket", 412123: "Necklace", 298787: "Pasta Maker"}
-            raffle.pop(561721, "No Value")
+          raffle = {223842: "Teddy Bear", 872921: "Concert Tickets", 320291: "Gift Basket", 412123: "Necklace", 298787: "Pasta Maker"}
+          raffle.pop(561721, "No Value")
 
-            print(raffle)
+          print(raffle)
 
        a.	{223842: 'Teddy Bear', 872921: 'Concert Tickets', 320291: 'Gift Basket', 412123: 'Necklace', 298787: 'Pasta Maker', 561721: 'No Value'}
      
