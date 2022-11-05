@@ -6,13 +6,13 @@ Lesson 8 – **Using Dictionaries**
         
             print(combo_meals.get(3, ["hamburger", "fries"]))
 
-      a.      KeyError
+      a.    KeyError
       
-      b.      ["hot dog", "apple slices", "orange juice"]
+      b.    ["hot dog", "apple slices", "orange juice"]
       
-      c.      **["hamburger", "fries"]**
+      c.    **["hamburger", "fries"]**
       
-      d.      ["veggie burger", "salad", "soda"]
+      d.    ["veggie burger", "salad", "soda"]
 
 2.    What does the following code output?
 
@@ -65,10 +65,10 @@ Lesson 8 – **Using Dictionaries**
 
       a.	
       
-            ("Best Picture", "Moonlight")
-            ("Best Actor", "Casey Affleck")
-            ("Best Actress", "Emma Stone")
-            ("Animated Feature", "Zootopia")
+           ("Best Picture", "Moonlight")
+           ("Best Actor", "Casey Affleck")
+           ("Best Actress", "Emma Stone")
+           ("Animated Feature", "Zootopia")
 
       b.	
       
@@ -82,17 +82,17 @@ Lesson 8 – **Using Dictionaries**
 
       c.	
             
-            "Best Picture"
-            "Best Actor"
-            "Best Actress"
-            "Animated Feature"
+           "Best Picture"
+           "Best Actor"
+           "Best Actress"
+           "Animated Feature"
 
       d.	
       
-            "Best Picture" : "Moonlight"
-            "Best Actor": "Casey Affleck"
-            "Best Actress": "Emma Stone"
-            "Animated Feature": "Zootopia"
+           "Best Picture" : "Moonlight"
+           "Best Actor": "Casey Affleck"
+           "Best Actress": "Emma Stone"
+           "Animated Feature": "Zootopia"
 
 6.    What will the following code output?
 
