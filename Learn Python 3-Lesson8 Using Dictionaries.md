@@ -139,27 +139,39 @@ Lesson 8 – **Using Dictionaries**
 
 9.	What is the output of the following code?
 
-            oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
+          oscars = {"Best Picture": "Moonlight", "Best Actor": "Casey Affleck", "Best Actress": "Emma Stone", "Animated Feature": "Zootopia"}
 
-            for element in oscars:
-            print(element)
+          for element in oscars:
+          print(element)
 
        a.	
        
-            ("Best Picture", "Moonlight")
-            ("Best Actor", "Casey Affleck")
-            ("Best Actress", "Emma Stone")
-            ("Animated Feature", "Zootopia")
+          ("Best Picture", "Moonlight")
+          ("Best Actor", "Casey Affleck")
+          ("Best Actress", "Emma Stone")
+          ("Animated Feature", "Zootopia")
 
-            b.	** "Best Picture"
-"Best Actor"
-"Best Actress"
-"Animated Feature" **
--	"Moonlight"
-"Casey Affleck"
-"Emma Stone"
-"Zootopia"
--	"Best Picture" : "Moonlight"
-"Best Actor": "Casey Affleck"
-"Best Actress": "Emma Stone"
-"Animated Feature": "Zootopia"
+
+       b.
+       
+      **"Best Picture"**
+
+      **"Best Actor"**
+
+      **"Best Actress"**
+
+      **"Animated Feature" **
+
+       c.
+            
+           "Moonlight"
+           "Casey Affleck"
+           "Emma Stone"
+           "Zootopia"
+            
+       d.   
+       
+           "Best Picture" : "Moonlight"
+           "Best Actor": "Casey Affleck"
+           "Best Actress": "Emma Stone"
+           "Animated Feature": "Zootopia"
