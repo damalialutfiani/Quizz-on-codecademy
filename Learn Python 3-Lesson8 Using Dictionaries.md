@@ -159,7 +159,7 @@ Lesson 8 – **Using Dictionaries**
 
       **"Best Actress"**
 
-      **"Animated Feature" **
+      **"Animated Feature"**
 
       c.
             
