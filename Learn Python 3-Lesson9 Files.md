@@ -9,10 +9,14 @@ Lesson 9 – **Files**
     c.  **Creates a context-manager, which performs cleanup after exiting the adjacent indented block.**
 
 2.	Which of the following methods on a file object (called file_object) reads the contents of a file and returns it as a string?
--	file_contents = file_object.get()
--	file_contents = file_object.readlines()
--	**file_contents = file_object.read()**
--	file_contents = file_object.readline()
+
+    a.	file_contents = file_object.get()
+
+    b.  file_contents = file_object.readlines()
+
+    c.  **file_contents = file_object.read()**
+
+    d.  file_contents = file_object.readline()
 
 3.	What function would you use to render Python data to a JSON file?
 -	**json.dump()**
