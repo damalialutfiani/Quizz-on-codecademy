@@ -2,11 +2,11 @@ Lesson 9 – **Files**
 
 1.	What does the with command do in Python?
 
-  a.  Opens a file in read-mode.
+    a.  Opens a file in read-mode.
 
-  b.  Imports a new module for use by the writer of the code.
+    b.  Imports a new module for use by the writer of the code.
 
-  c.  **Creates a context-manager, which performs cleanup after exiting the adjacent indented block.**
+    c.  **Creates a context-manager, which performs cleanup after exiting the adjacent indented block.**
 
 2.	Which of the following methods on a file object (called file_object) reads the contents of a file and returns it as a string?
 -	file_contents = file_object.get()
