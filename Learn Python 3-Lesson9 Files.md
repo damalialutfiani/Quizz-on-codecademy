@@ -27,12 +27,22 @@ Lesson 9 – **Files**
     c.	json.writelines()
 
 4.	Which of the following opens a file in Python?
--	with file_obj = open('file.txt'):
-pass
--	**with open('file1.txt') as file_obj:
-Pass**
--	with open(file.txt) as file_obj:
-pass
+
+    a.
+    
+        with file_obj = open('file.txt'):
+        pass
+
+    b.  
+    
+    **with open('file1.txt') as file_obj:**
+        
+    **Pass**
+
+    c.	
+    
+        with open(file.txt) as file_obj:
+        pass
 
 5.	What different modes, passed as arguments to the open() function, are there for opening a file in Python?
 -	Read-mode (‘r’, the default mode), Write-mode (‘w’), and Update-mode (‘u’).
