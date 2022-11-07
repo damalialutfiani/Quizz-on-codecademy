@@ -29,7 +29,6 @@ Lesson 9 – **Files**
 4.	Which of the following opens a file in Python?
 
     a.
-    
         with file_obj = open('file.txt'):
         pass
 
