@@ -19,9 +19,12 @@ Lesson 9 – **Files**
     d.  file_contents = file_object.readline()
 
 3.	What function would you use to render Python data to a JSON file?
--	**json.dump()**
--	json.write()
--	json.writelines()
+
+    a.	**json.dump()**
+
+    b.  json.write()
+
+    c.	json.writelines()
 
 4.	Which of the following opens a file in Python?
 -	with file_obj = open('file.txt'):
