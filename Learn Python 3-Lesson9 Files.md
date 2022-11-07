@@ -45,6 +45,9 @@ Lesson 9 – **Files**
         pass
 
 5.	What different modes, passed as arguments to the open() function, are there for opening a file in Python?
--	Read-mode (‘r’, the default mode), Write-mode (‘w’), and Update-mode (‘u’).
--	**Read-mode (‘r’, the default mode), Write-mode (‘w’), and Append-mode (‘a’).**
--	Read-mode (‘r’, the default mode), Delete-mode (‘d’), and Update-mode (‘u’).
+
+    a.  Read-mode (‘r’, the default mode), Write-mode (‘w’), and Update-mode (‘u’).
+
+    b.	**Read-mode (‘r’, the default mode), Write-mode (‘w’), and Append-mode (‘a’).**
+
+    c.	Read-mode (‘r’, the default mode), Delete-mode (‘d’), and Update-mode (‘u’).
