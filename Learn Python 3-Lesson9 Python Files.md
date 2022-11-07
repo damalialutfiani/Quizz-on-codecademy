@@ -1,4 +1,4 @@
-Lesson 9 – **Files**
+Lesson 9 – **Python Files**
 
 1.	What does the with command do in Python?
 
