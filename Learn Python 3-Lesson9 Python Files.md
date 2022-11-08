@@ -51,3 +51,8 @@ Lesson 9 – **Python Files**
     b.	**Read-mode (‘r’, the default mode), Write-mode (‘w’), and Append-mode (‘a’).**
 
     c.	Read-mode (‘r’, the default mode), Delete-mode (‘d’), and Update-mode (‘u’).
+
+6.	What method reads a single line from a file object variable called file_object?
+-	file_object.read()
+-	**file_object.readline()**
+-	file_object.readlines()
