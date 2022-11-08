@@ -62,6 +62,8 @@ Lesson 9 – **Python Files**
 
 7.	What Python data type would you use to read in a CSV file as a dictionary?
 
--	**csv.DictReader**
--	csv.DictWriter
--	json.load
+    a.  **csv.DictReader**
+
+    b.  csv.DictWriter
+
+    c.  json.load
