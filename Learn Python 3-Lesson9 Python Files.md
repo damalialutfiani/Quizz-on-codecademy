@@ -59,3 +59,9 @@ Lesson 9 – **Python Files**
     b.  **file_object.readline()**
 
     c.  file_object.readlines()
+
+7.	What Python data type would you use to read in a CSV file as a dictionary?
+
+-	**csv.DictReader**
+-	csv.DictWriter
+-	json.load
