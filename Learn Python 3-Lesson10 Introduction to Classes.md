@@ -10,3 +10,9 @@ hasattr(five_holder, 'five')
 -	**True**
 -	False
 -	5
+
+2.	What function, defined within a class, provides instructions on what to assign to a new instance when it is created?
+-	**__init__**
+-	__create__
+-	Init
+-	__new__
