@@ -15,7 +15,11 @@ Lesson 10 – **Introduction to Classes**
       c.	5
 
 2.	What function, defined within a class, provides instructions on what to assign to a new instance when it is created?
--	**__init__**
--	__create__
--	Init
--	__new__
+
+      a.      **__ init __**
+
+      b.        __ create __
+       
+      c.	init
+
+      d.	__ new __
