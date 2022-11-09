@@ -7,9 +7,12 @@ Lesson 10 – **Introduction to Classes**
 
         five_holder = HoldsFive()
         hasattr(five_holder, 'five')
--	**True**
--	False
--	5
+
+      a.      **True**
+      
+      b.      False
+      
+      c.	5
 
 2.	What function, defined within a class, provides instructions on what to assign to a new instance when it is created?
 -	**__init__**
