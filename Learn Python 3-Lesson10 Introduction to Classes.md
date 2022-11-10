@@ -44,7 +44,10 @@ Lesson 10 – **Introduction to Classes**
                 devorah = User("Devorah")
                 print(devorah)
 
--	**Hiya Devorah!**
--	Devorah
--	Hiya devorah!
--	Devorah
+        a.	**Hiya Devorah!**
+
+        b.	Devorah
+
+        c.	Hiya devorah!
+
+        d.	Devorah
