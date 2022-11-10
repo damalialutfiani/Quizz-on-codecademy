@@ -1,6 +1,6 @@
 Lesson 10 – **Introduction to Classes**
 
-1.	What does the hasattr() function call in the last line here evaluate to?
+1.    What does the hasattr() function call in the last line here evaluate to?
 
         class HoldsFive:
           five = 5
@@ -14,7 +14,7 @@ Lesson 10 – **Introduction to Classes**
       
       c.	5
 
-2.	What function, defined within a class, provides instructions on what to assign to a new instance when it is created?
+2.    What function, defined within a class, provides instructions on what to assign to a new instance when it is created?
 
       a.      **__ init __**
 
@@ -24,7 +24,7 @@ Lesson 10 – **Introduction to Classes**
 
       d.	__ new __
 
-3.	What is the first argument of a method?
+3.    What is the first argument of a method?
 
       a.      The context in which the object is created. We usually name the parameter this.
 
@@ -32,7 +32,7 @@ Lesson 10 – **Introduction to Classes**
 
       c.      The class itself. We usually refer to it as self.
 
-4.	What would be printed from the following code?
+4.    What would be printed from the following code?
 
                 class User:
  		        def __init__(self, name):
@@ -44,10 +44,10 @@ Lesson 10 – **Introduction to Classes**
                 devorah = User("Devorah")
                 print(devorah)
 
-        a.	**Hiya Devorah!**
+      a.	**Hiya Devorah!**
 
-        b.	Devorah
+      b.	Devorah
 
-        c.	Hiya devorah!
+      c.	Hiya devorah!
 
-        d.	Devorah
+      d.	Devorah
