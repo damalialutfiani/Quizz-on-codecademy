@@ -33,15 +33,17 @@ Lesson 10 – **Introduction to Classes**
       c.      The class itself. We usually refer to it as self.
 
 4.	What would be printed from the following code?
-class User:
- 		def __init__(self, name):
-    			self.name = name
+
+                class User:
+ 		        def __init__(self, name):
+    			        self.name = name
     	 		
-def __repr__(self):
-   			 return "Hiya {}!".format(self.name)
+                        def __repr__(self):
+   			        return "Hiya {}!".format(self.name)
   	
-devorah = User("Devorah")
-print(devorah)
+                devorah = User("Devorah")
+                print(devorah)
+
 -	**Hiya Devorah!**
 -	Devorah
 -	Hiya devorah!
