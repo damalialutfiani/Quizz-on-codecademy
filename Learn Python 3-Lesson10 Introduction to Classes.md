@@ -25,9 +25,12 @@ Lesson 10 – **Introduction to Classes**
       d.	__ new __
 
 3.	What is the first argument of a method?
--	The context in which the object is created. We usually name the parameter this.
--	**The instance of the object itself. We usually refer to it as self.**
--	The class itself. We usually refer to it as self.
+
+        a.      The context in which the object is created. We usually name the parameter this.
+
+        b.	**The instance of the object itself. We usually refer to it as self.**
+
+        c.	The class itself. We usually refer to it as self.
 
 4.	What would be printed from the following code?
 class User:
