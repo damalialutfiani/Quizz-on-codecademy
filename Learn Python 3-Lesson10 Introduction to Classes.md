@@ -63,7 +63,11 @@ Lesson 10 – **Introduction to Classes**
     d.  Type
 
 6.	What does the type() function do in Python?
--	Returns a type object that contains some metadata about the class.
--	**Returns the class that an object implements.**
--	Returns a string that’s the name of the class.
--	Returns an implementation of a class.
+
+    a.  Returns a type object that contains some metadata about the class.
+
+    b.  **Returns the class that an object implements.**
+
+    c.  Returns a string that’s the name of the class.
+
+    d.  Returns an implementation of a class.
