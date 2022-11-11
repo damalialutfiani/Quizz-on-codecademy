@@ -53,10 +53,14 @@ Lesson 10 – **Introduction to Classes**
       d.	Devorah
 
 5.	What keyword is used to indicate the start of a class definition?
--	__init__
--	Def
--	**Class**
--	Type
+
+    a.  __init__
+  
+    b.  Def
+
+    c.  **Class**
+
+    d.  Type
 
 6.	What does the type() function do in Python?
 -	Returns a type object that contains some metadata about the class.
