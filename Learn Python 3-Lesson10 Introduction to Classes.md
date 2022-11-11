@@ -51,3 +51,9 @@ Lesson 10 – **Introduction to Classes**
       c.	Hiya devorah!
 
       d.	Devorah
+
+5.	What keyword is used to indicate the start of a class definition?
+-	__init__
+-	Def
+-	**Class**
+-	Type
