@@ -75,8 +75,10 @@ Lesson 10 – **Introduction to Classes**
 7.	How would we create an instance of the following class?
 
         class NiceClass:
-     		    neat_attribute = "neat"
+     		  neat_attribute = "neat"
 
--	**nice_instance = NiceClass()**
--	nice_instance = new NiceClass
--	nice_instance = NiceClass
+    a.	**nice_instance = NiceClass()**
+
+    b.	nice_instance = new NiceClass
+
+    c.	nice_instance = NiceClass
