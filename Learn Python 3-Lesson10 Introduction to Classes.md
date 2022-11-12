@@ -36,10 +36,10 @@ Lesson 10 – **Introduction to Classes**
 
         class User:
             def __init__(self, name):
-    			      self.name = name
+                self.name = name
     	 		
             def __repr__(self):
-   			        return "Hiya {}!".format(self.name)
+                return "Hiya {}!".format(self.name)
   	
         devorah = User("Devorah")
         print(devorah)
@@ -75,7 +75,7 @@ Lesson 10 – **Introduction to Classes**
 7.	How would we create an instance of the following class?
 
         class NiceClass:
-     		  neat_attribute = "neat"
+                neat_attribute = "neat"
 
     a.	**nice_instance = NiceClass()**
 
