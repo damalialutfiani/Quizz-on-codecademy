@@ -73,8 +73,10 @@ Lesson 10 – **Introduction to Classes**
     d.  Returns an implementation of a class.
 
 7.	How would we create an instance of the following class?
-class NiceClass:
- 		neat_attribute = "neat"
+
+        class NiceClass:
+     		    neat_attribute = "neat"
+
 -	**nice_instance = NiceClass()**
 -	nice_instance = new NiceClass
 -	nice_instance = NiceClass
