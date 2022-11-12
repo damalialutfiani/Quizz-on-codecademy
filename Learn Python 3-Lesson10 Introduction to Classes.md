@@ -2,11 +2,11 @@ Lesson 10 – **Introduction to Classes**
 
 1.  What does the hasattr() function call in the last line here evaluate to?
 
-                class HoldsFive:
-                        five = 5
+        class HoldsFive:
+            five = 5
 
-                five_holder = HoldsFive()
-                hasattr(five_holder, 'five')
+        five_holder = HoldsFive()
+        hasattr(five_holder, 'five')
 
     a.  **True**
       
@@ -34,15 +34,15 @@ Lesson 10 – **Introduction to Classes**
 
 4.  What would be printed from the following code?
 
-                class User:
- 		        def __init__(self, name):
-    			        self.name = name
+        class User:
+            def __init__(self, name):
+    			      self.name = name
     	 		
-                        def __repr__(self):
+            def __repr__(self):
    			        return "Hiya {}!".format(self.name)
   	
-                devorah = User("Devorah")
-                print(devorah)
+        devorah = User("Devorah")
+        print(devorah)
 
     a.	**Hiya Devorah!**
 
