@@ -71,3 +71,10 @@ Lesson 10 – **Introduction to Classes**
     c.  Returns a string that’s the name of the class.
 
     d.  Returns an implementation of a class.
+
+7.	How would we create an instance of the following class?
+class NiceClass:
+ 		neat_attribute = "neat"
+-	**nice_instance = NiceClass()**
+-	nice_instance = new NiceClass
+-	nice_instance = NiceClass
