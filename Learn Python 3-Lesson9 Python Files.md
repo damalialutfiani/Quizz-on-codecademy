@@ -37,7 +37,7 @@ Lesson 9 – **Python Files**
     
     **with open('file1.txt') as file_obj:**
         
-    **Pass**
+    **pass**
 
     c.	
     
