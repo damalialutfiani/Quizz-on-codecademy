@@ -34,3 +34,7 @@
         # should print 4
 
     >   Result  :
+
+    ![python II - 1 1](https://user-images.githubusercontent.com/74751990/201520487-629fdf9d-f8b2-4f90-9240-9fddad6228f5.jpg)
+
+
