@@ -9,3 +9,10 @@
         c.  Loop through every letter in our alphabet string. If the current letter was found in our word, increase our count
         d.  Return the count after looping through all letters.
 
+    >   Coding question
+
+
+    >   Code    :
+
+
+    >   Result  :
