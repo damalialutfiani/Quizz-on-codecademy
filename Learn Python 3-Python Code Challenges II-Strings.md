@@ -46,6 +46,13 @@
         c.  Loop through every letter in the string. If the current letter is equal to the input letter, increase our counter
         d.  Return the counter after looping through the entire string.
 
+    >   Coding question
+
+    1.  Write a function named count_char_x that takes a string named word and a single character named x as parameters. The function should return the number of times x appears in word.
+
+    >   Code    :
+
+
 
 
 
