@@ -48,8 +48,8 @@
 
     >   Coding question
 
-    1.  Write a function named count_char_x that takes a string named word and a single character named x as parameters. The function should return the number of times x appears in word.
-
+        Write a function named count_char_x that takes a string named word and a single character named x as parameters. The function should return the number of times x appears in word.
+    
     >   Code    :
 
         # Write your count_char_x function here:
@@ -65,6 +65,13 @@
         # should print 4
         print(count_char_x("mississippi", "m"))
         # should print 1
+
+    >   Result  :
+
+    ![python II - 1 2](https://user-images.githubusercontent.com/74751990/201572796-2b3801ce-cd5d-43a3-a507-a29a45ac6044.jpg)
+
+
+
 
 
 
