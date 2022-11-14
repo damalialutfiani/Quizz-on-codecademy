@@ -98,3 +98,10 @@
         print(count_multi_char_x("apple", "pp"))
         # should print 1
 
+    >   Result  :
+
+    ![python II - 1 3](https://user-images.githubusercontent.com/74751990/201574099-9777a5bb-9abf-4e9b-818f-2c282166b801.jpg)
+
+
+
+
