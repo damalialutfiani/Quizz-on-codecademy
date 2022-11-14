@@ -37,4 +37,11 @@
 
     ![python II - 1 1](https://user-images.githubusercontent.com/74751990/201520487-629fdf9d-f8b2-4f90-9240-9fddad6228f5.jpg)
 
+2.  Count X
+
+    Next, we are going to try something a bit different. This time we are going to count the number of occurrences of a certain letter within a string. Our function will accept a parameter for a string and another for the character which we are going to count. For example, providing the word "mississippi" and the character 's' would result in an answer of 4. These are the steps we need to take:
+
+
+
+
 
