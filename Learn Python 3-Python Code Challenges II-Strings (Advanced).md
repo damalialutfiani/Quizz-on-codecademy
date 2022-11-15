@@ -10,7 +10,13 @@
 
     >   Coding question
 
+    1.  Write a function called check_for_name that takes two strings as parameters named sentence and name. The function should return True if name appears in sentence in all lowercase letters, all uppercase letters, or with any mix of uppercase and lowercase letters. The function should return False otherwise.
 
+    2.  For example, the following three calls should all return True:
+      
+            check_for_name("My name is Jamie", "Jamie")
+            check_for_name("My name is jamie", "Jamie")
+            check_for_name("My name is JAMIE", "Jamie")
 
     >   Code    :
 
