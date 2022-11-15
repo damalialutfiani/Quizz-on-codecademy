@@ -147,3 +147,14 @@
         c.  Loop through the words. If the length of any of the words is less than the provided number return False
         d.  If we made it through the loop without returning False then return True
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
+
+
