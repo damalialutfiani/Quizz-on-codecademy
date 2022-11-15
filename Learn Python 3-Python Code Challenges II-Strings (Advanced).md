@@ -33,3 +33,8 @@
         # should print False
 
     >   Result  :
+
+    ![python II - 2 1](https://user-images.githubusercontent.com/74751990/202047790-a267fe21-2e0c-4b98-959e-a74a80110647.jpg)
+
+
+
