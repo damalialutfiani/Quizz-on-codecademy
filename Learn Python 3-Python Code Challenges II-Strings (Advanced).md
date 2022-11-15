@@ -69,5 +69,7 @@
         # should print 
 
     >   Result  :
+    
+    ![python II - 2 2](https://user-images.githubusercontent.com/74751990/202048434-b2f338e9-b764-469b-a24b-eae694e67d90.jpg)
 
 
