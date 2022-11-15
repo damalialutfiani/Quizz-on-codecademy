@@ -36,5 +36,13 @@
 
     ![python II - 2 1](https://user-images.githubusercontent.com/74751990/202047790-a267fe21-2e0c-4b98-959e-a74a80110647.jpg)
 
+2.  Every Other Letter
 
+    For this next function, we are going to create a function that extract every other letter from a string and returns the resulting string. There are a few different ways you can solve this problem Here are the steps needed for one of the ways:
+
+        a.  Define the function to accept one parameter for the string
+        b.  Create a new empty string to hold every other letter from the input string
+        c.  Loop through the input string while incrementing by two every time
+        d.  Inside the loop, append the character at the current location to the new string we initialized earlier
+        e.  Return the new string
 
