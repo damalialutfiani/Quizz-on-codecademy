@@ -138,5 +138,12 @@
 
     ![python II - 1 4](https://user-images.githubusercontent.com/74751990/201964602-9a871a50-f4cd-4280-95bb-b400a11f78ac.jpg)
 
+5.  X Length
 
+    Let’s use the split method in a different way. We need a new function that is able to accept two inputs: one for a sentence and another for a number. The function returns True if every single word in the sentence has a length greater than or equal to the number provided. These are the steps:
+
+        a.  Define the function to accept two parameters, one string, and one number
+        b.  Split up the sentence into an array of words
+        c.  Loop through the words. If the length of any of the words is less than the provided number return False
+        d.  If we made it through the loop without returning False then return True
 
