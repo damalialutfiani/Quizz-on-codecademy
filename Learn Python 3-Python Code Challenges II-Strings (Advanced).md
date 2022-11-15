@@ -46,3 +46,15 @@
         d.  Inside the loop, append the character at the current location to the new string we initialized earlier
         e.  Return the new string
 
+
+    >   Coding question
+
+        Create a function named every_other_letter that takes a string named word as a parameter. The function should return a string containing every other letter in word.
+
+    >   Code    :
+
+
+
+    >   Result  :
+
+
