@@ -7,3 +7,13 @@
         a.  Define the function to accept two parameters, one string for the sentence and one string for the name
         b.  Convert all of the strings to the same case so we don’t have to worry about differences in capitalization
         c.  Check if the name is within the sentence. If so, then return True. Otherwise, return False
+
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
