@@ -112,4 +112,17 @@
         d.  If neither of the indices are -1, return the portion of the first input parameter string between the starting and ending indices (not including the starting and ending index)
         e.  If either of the indices are -1, that means the start or end of the substring didn’t exist in our string. Return the original string in this case.
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+
+    >   Result  :
+
+
+
 
