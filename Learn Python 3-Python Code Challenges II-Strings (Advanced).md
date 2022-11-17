@@ -81,3 +81,14 @@
         c.  Loop through the input string by starting at the end, and working towards the beginning
         d.  Inside the loop, append the character at the current location to the new string we initialized earlier
         e.  Return the result
+
+    >   Coding question
+
+Write a function named reverse_string that has a string named word as a parameter. The function should return word in reverse.
+
+    >   Code    :
+
+
+
+    >   Result  :
+
