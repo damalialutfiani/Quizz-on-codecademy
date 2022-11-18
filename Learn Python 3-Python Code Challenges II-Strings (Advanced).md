@@ -107,5 +107,15 @@
 
     ![python II - 2 3](https://user-images.githubusercontent.com/74751990/202478617-e971d98f-9c34-4b95-9c27-ba51d03a313f.jpg)
 
+4.  Make Spoonerism
 
+    A Spoonerism is an error in speech when the first syllables of two words are switched. For example, a Spoonerism is made when someone says “Belly Jeans” instead of “Jelly Beans”. We are going to make a function that is similar, but instead of using the first syllable, we are going to switch the first character of two words. Here is what we need to do:
+
+        a.  Define the function to accept two parameters for our two words
+        b.  Get the first character of the first word and the first character of the second word
+        c.  Get the remaining characters of the first word and the remaining characters of the second word.
+        d.  Append the first character of the second word to the remaining character of the first word
+        e.  Append a space character
+        f.  Append the first character of the first word to the remaining characters of the second word.
+        g.  Return the result
 
