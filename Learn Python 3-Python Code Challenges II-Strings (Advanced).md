@@ -140,4 +140,12 @@
 
     ![python II - 2 4](https://user-images.githubusercontent.com/74751990/202726660-80622bab-6024-4cf5-a0ff-968e9707774c.jpg)
 
+5.  Add Exclamation
+
+    Let’s say we are writing a program that displays a large message on a blimp and we need to fill in any missing space if a short phrase is provided. Our function will accept a string and if the size is less than 20, it will fill in the remaining space with exclamation marks until the size reaches 20. If the provided string already has a length greater than 20, then we will simply return the original string. Here are the steps:
+
+        a.  Define the function to accept one parameter for our string
+        b.  Loop while the length of our input string is less than 20
+        c.  Inside the loop, append an exclamation mark
+        d.  Once done, return the result
 
