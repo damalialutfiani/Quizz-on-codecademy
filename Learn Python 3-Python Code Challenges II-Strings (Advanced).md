@@ -137,3 +137,7 @@
         # should print b a
 
     >   Result  :
+
+    ![python II - 2 4](https://user-images.githubusercontent.com/74751990/202726660-80622bab-6024-4cf5-a0ff-968e9707774c.jpg)
+
+
