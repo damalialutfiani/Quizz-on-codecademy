@@ -46,7 +46,6 @@
         d.  Inside the loop, append the character at the current location to the new string we initialized earlier
         e.  Return the new string
 
-
     >   Coding question
 
         Create a function named every_other_letter that takes a string named word as a parameter. The function should return a string containing every other letter in word.
@@ -119,3 +118,12 @@
         f.  Append the first character of the first word to the remaining characters of the second word.
         g.  Return the result
 
+    >   Coding question
+
+        Write a function called make_spoonerism that takes two strings as parameters named word1 and word2. Finding the first syllable of a word is a difficult task, so for our function, we’re going to switch the first letters of each word. Return the two new words as a single string separated by a space.
+
+    >   Code    :
+
+
+
+    >   Result  :
