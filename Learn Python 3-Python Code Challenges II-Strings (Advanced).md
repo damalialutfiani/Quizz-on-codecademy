@@ -168,5 +168,6 @@
         # should print Codecademy is the best place to learn
 
     >   Result  :
-
+    
+    ![python II - 2 5](https://user-images.githubusercontent.com/74751990/202727647-bdaf0236-3b8b-46e8-a0e9-3038302de854.jpg)
 
