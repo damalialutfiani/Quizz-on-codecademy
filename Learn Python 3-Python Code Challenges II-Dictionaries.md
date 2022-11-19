@@ -14,7 +14,7 @@
 
         Write a function named sum_values that takes a dictionary named my_dictionary as a parameter. The function should return the sum of the values of the dictionary
 
-    >   Code
+    >   Code    :
 
         # Write your sum_values function here:
         def sum_values(my_dictionary):
@@ -28,3 +28,5 @@
         # should print 10
         print(sum_values({10:1, 100:2, 1000:3}))
         # should print 6
+
+    >   Result  :
