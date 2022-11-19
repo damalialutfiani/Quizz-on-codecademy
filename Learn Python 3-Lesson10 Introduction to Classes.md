@@ -54,7 +54,7 @@ Lesson 10 – **Introduction to Classes**
 
 5.	What keyword is used to indicate the start of a class definition?
 
-    a.  __init__
+    a.  __ init __
   
     b.  def
 
