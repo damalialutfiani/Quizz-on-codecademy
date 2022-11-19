@@ -58,7 +58,7 @@ Lesson 10 – **Introduction to Classes**
   
     b.  def
 
-    c.  **Class**
+    c.  **class**
 
     d.  type
 
