@@ -30,3 +30,6 @@
         # should print 6
 
     >   Result  :
+
+    ![python II - 3 1](https://user-images.githubusercontent.com/74751990/202850797-80fff0c8-d82e-4e01-9e3b-b4649b5cfcaf.jpg)
+
