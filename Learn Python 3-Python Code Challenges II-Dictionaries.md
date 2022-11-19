@@ -10,8 +10,9 @@
         d.  Inside the loop, add each value to the sum
         e.  Return the sum
 
-Coding question
-Write a function named sum_values that takes a dictionary named my_dictionary as a parameter. The function should return the sum of the values of the dictionary
+    >   Coding question
+
+        Write a function named sum_values that takes a dictionary named my_dictionary as a parameter. The function should return the sum of the values of the dictionary
 
 Code
 # Write your sum_values function here:
