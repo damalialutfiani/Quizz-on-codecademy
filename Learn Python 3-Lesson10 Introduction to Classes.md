@@ -50,17 +50,17 @@ Lesson 10 – **Introduction to Classes**
 
     c.	Hiya devorah!
 
-    d.	Devorah
+    d.	devorah
 
 5.	What keyword is used to indicate the start of a class definition?
 
     a.  __init__
   
-    b.  Def
+    b.  def
 
     c.  **Class**
 
-    d.  Type
+    d.  type
 
 6.	What does the type() function do in Python?
 
