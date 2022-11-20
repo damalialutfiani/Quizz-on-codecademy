@@ -43,3 +43,12 @@
         d.  Inside the loop, if the key is even, add the value from the even key
         e.  After the loop, return the sum
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
