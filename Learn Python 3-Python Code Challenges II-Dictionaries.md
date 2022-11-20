@@ -78,7 +78,7 @@
 
     >   Coding question
 
-
+        Create a function named add_ten that takes a dictionary with integer values named my_dictionary as a parameter. The function should add 10 to every value in my_dictionary and return my_dictionary
 
     >   Code    :
 
