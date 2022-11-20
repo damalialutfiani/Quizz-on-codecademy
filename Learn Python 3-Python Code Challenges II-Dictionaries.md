@@ -33,11 +33,13 @@
 
     ![python II - 3 1](https://user-images.githubusercontent.com/74751990/202850797-80fff0c8-d82e-4e01-9e3b-b4649b5cfcaf.jpg)
 
-2. Even Keys
-Next, we are going to do something similar, but we are going to use the keys in order to retrieve the values. Additionally, we are going to only look at every even key within the dictionary. Here are the steps:
+2.  Even Keys
 
-Define the function to accept one parameter for our dictionary
-Create a variable to keep track of our sum
-Loop through every key in the dictionary
-Inside the loop, if the key is even, add the value from the even key
-After the loop, return the sum
+    Next, we are going to do something similar, but we are going to use the keys in order to retrieve the values. Additionally, we are going to only look at every even key within the dictionary. Here are the steps:
+
+        a.  Define the function to accept one parameter for our dictionary
+        b.  Create a variable to keep track of our sum
+        c.  Loop through every key in the dictionary
+        d.  Inside the loop, if the key is even, add the value from the even key
+        e.  After the loop, return the sum
+
