@@ -45,7 +45,7 @@
 
     >   Coding question
 
-
+        Create a function called sum_even_keys that takes a dictionary named my_dictionary, with all integer keys and values, as a parameter. This function should return the sum of the values of all even keys.
 
     >   Code    :
 
