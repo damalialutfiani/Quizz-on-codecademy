@@ -96,3 +96,5 @@
 
     >   Result  :
 
+    ![python II - 3 3](https://user-images.githubusercontent.com/74751990/202928555-01368bb1-c4bd-46df-9e64-3c0d8c0cc27b.jpg)
+
