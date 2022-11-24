@@ -9,3 +9,13 @@
         c.  Loop through every string in the list of strings
         d.  Inside the loop, add the string as a key and the length of the string as the value to the dictionary
         e.  After the loop, return the new dictionary
+
+    >   Coding question
+
+        Write a function named word_length_dictionary that takes a list of strings named words as a parameter. The function should return a dictionary of key/value pairs where every key is a word in words and every value is the length of that word.
+
+    >   Code    :
+
+
+
+    >   Result  :
