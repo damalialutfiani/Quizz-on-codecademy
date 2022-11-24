@@ -5,10 +5,10 @@ There are :
 
 1.  Learn SQL
 
-        a.  Lesson 1 - Manipulation
-        b.  Lesson 2 - Queries
-        c.  Lesson 3 - Aggregate Functions
-        d.  Lesson 4 - Multiple Tables
+        Lesson 1 - Manipulation
+        Lesson 2 - Queries
+        Lesson 3 - Aggregate Functions
+        Lesson 4 - Multiple Tables
 
 2.  Learn Python 3
 
