@@ -45,7 +45,7 @@
 
     >   Coding question
 
-
+        Write a function named frequency_dictionary that takes a list of elements named words as a parameter. The function should return a dictionary containing the frequency of each element in words.
 
     >   Code    :
 
