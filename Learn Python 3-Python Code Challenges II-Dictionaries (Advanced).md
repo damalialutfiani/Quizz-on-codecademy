@@ -31,6 +31,7 @@
 
     >   Result  :
 
+    ![python II - 4 1](https://user-images.githubusercontent.com/74751990/203868526-4d4581d3-5776-4477-bff1-3c0e3348dbc6.jpg)
 
 
 
