@@ -132,3 +132,20 @@
 
     ![python II - 3 4](https://user-images.githubusercontent.com/74751990/203692688-4e45317c-6413-42c7-9764-75974159be81.jpg)
 
+5.  Largest Value
+
+    For the last challenge, we are going to create a function that is able to find the maximum value in the dictionary and return the associated key. This is a twist on the max algorithm since it is using a dictionary rather than a list. These are the steps:
+
+        a.  Define the function to accept one parameter for our dictionary
+        b.  Initialize the starting key to a very low number
+        c.  Initialize the starting value to a very low number
+        d.  Iterate through the dictionary’s key/value pairs.
+        e.  Inside the loop, if the current value is larger than the current largest value, replace the largest key and largest value with the current ones you are looking at
+        f.  Once you are done iterating through all key/value pairs, return the key which has the largest value
+
+
+
+
+
+
+
