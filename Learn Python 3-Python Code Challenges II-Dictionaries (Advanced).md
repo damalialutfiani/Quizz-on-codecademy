@@ -33,6 +33,25 @@
 
     ![python II - 4 1](https://user-images.githubusercontent.com/74751990/203868526-4d4581d3-5776-4477-bff1-3c0e3348dbc6.jpg)
 
+2.  Frequency Count
+
+    This next function is similar, but instead of counting the length of each string in the list of strings, we will be counting the frequency of each string. This function will also accept a list of strings as input and return a new dictionary. Here is what we need to do:
+
+        a.  Define the function to accept one parameter for our list of strings
+        b.  Create a new empty dictionary
+        c.  Loop through every string in the list of strings
+        d.  Inside the loop, if the string is not already in our dictionary, store the string as a key with a value of 0 in our dictionary. Then, increment the value by 1.
+        e.  After the loop, return the new dictionary
+
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
 
 
 
