@@ -98,3 +98,24 @@
 
     ![python II - 3 3](https://user-images.githubusercontent.com/74751990/202928555-01368bb1-c4bd-46df-9e64-3c0d8c0cc27b.jpg)
 
+4.  Values That Are Keys
+
+    We are making a program that will create a family tree. Using a dictionary, we want to return a list of all the children who are also parents of other children. Using dictionaries we can consider those people to be values which are also keys in our dictionary of family data. Here is what we need to do:
+
+        a.  Define the function to accept one parameter for our dictionary
+        b.  Create an empty list to hold the values we find
+        c.  Loop through every value in the dictionary
+        d.  Inside the loop, test if the current value is a key in the dictionary. If it is then append it to the list of values we found
+        e.  After the loop, return the list of values which are also keys
+
+    >   Coding question
+
+
+
+
+
+
+
+
+
+
