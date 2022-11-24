@@ -66,6 +66,7 @@
 
     >   Result  :
 
+    ![python II - 4 2](https://user-images.githubusercontent.com/74751990/203868897-bb83bbfe-d4fd-4e3e-ab5f-e0c24dcb0ab9.jpg)
 
 
 
