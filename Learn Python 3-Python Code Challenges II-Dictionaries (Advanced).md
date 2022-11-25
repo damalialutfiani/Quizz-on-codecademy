@@ -106,11 +106,11 @@
 
     This function accepts a dictionary where the keys are last names and the values are lists of first names of people who have that last name. We need to calculate the number of people who have the same first letter in their last name. Here are the steps we need:
 
-Define the function to accept one parameter for our dictionary
-Create a new empty dictionary called letters
-Loop through every key in our names dictionary
-Inside the loop, get the first letter of the last name we are looking at. If the first letter is not in our letter dictionary, add it as a key with a value of 0. Then, increment that key by the number of people that have that last name
-After the loop, return the letters dictionary
+        a.  Define the function to accept one parameter for our dictionary
+        b.  Create a new empty dictionary called letters
+        c.  Loop through every key in our names dictionary
+        d.  Inside the loop, get the first letter of the last name we are looking at. If the first letter is not in our letter dictionary, add it as a key with a value of 0. Then, increment that key by the number of people that have that last name
+        e.  After the loop, return the letters dictionary
 
 Coding question
 Create a function named count_first_letter that takes a dictionary named names as a parameter. names should be a dictionary where the key is a last name and the value is a list of first names. For example, the dictionary might look like this:
