@@ -112,7 +112,8 @@
         d.  Inside the loop, get the first letter of the last name we are looking at. If the first letter is not in our letter dictionary, add it as a key with a value of 0. Then, increment that key by the number of people that have that last name
         e.  After the loop, return the letters dictionary
 
-Coding question
+    >   Coding question
+
 Create a function named count_first_letter that takes a dictionary named names as a parameter. names should be a dictionary where the key is a last name and the value is a list of first names. For example, the dictionary might look like this:
 
 names = {"Stark": ["Ned", "Robb", "Sansa"], "Snow" : ["Jon"], "Lannister": ["Jaime", "Cersei", "Tywin"]}
@@ -123,4 +124,9 @@ So in example above, the function would return:
 
 {"S" : 4, "L": 3}
 
+    >   Code    :
+
+
+
+    >   Result  :
 
