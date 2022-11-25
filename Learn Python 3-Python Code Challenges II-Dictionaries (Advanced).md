@@ -100,4 +100,7 @@
 
     >   Result  :
 
+    ![python II - 4 3](https://user-images.githubusercontent.com/74751990/204062922-b4cd40fb-b7ca-46c6-8be9-33e12e3d5bd1.jpg)
+
+
 
