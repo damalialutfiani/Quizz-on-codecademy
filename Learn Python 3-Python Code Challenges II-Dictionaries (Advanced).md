@@ -78,5 +78,14 @@
         d.  Inside the loop, if the value is not already in our list, append the value to our list
         e.  After the loop, return the length of our list
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
 
 
