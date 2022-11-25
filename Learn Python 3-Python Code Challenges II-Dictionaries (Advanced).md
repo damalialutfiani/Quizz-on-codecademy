@@ -68,6 +68,15 @@
 
     ![python II - 4 2](https://user-images.githubusercontent.com/74751990/203868897-bb83bbfe-d4fd-4e3e-ab5f-e0c24dcb0ab9.jpg)
 
+3.  Unique Values
+
+    Now let’s try reading a dictionary as input and finding how many values are unique. The function should return a number which is the count of all values from the dictionary without including duplicates. These are the steps:
+
+        a.  Define the function to accept one parameter for our dictionary
+        b.  Create a new empty list
+        c.  Loop through every value in our dictionary
+        d.  Inside the loop, if the value is not already in our list, append the value to our list
+        e.  After the loop, return the length of our list
 
 
 
