@@ -144,3 +144,4 @@
 
     >   Result  :
 
+    ![python II - 4 4](https://user-images.githubusercontent.com/74751990/204063345-a1a23d5b-e8f2-47db-a48a-556a72ae7576.jpg)
