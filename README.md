@@ -37,5 +37,7 @@ There are :
                 Python Code Challenges II - Strings
                 Python Code Challenges II - Strings (Advanced)
                 Python Code Challenges II - Dictionaries
+                Python Code Challenges II - Dictionaries (Advanced)
+                Python Code Challenges II - Classes
 
 3.  Learn Microsoft Excel for Data Analysis
