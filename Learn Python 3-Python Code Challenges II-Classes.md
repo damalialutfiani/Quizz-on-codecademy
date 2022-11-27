@@ -42,5 +42,18 @@
         c.  Define another function called adjust_sensor which accepts one additional parameter
         d.  Replace the instance variable sensor_range with the input parameter
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
+
+
+
+
 
 
