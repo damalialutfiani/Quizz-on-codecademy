@@ -7,7 +7,13 @@
         b.  Set up a basic constructor (no parameters needed)
         c.  Initialize three instance variables within our constructor which all default to 0: motor_speed, direction, and sensor_range
 
+    >   Coding question
 
 
 
+    >   Code    :
+
+
+
+    >   Result  :
 
