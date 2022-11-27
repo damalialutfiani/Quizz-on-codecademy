@@ -33,6 +33,14 @@
 
     ![python II - 5 1](https://user-images.githubusercontent.com/74751990/204146996-c83b6b73-536f-451a-a571-c753eecfec40.jpg)
 
+2.  Adding Robot Logic
+    
+    Now we want to add some logic to our robot. It would be very useful to be able to control our robot, so we are going to create a control_bot method which changes the speed and direction. We are also going to create a method called adjust_sensor. This method is used to change the range of our robot’s sensors which are used to detect obstacles. Here are the steps:
+
+        a.  Define a function within the DriveBot class which accepts two additional parameters: one for a new speed and one for a new direction
+        b.  Replace the instance variables for speed and direction with the input parameters
+        c.  Define another function called adjust_sensor which accepts one additional parameter
+        d.  Replace the instance variable sensor_range with the input parameter
 
 
 
