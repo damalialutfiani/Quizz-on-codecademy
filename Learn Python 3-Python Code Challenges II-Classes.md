@@ -31,3 +31,8 @@
 
     >   Result  :
 
+    ![python II - 5 1](https://user-images.githubusercontent.com/74751990/204146996-c83b6b73-536f-451a-a571-c753eecfec40.jpg)
+
+
+
+
