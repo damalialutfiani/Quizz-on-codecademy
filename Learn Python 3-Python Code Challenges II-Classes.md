@@ -132,10 +132,10 @@
 
     We want to add a new feature which allows the use to control multiple robots at once. The robots should be able to all have the same latitude and longitude GPS destination coordinates as well as a setting for disabling them all called all_disabled. We can accomplish this using class variables. Here is how we can do it:
 
-Create a new class variable within the DriveBot class called all_disabled and set it equal to False
-Create a new class variable within the DriveBot class called latitude and set it equal to -999999
-Create a new class variable within the DriveBot class called longitude and set it equal to -999999
-Outside of the class, test the class variables by setting the longitude of all robots to 50.0, the latitude to -50.0 and all_disabled to True
+        a.  Create a new class variable within the DriveBot class called all_disabled and set it equal to False
+        b.  Create a new class variable within the DriveBot class called latitude and set it equal to -999999
+        c.  Create a new class variable within the DriveBot class called longitude and set it equal to -999999
+        d.  Outside of the class, test the class variables by setting the longitude of all robots to 50.0, the latitude to -50.0 and all_disabled to True
 
 
 
