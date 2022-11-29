@@ -76,6 +76,15 @@
 
     ![python II - 5 2](https://user-images.githubusercontent.com/74751990/204165089-86a16e62-26a2-4101-822a-679ea099aa88.jpg)
 
+3.  Enhanced Constructor
+
+    It can be tedious manually setting the values for each instance variable after we have created an object from the DriveBot class. We can enhance our constructor to automatically assign the values we provide to the instance variables. Instead of taking zero parameters, we are going to make the constructor take three parameters. Here is what we need to do:
+
+        a.  Modify the constructor to take three parameters (in addition to self): one for motor_speed, one for direction, and one for sensor_range
+        b.  For the first parameter, make the default value 0
+        c.  For the second parameter, make the default value 180
+        d.  For the third parameter, make the default value 10
+        e.  Within the constructor, replace the instance variables with the variables from the input parameters
 
 
 
