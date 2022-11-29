@@ -137,5 +137,14 @@
         c.  Create a new class variable within the DriveBot class called longitude and set it equal to -999999
         d.  Outside of the class, test the class variables by setting the longitude of all robots to 50.0, the latitude to -50.0 and all_disabled to True
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
 
 
