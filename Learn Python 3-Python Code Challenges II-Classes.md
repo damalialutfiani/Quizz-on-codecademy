@@ -86,6 +86,17 @@
         d.  For the third parameter, make the default value 10
         e.  Within the constructor, replace the instance variables with the variables from the input parameters
 
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
+
+
 
 
 
