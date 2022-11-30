@@ -182,9 +182,10 @@
 
     ![python II - 5 4](https://user-images.githubusercontent.com/74751990/204672987-191b59be-6597-4468-b6bd-a7c94cb893c2.jpg)
 
-5. Identifying Robots
-In order to keep track of the robots we are creating, we want to be able to assign an ID value to each robot when it is created. If we create five robots in a row, we want the IDs of each robot to be 1, 2, 3, 4, and 5 respectively. This can be accomplished by using a class variable counter which increments and is assigned to an instance variable for the ID whenever the constructor is called. Here are the steps:
+5.  Identifying Robots
 
-Create a new class variable in the DriveBot class called robot_count
-In the constructor, increment the robot_count by 1
-After incrementing the value, assign the value of robot_count to a new instance variable called id.
+    In order to keep track of the robots we are creating, we want to be able to assign an ID value to each robot when it is created. If we create five robots in a row, we want the IDs of each robot to be 1, 2, 3, 4, and 5 respectively. This can be accomplished by using a class variable counter which increments and is assigned to an instance variable for the ID whenever the constructor is called. Here are the steps:
+
+        a.  Create a new class variable in the DriveBot class called robot_count
+        b.  In the constructor, increment the robot_count by 1
+        c.  After incrementing the value, assign the value of robot_count to a new instance variable called id.
