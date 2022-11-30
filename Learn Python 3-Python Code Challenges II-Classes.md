@@ -233,5 +233,4 @@
 
     >   Result  :
 
-
-
+    ![python II - 5 5](https://user-images.githubusercontent.com/74751990/204921567-68479d12-c8e2-4c61-9370-71945d03f538.jpg)
