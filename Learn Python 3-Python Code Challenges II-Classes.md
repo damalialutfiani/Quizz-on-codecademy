@@ -189,3 +189,17 @@
         a.  Create a new class variable in the DriveBot class called robot_count
         b.  In the constructor, increment the robot_count by 1
         c.  After incrementing the value, assign the value of robot_count to a new instance variable called id.
+
+
+    >   Coding question
+
+
+
+    >   Code    :
+
+
+
+    >   Result  :
+
+
+
