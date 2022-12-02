@@ -2,8 +2,7 @@ Lesson 1 - **Exploring Data Quiz**
 
 1.  What formula would you use to calculate the average of the numbers in the table below?
 
-    ![excel 1 1](https://user-images.githubusercontent.com/74751990/205244288-7a8770df-c3d2-40ce-8f8a-2fda63330f91.jpg)
-
+    ![excel 1 1](https://user-images.githubusercontent.com/74751990/205244779-72ec5588-1d9f-43a2-93f0-b69254d5ff50.jpg)
 
     a.  **=AVERAGE**
     
