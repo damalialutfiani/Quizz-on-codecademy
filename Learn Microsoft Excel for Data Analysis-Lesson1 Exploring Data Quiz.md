@@ -30,11 +30,17 @@ Lesson 1 - **Exploring Data Quiz**
         Summary method  :   _____
 
     a.  arrival location
+    
     b.  maximum
+    
     c.  **average**
+    
     d.  **travel time**
+    
     e.  box size
+    
     f.  sum
+    
     g.  **departure location**
 
     Click or drag and drop to fill in the blank
