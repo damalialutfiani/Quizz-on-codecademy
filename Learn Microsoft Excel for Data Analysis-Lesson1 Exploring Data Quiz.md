@@ -29,17 +29,18 @@ Lesson 1 - **Exploring Data Quiz**
         Values          :   _____
         Summary method  :   _____
 
-    -	arrival location
--	maximum
--	**average**
--	**travel time**
--	box size
--	sum
--	**departure location**
-Click or drag and drop to fill in the blank
-Columns		: departure location
-Values			: travel time
-Summary method	: average
+    a.  arrival location
+    b.  maximum
+    c.  **average**
+    d.  **travel time**
+    e.  box size
+    f.  sum
+    g.  **departure location**
+
+    Click or drag and drop to fill in the blank
+        Columns		: departure location
+        Values			: travel time
+        Summary method	: average
 
 
 
