@@ -22,3 +22,25 @@ Lesson 1 - **Exploring Data Quiz**
     
     **=AVERAGE(B1:B3)**
 
+2.  You have a shipping dataset with four columns: arrival location, departure location, travel time, box size. You’d like to calculate the average travel time between each pair of departure and arrival locations. Complete the pivot table set-up below.
+
+Rows			: arrival location
+Columns		: _____
+Values			: _____
+Summary method	: _____
+
+    -	arrival location
+-	maximum
+-	**average**
+-	**travel time**
+-	box size
+-	sum
+-	**departure location**
+Click or drag and drop to fill in the blank
+Columns		: departure location
+Values			: travel time
+Summary method	: average
+
+
+
+
