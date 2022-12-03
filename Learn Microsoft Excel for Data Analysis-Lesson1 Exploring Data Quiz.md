@@ -44,9 +44,11 @@ Lesson 1 - **Exploring Data Quiz**
     g.  **departure location**
 
     Click or drag and drop to fill in the blank
-        Columns		: departure location
-        Values			: travel time
-        Summary method	: average
+        
+        Rows            :   arrival location
+        Columns         :   departure location
+        Values          :   travel time
+        Summary method  :   average
 
 
 
