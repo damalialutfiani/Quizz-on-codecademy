@@ -50,6 +50,6 @@ Lesson 1 - **Exploring Data Quiz**
         Values          :   travel time
         Summary method  :   average
 
-
+3.  What is the cell reference for the cell containing 10 below?
 
 
