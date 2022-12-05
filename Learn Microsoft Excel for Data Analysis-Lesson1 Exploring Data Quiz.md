@@ -52,5 +52,8 @@ Lesson 1 - **Exploring Data Quiz**
 
 3.  What is the cell reference for the cell containing 10 below?
 
-    ![excel 1 3](https://user-images.githubusercontent.com/74751990/205676485-6836c4ef-c510-4050-95d3-e5cda3018f40.jpg)
+    ![excel 1 3](https://user-images.githubusercontent.com/74751990/205676961-e4e61d2b-7920-42c2-ba07-4a220939f332.jpg)
+
+
+
 
