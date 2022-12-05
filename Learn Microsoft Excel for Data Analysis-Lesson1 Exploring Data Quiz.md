@@ -54,6 +54,9 @@ Lesson 1 - **Exploring Data Quiz**
 
     ![excel 1 3](https://user-images.githubusercontent.com/74751990/205676961-e4e61d2b-7920-42c2-ba07-4a220939f332.jpg)
 
+    -	2B
+-	**B2**
+-	10
 
 
 
