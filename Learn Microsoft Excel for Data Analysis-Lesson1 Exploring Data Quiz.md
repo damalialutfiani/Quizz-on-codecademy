@@ -64,4 +64,4 @@ Lesson 1 - **Exploring Data Quiz**
 1.	all rows with a in the letter column are before all rows with b
 2.	among the rows with a, the dates should be listed starting with the beginning of the year
 
-
+    How would you meet these requirements using Excel’s column sorting?
