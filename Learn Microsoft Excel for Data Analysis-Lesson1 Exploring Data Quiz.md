@@ -65,3 +65,9 @@ Lesson 1 - **Exploring Data Quiz**
 2.	among the rows with a, the dates should be listed starting with the beginning of the year
 
     How would you meet these requirements using Excel’s column sorting?
+
+**By date (oldest to newest) and then by letter (A to Z)**
+-	By date (newest to oldest) and then by letter (A to Z)
+-	By letter (A to Z) and then by date (oldest to newest)
+
+
