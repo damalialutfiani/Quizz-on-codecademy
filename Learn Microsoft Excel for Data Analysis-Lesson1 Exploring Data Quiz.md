@@ -67,7 +67,7 @@ Lesson 1 - **Exploring Data Quiz**
 
     Table   :
     
-        
+    ![excel 1 4](https://user-images.githubusercontent.com/74751990/205951530-50670164-9063-4851-9975-087b1caf8624.jpg)
     
     How would you meet these requirements using Excel’s column sorting?
 
