@@ -60,5 +60,8 @@ Lesson 1 - **Exploring Data Quiz**
     
     c.  10
 
+4.	You want to sort the first table below to obtain the second (note: all dates are mm/dd/yyyy format). That is, you want
+1.	all rows with a in the letter column are before all rows with b
+2.	among the rows with a, the dates should be listed starting with the beginning of the year
 
 
