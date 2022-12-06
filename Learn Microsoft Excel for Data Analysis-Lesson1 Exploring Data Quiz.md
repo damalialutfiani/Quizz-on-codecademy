@@ -66,8 +66,10 @@ Lesson 1 - **Exploring Data Quiz**
 
     How would you meet these requirements using Excel’s column sorting?
 
-**By date (oldest to newest) and then by letter (A to Z)**
--	By date (newest to oldest) and then by letter (A to Z)
--	By letter (A to Z) and then by date (oldest to newest)
+    a.  **By date (oldest to newest) and then by letter (A to Z)**
+
+    b.  By date (newest to oldest) and then by letter (A to Z)
+
+    c.	By letter (A to Z) and then by date (oldest to newest)
 
 
