@@ -77,9 +77,9 @@ Lesson 1 - **Exploring Data Quiz**
 
     c.	By letter (A to Z) and then by date (oldest to newest)
 
-5.	What kinds of data questions are pivot tables designed to answer?
+5.  What kinds of data questions are pivot tables designed to answer?
 
--	Questions about data quality.
--	Questions about what future data might look like.
--	**Questions that require grouping and summarizing a dataset to answer.**
+    a.  Questions about data quality.
+    b.  Questions about what future data might look like.
+    c.  **Questions that require grouping and summarizing a dataset to answer.**
 
