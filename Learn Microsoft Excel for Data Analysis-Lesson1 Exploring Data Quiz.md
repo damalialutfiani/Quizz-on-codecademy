@@ -85,3 +85,4 @@ Lesson 1 - **Exploring Data Quiz**
     
     c.  **Questions that require grouping and summarizing a dataset to answer.**
 
+6.  How would you filter the first table below to produce the second?
