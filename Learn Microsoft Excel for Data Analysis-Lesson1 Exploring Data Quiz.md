@@ -86,3 +86,12 @@ Lesson 1 - **Exploring Data Quiz**
     c.  **Questions that require grouping and summarizing a dataset to answer.**
 
 6.  How would you filter the first table below to produce the second?
+
+    Table   :
+
+    ![excel 1 6](https://user-images.githubusercontent.com/74751990/206175131-2d90ddc4-4455-47a1-b433-77511d5a0f58.jpg)
+
+
+
+
+
