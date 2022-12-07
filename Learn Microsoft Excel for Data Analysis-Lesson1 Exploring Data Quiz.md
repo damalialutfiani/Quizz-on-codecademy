@@ -80,6 +80,8 @@ Lesson 1 - **Exploring Data Quiz**
 5.  What kinds of data questions are pivot tables designed to answer?
 
     a.  Questions about data quality.
+    
     b.  Questions about what future data might look like.
+    
     c.  **Questions that require grouping and summarizing a dataset to answer.**
 
