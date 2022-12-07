@@ -91,11 +91,9 @@ Lesson 1 - **Exploring Data Quiz**
 
     ![excel 1 6](https://user-images.githubusercontent.com/74751990/206175131-2d90ddc4-4455-47a1-b433-77511d5a0f58.jpg)
 
-    -	**Filter by Date before 02/01/2022 and Letter = a.**
--	Filter by Number = 3.
--	Filter by Date before 02/01/2022
+    a.  **Filter by Date before 02/01/2022 and Letter = a.**
 
+    b.  Filter by Number = 3.
 
-
-
+    c.  Filter by Date before 02/01/2022
 
