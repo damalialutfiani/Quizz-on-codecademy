@@ -103,6 +103,16 @@ Lesson 1 - **Exploring Data Quiz**
 
     ![excel 1 7](https://user-images.githubusercontent.com/74751990/206492379-5306f02d-d8c8-4702-b9cd-f531b81edc10.jpg)
 
+        Formula : = B ______  *  _______
+-	$A1
+-	$1
+-	2
+-	1$
+-	**1**
+-	**A$1**
+
+    Click or drag and drop to fill in the blank
+=B1*A$1
 
 
 
