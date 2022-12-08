@@ -4,6 +4,8 @@ Lesson 1 - **Exploring Data Quiz**
 
     ![excel 1 1](https://user-images.githubusercontent.com/74751990/205246532-76bfbd8b-9575-478f-a419-f091bb43caf9.jpg)
 
+        Formula : ______ _______
+        
     a.  **=AVERAGE**
     
     b.  **(B1:B3)**
