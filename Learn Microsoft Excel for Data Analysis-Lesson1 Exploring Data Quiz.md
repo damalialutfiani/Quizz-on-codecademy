@@ -97,8 +97,9 @@ Lesson 1 - **Exploring Data Quiz**
 
     c.  Filter by Date before 02/01/2022
 
-7.	We’d like to multiply every value in B1:B3 by the interest rate in A1. We’ll do this by writing a formula in C1 and then dragging that formula down through C2 and C3. What formula should we write in C1?
+7.  We’d like to multiply every value in B1:B3 by the interest rate in A1. We’ll do this by writing a formula in C1 and then dragging that formula down through C2 and C3. What formula should we write in C1?
 
+    ![excel 1 7](https://user-images.githubusercontent.com/74751990/206490856-048a2a61-b8c6-4a89-a236-cf5bfb7b10a9.jpg)
 
 
 
