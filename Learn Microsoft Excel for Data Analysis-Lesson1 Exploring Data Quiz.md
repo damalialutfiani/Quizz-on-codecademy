@@ -123,5 +123,6 @@ Lesson 1 - **Exploring Data Quiz**
 
 8.  If we move the formula in A3 to C2, how will the formula be updated?
 
+    ![excel 1 8](https://user-images.githubusercontent.com/74751990/206636663-b09d8e4a-b153-4bab-8ded-898a67966a08.jpg)
 
 
