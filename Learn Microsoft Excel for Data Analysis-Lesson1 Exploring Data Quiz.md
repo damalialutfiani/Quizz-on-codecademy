@@ -121,7 +121,7 @@ Lesson 1 - **Exploring Data Quiz**
 
     =B **1** * **A$1**
 
-
+8.  If we move the formula in A3 to C2, how will the formula be updated?
 
 
 
