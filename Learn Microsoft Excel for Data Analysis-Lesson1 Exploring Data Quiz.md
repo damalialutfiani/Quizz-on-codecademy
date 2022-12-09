@@ -125,8 +125,10 @@ Lesson 1 - **Exploring Data Quiz**
 
     ![excel 1 8](https://user-images.githubusercontent.com/74751990/206636885-d935e2a0-4229-4746-9bfe-fcb1e549007e.jpg)
 
-    -	The formula will not change.
--	**The formula will become =F1.**
--	The formula will become =F4.
--	The formula will become =A3.
+    a.  The formula will not change.
 
+    b.  **The formula will become =F1.**
+
+    c.  The formula will become =F4.
+
+    d.  The formula will become =A3.
