@@ -41,3 +41,5 @@ There are :
                 Python Code Challenges II - Classes
 
 3.  Learn Microsoft Excel for Data Analysis
+
+        Lesson 1 - Exploring Data Quiz
