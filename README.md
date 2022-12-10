@@ -43,3 +43,4 @@ There are :
 3.  Learn Microsoft Excel for Data Analysis
 
         Lesson 1 - Exploring Data Quiz
+        Lesson 2 - Visualizing Data
