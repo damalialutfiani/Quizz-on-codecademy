@@ -4,7 +4,10 @@ Lesson 2 - **Visualizing Data**
 
     (pict)
 
--	Cells A1 through E2
--	**Cells B2 through E2**
--	Cells B1 through E2
--	Cells A2 through E2
+    a.  Cells A1 through E2
+
+    b.  **Cells B2 through E2**
+
+    c.  Cells B1 through E2
+
+    d.  Cells A2 through E2
