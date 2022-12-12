@@ -16,8 +16,11 @@ Lesson 2 - **Visualizing Data**
 
 (pict)
 
--	**Column chart**
--	Line chart
--	Pie chart
--	Scatterplot
+    a.  **Column chart**
+
+    b.  Line chart
+
+    c.  Pie chart
+
+    d.  Scatterplot
 
