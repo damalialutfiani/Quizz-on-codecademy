@@ -14,7 +14,7 @@ Lesson 2 - **Visualizing Data**
 
 2.  Consider the following data on population by country (measured in millions of people). Which chart type would be the most appropriate to use?
 
-    (pict)
+    ![excel 2 2](https://user-images.githubusercontent.com/74751990/206960014-491ff441-fd78-4446-bb89-92395aa4610b.jpg)
 
     a.  **Column chart**
 
