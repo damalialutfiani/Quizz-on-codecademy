@@ -11,3 +11,11 @@ Lesson 2 - **Visualizing Data**
     c.  Cells B1 through E2
 
     d.  Cells A2 through E2
+
+2.  Consider the following data on population by country (measured in millions of people). Which chart type would be the most appropriate to use?
+(pict)
+-	**Column chart**
+-	Line chart
+-	Pie chart
+-	Scatterplot
+
