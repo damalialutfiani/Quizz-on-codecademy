@@ -27,6 +27,9 @@ Lesson 2 - **Visualizing Data**
 3.  Imagine you collected data on the age of 100 people who watched the latest thriller film at your local theater. Which plot would you use to get an idea of the age range and common ages of people who enjoy suspense?
 
     a.  Column chart
+    
     b.  Scatterplot
+    
     c.  Sparklines
+    
     d.  **Histogram**
