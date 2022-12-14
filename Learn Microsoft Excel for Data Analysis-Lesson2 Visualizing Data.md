@@ -33,3 +33,9 @@ Lesson 2 - **Visualizing Data**
     c.  Sparklines
     
     d.  **Histogram**
+
+4.	Which of the following data would be the most appropriate to use for a scatterplot?
+-	**Temperature and sales in 150 ice cream stores**
+-	Average gas price over the last 10 years.
+-	Number of pets owned by 200 households
+-	Eye color and hair color of 100 people.
