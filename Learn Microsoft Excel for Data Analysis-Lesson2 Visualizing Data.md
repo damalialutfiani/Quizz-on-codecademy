@@ -36,7 +36,7 @@ Lesson 2 - **Visualizing Data**
 
 4.	Which of the following data would be the most appropriate to use for a scatterplot?
 
--	**Temperature and sales in 150 ice cream stores**
--	Average gas price over the last 10 years.
--	Number of pets owned by 200 households
--	Eye color and hair color of 100 people.
+    a.  **Temperature and sales in 150 ice cream stores**
+    b.  Average gas price over the last 10 years.
+    c.  Number of pets owned by 200 households
+    d.  Eye color and hair color of 100 people.
