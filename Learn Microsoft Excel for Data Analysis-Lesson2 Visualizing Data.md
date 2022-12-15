@@ -45,3 +45,7 @@ Lesson 2 - **Visualizing Data**
     d.  Eye color and hair color of 100 people.
 
 5.  Consider the following plot displaying the estimated United States population with each zodiac sign. Is a pie chart an effective way to visualize this data?
+
+-	**No - there are too many categories to be able to distinguish between them.**
+-	No - the categories do not make up part of a whole.
+-	Yes.
