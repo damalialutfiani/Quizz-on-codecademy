@@ -53,3 +53,5 @@ Lesson 2 - **Visualizing Data**
     b.  No - the categories do not make up part of a whole.
 
     c.  Yes.
+
+6.	When would you use a heatmap to help analyze a table of data?
