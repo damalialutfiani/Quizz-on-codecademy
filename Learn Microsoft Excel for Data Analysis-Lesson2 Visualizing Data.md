@@ -43,3 +43,5 @@ Lesson 2 - **Visualizing Data**
     c.  Number of pets owned by 200 households
     
     d.  Eye color and hair color of 100 people.
+
+5.  Consider the following plot displaying the estimated United States population with each zodiac sign. Is a pie chart an effective way to visualize this data?
