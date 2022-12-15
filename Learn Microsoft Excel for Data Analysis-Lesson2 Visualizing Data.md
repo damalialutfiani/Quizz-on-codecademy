@@ -56,6 +56,8 @@ Lesson 2 - **Visualizing Data**
 
 6.  When would you use a heatmap to help analyze a table of data?
 
--	**Trends within the table and extremely large or small values.**
--	The average value of each column.
--	To quickly identify any values above a certain threshold.
+    a.  **Trends within the table and extremely large or small values.**
+
+    b.  The average value of each column.
+
+    c.  To quickly identify any values above a certain threshold.
