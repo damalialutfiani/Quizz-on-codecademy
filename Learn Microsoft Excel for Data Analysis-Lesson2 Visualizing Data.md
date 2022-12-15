@@ -54,4 +54,4 @@ Lesson 2 - **Visualizing Data**
 
     c.  Yes.
 
-6.	When would you use a heatmap to help analyze a table of data?
+6.  When would you use a heatmap to help analyze a table of data?
