@@ -46,8 +46,8 @@ Lesson 2 - **Visualizing Data**
 
 5.  Consider the following plot displaying the estimated United States population with each zodiac sign. Is a pie chart an effective way to visualize this data?
 
-    ![excel 2 5](https://user-images.githubusercontent.com/74751990/207868759-324ab059-fef8-4437-83e1-7592804346f2.jpg)
-
+    ![excel 2 5](https://user-images.githubusercontent.com/74751990/207869073-218610ca-2fa1-4165-896a-086c1ba76325.jpg)
+    
     a.  **No - there are too many categories to be able to distinguish between them.**
 
     b.  No - the categories do not make up part of a whole.
