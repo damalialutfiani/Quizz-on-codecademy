@@ -13,12 +13,19 @@ Lesson 3 - **Handling Data**
         = _____ ( _____ , _____ )
         
     a.  "two"
+    
     b.  RIGHT()
+    
     c.  **LEFT**
+    
     d.	**A1**
+    
     e.  3
+    
     f.  **2**
+    
     g.  TRIM()
 
     Click or drag and drop to fill in the blank
+    
 =LEFT(A1, 2)
