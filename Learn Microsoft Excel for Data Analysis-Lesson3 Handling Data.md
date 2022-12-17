@@ -10,7 +10,8 @@ Lesson 3 - **Handling Data**
 
 2.  Column A has a list of weekday names. You’d like to abbreviate them to just the first two letters. What formula would you use?
 
-= _____ ( _____ , _____ )
+        = _____ ( _____ , _____ )
+        
 -	"two"
 -	RIGHT()
 -	**LEFT**
