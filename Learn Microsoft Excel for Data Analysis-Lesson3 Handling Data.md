@@ -28,4 +28,4 @@ Lesson 3 - **Handling Data**
 
     Click or drag and drop to fill in the blank
     
-=LEFT(A1, 2)
+        =LEFT(A1, 2)
