@@ -7,3 +7,5 @@ Lesson 3 - **Handling Data**
     b.  **Importing a CSV makes sure that all of Excel's features will work and allows you to properly specify data types during the import process.**
     
     c.  Importing a CSV automatically inspects and validates the data.
+
+2.  Column A has a list of weekday names. You’d like to abbreviate them to just the first two letters. What formula would you use?
