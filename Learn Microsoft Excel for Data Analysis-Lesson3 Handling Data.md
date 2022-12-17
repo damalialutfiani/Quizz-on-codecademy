@@ -9,3 +9,14 @@ Lesson 3 - **Handling Data**
     c.  Importing a CSV automatically inspects and validates the data.
 
 2.  Column A has a list of weekday names. You’d like to abbreviate them to just the first two letters. What formula would you use?
+
+= _____ ( _____ , _____ )
+-	"two"
+-	RIGHT()
+-	**LEFT**
+-	**A1**
+-	3
+-	**2**
+-	TRIM()
+Click or drag and drop to fill in the blank
+=LEFT(A1, 2)
