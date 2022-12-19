@@ -29,3 +29,5 @@ Lesson 3 - **Handling Data**
     Click or drag and drop to fill in the blank
     
         =LEFT(A1, 2)
+
+3.	You’ve been given a dataset measuring miles-per-gallon for various different vehicle models. The dataset has several thousand rows. You want to inspect the numbers for validity. What would you do first?
