@@ -32,5 +32,8 @@ Lesson 3 - **Handling Data**
 
 3.  You’ve been given a dataset measuring miles-per-gallon for various different vehicle models. The dataset has several thousand rows. You want to inspect the numbers for validity. What would you do first?
 
+-	Use a heatmap to color in large or small values.
+-	**Sort the data from least to most efficient and look for excessively large or small values.**
+-	Scroll through the table looking for very large or small values.
 
 
