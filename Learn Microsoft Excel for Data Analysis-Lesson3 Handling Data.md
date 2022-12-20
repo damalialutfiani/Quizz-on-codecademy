@@ -38,4 +38,8 @@ Lesson 3 - **Handling Data**
     
     c.  Scroll through the table looking for very large or small values.
 
+4.	When cleaning text data, what is the first function you should use?
+-	=LOWER()
+-	=LEFT()
+-	**=TRIM()**
 
