@@ -41,6 +41,8 @@ Lesson 3 - **Handling Data**
 4.  When cleaning text data, what is the first function you should use?
 
     a.  =LOWER()
+    
     b.  =LEFT()
+    
     c.  **=TRIM()**
 
