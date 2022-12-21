@@ -56,5 +56,6 @@ Lesson 3 - **Handling Data**
     d.  **A2**
     e.  UNCAP
     
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
+    
 =LOWER(A2)
