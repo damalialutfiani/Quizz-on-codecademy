@@ -58,4 +58,4 @@ Lesson 3 - **Handling Data**
     
     Click or drag and drop to fill in the blank
     
-=LOWER(A2)
+        =LOWER(A2)
