@@ -49,10 +49,12 @@ Lesson 3 - **Handling Data**
 5.  Column A in Excel has a list of first names starting in cell A2. Some of them were entered in all-caps, and you’d like to convert them all to lowercase. What formula would you use?
 
         = _____ ( _____ )
--	SMALL
--	A1
--	**LOWER**
--	**A2**
--	UNCAP
+        
+    a.  SMALL
+    b.  A1
+    c.  **LOWER**
+    d.  **A2**
+    e.  UNCAP
+    
 Click or drag and drop to fill in the blank
 =LOWER(A2)
