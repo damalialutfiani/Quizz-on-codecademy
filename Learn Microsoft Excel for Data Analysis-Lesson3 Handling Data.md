@@ -51,9 +51,13 @@ Lesson 3 - **Handling Data**
         = _____ ( _____ )
         
     a.  SMALL
+    
     b.  A1
+    
     c.  **LOWER**
+    
     d.  **A2**
+    
     e.  UNCAP
     
     Click or drag and drop to fill in the blank
