@@ -72,9 +72,13 @@ Lesson 3 - **Handling Data**
         Percentage  : _____
 
     a.  **42.312512**
+    
     b.  **4231.25%**
+    
     c.  42.31%
+    
     d.  **$42.31**
+    
     e.  **42.31**
     
     Click or drag and drop to fill in the blank
