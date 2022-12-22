@@ -71,15 +71,15 @@ Lesson 3 - **Handling Data**
         Currency    : _____
         Percentage  : _____
 
--	**42.312512**
--	**4231.25%**
--	42.31%
--	**$42.31**
--	**42.31**
+    a.  **42.312512**
+    b.  **4231.25%**
+    c.  42.31%
+    d.  **$42.31**
+    e.  **42.31**
     
     Click or drag and drop to fill in the blank
     
         General	    : 42.312512
         Number	    : 42.31
-        Currency	: $42.31
-        Percentage	: 4231.25%
+        Currency    : $42.31
+        Percentage  : 4231.25%
