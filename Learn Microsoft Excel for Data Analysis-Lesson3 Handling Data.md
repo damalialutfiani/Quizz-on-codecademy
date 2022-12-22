@@ -90,6 +90,6 @@ Lesson 3 - **Handling Data**
 
 7.  You’ve been given a brand-new dataset to work with, and want to inspect the numeric data for validity before diving in. How would you go about looking for missing data?
 
--	**Filter the columns one at a time by (Blanks).**
--	Filter all the columns simultaneously by (Blanks).
--	Scroll through th etable looking for missing data.
+    a.  **Filter the columns one at a time by (Blanks).**
+    b.  Filter all the columns simultaneously by (Blanks).
+    c.  Scroll through th etable looking for missing data.
