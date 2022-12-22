@@ -64,7 +64,8 @@ Lesson 3 - **Handling Data**
     
         =LOWER(A2)
 
-6.	The cell A1 has the value 42.312512. What happens when you apply different types of formatting to this cell?
+6.  The cell A1 has the value 42.312512. What happens when you apply different types of formatting to this cell?
+
 General		: _____
 Number	: _____
 Currency	: _____
