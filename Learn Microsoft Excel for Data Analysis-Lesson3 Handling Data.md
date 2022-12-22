@@ -67,7 +67,7 @@ Lesson 3 - **Handling Data**
 6.  The cell A1 has the value 42.312512. What happens when you apply different types of formatting to this cell?
 
         General		: _____
-        Number	: _____
+        Number	    : _____
         Currency	: _____
         Percentage	: _____
 
@@ -76,8 +76,9 @@ Lesson 3 - **Handling Data**
 -	42.31%
 -	**$42.31**
 -	**42.31**
-Click or drag and drop to fill in the blank
-General	: 42.312512
-Number	: 42.31
-Currency	: $42.31
-Percentage	: 4231.25%
+    
+    Click or drag and drop to fill in the blank
+        General	    : 42.312512
+        Number	    : 42.31
+        Currency	: $42.31
+        Percentage	: 4231.25%
