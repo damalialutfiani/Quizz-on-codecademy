@@ -97,6 +97,7 @@ Lesson 3 - **Handling Data**
     c.  Scroll through th etable looking for missing data.
 
 8.	Why should you protect a sheet or cell in Excel?
+
 -	To prevent coworkers from accidentally overwriting important data and formulas.
 -	**To prevent yourself and coworkers from accidentally overwriting important data and formulas.**
 -	To stop competitors from accessing confidential data.
