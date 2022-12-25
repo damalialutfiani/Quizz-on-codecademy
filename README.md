@@ -44,3 +44,5 @@ There are :
 
         Lesson 1 - Exploring Data Quiz
         Lesson 2 - Visualizing Data
+        Lesson 3 - Handling Data
+        
