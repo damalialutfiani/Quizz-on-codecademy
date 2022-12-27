@@ -10,7 +10,7 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
 
   For each of the following data entries, fill in the answer for the kind of missing data it is.
 
-missingDataType = _____
+    missingDataType = _____
 
 MCAR
 MLAR
