@@ -24,5 +24,6 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
   
   e.  MAR
   
-Click or drag and drop to fill in the blank
-missingDataType = **Structurally Missing Data**
+  Click or drag and drop to fill in the blank
+  
+    missingDataType = **Structurally Missing Data**
