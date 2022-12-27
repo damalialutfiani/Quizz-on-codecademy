@@ -14,10 +14,15 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
 
     missingDataType = _____
 
-MCAR
-MLAR
-MNAR
-**Structurally Missing Data**
-MAR
+  a.  MCAR
+  
+  b.  MLAR
+  
+  c.  MNAR
+  
+  d.  **Structurally Missing Data**
+  
+  e.  MAR
+  
 Click or drag and drop to fill in the blank
 missingDataType = **Structurally Missing Data**
