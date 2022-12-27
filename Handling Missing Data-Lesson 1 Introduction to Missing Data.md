@@ -9,6 +9,8 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
 ## 1. Fill in the blank
 
   For each of the following data entries, fill in the answer for the kind of missing data it is.
+  
+  ![1 - art 2 1](https://user-images.githubusercontent.com/74751990/209634040-55891409-0174-4a60-98d9-bf4987d46f8d.jpg)
 
     missingDataType = _____
 
