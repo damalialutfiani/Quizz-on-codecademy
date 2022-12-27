@@ -8,7 +8,7 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
 
 ## 1. Fill in the blank
 
-For each of the following data entries, fill in the answer for the kind of missing data it is.
+  For each of the following data entries, fill in the answer for the kind of missing data it is.
 
 missingDataType = _____
 
