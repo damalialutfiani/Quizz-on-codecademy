@@ -37,10 +37,15 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
     missingDataType = _____
 
   a.  MNAR
+  
   b.  MCAR
+  
   c.  Structurally Missing Data
+  
   d.  MLAR
+  
   e.  NAR
+  
   f.  **MAR**
 
   Click or drag and drop to fill in the blank
