@@ -30,4 +30,24 @@ In the end, a lot of data analytics type work is solving mysteries, and The Myst
 
 ## 2. Fill in the blank
 
-For each of the following data entries, fill in the answer for the kind of missing data it is.
+  For each of the following data entries, fill in the answer for the kind of missing data it is.
+  
+  ![1 - art 2 2](https://user-images.githubusercontent.com/74751990/209832238-fcc62256-eda2-4972-90da-239acba51fdd.jpg)
+
+  
+  missingDataType = _____
+
+MNAR
+MCAR
+Structurally Missing Data
+MLAR
+NAR
+**MAR**
+Click or drag and drop to fill in the blank
+missingDataType = **MAR**
+
+  
+  
+  
+  
+  
