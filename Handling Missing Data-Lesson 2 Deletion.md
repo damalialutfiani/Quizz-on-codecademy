@@ -22,3 +22,6 @@ df = pd.DataFrame(data=d)
 # TO DO
 
 print(df.head(10))
+
+Result :
+(pict)
