@@ -1,12 +1,13 @@
 **Article 1 - Handling Missing Data with Deletion**
 
-### 1. Listwise Deletion
+1. Listwise Deletion
 
->   Coding question
+   Coding question   :
 
-   Consider the following dataset:
+   Consider the following dataset   :
 
-            
+   ![2 - art 1 1](https://user-images.githubusercontent.com/74751990/210073645-5eb3eaf2-4be9-4fa2-a6cb-e846ad588b79.jpg)
+
 
 Use listwise deletion to clean up the DataFrame so that there is no missing data.
 
