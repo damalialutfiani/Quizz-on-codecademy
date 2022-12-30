@@ -8,10 +8,10 @@
 
    ![2 - art 1 1](https://user-images.githubusercontent.com/74751990/210073645-5eb3eaf2-4be9-4fa2-a6cb-e846ad588b79.jpg)
 
+   Use listwise deletion to clean up the DataFrame so that there is no missing data.
 
-Use listwise deletion to clean up the DataFrame so that there is no missing data.
-
-Code :
+   >  Code :
+   
 import pandas as pd
 import numpy as np
 
