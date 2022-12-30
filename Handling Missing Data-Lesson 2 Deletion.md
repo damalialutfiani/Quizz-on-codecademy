@@ -26,5 +26,6 @@
          # TO DO
          print(df.head(10))
 
-Result :
-(pict)
+   >  Result :
+
+      
