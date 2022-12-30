@@ -2,7 +2,7 @@
 
 1. Listwise Deletion
 
-   Coding question   :
+   >  Coding question   :
 
    Consider the following dataset   :
 
