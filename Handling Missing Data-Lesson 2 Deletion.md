@@ -28,4 +28,5 @@
 
    >  Result :
 
-      
+      ![2 - art 1 satu](https://user-images.githubusercontent.com/74751990/210112666-d7e4476c-aac1-4e8b-ab52-f24a927ace12.jpg)
+
