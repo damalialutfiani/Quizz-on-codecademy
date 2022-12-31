@@ -34,6 +34,8 @@
 
    >  Coding question   :
 
-   Consider the following dataset:
+   Consider the following dataset   :
 
-(pict)
+   ![2 - art 1 2](https://user-images.githubusercontent.com/74751990/210157026-843b20cd-015c-4523-98fd-f889dda7a437.jpg)
+
+   (pict)
