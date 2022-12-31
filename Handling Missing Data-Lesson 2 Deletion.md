@@ -32,6 +32,7 @@
 
 2. Pairwise Deletion
 
-Coding question
+   >  Coding question   :
+
 Consider the following dataset:
 (pict)
