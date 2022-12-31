@@ -34,5 +34,6 @@
 
    >  Coding question   :
 
-Consider the following dataset:
+   Consider the following dataset:
+
 (pict)
