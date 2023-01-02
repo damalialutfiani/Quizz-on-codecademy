@@ -40,7 +40,7 @@
 
    Your job is to analyze the correlation between Temperature and Rainfall. Use pairwise deletion to clean up the dataset.
 
-Code :
+   >  Code :
 import pandas as pd
 import numpy as np
 
