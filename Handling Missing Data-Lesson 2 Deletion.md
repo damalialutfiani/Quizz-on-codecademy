@@ -38,4 +38,21 @@
 
    ![2 - art 1 2](https://user-images.githubusercontent.com/74751990/210157026-843b20cd-015c-4523-98fd-f889dda7a437.jpg)
 
-   (pict)
+   Your job is to analyze the correlation between Temperature and Rainfall. Use pairwise deletion to clean up the dataset.
+
+Code :
+import pandas as pd
+import numpy as np
+
+d = {'Date': ['01-Sept','02-Sept','03-Sept','04-Sept','05-Sept',
+            '06-Sept','07-Sept','08-Sept','09-Sept','10-Sept'], 
+    'Temperature': [18,17,14,16,15,14,16,19,13,14],
+    'WindSpeed': [9,np.nan,12,6,np.nan,10,13,np.nan,18,5],
+    'Rainfall': [1,3,np.nan,0,4,np.nan,5,7,np.nan,6]}
+
+df = pd.DataFrame(data=d)
+
+# TO DO
+
+print(df)
+
