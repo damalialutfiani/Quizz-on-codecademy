@@ -32,3 +32,4 @@ df['value2'].bfill(axis=0, inplace=True)
 
 print(df)
 
+  >   Result  :
