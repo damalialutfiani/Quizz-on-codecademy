@@ -4,6 +4,6 @@ In general, single imputation can be an effective technique to handle missing da
 
 1.
 
-  > Coding question
+>   Coding question
 
 You are presented with this dataset that has two separate values reported over the course of 10 minutes. Use either LOCF or NOCB to fill in the missing value in the value1 column.
