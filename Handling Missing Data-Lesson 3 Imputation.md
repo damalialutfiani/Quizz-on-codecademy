@@ -4,12 +4,31 @@ In general, single imputation can be an effective technique to handle missing da
 
 1.
 
-  >   Coding question
+  >   Coding question :
 
    You are presented with this dataset that has two separate values reported over the course of 10 minutes. Use either LOCF or NOCB to fill in the missing value in the value1 column.
 
   ![3 - art 1 1](https://user-images.githubusercontent.com/74751990/210445612-e7dcb440-a904-4e77-bbbf-a331707a6fec.jpg)
 
+  >   Code  :
 
+import pandas as pd
+import numpy as np
 
+d = {'timestamp': ['2021-11-11 12:00:00','2021-11-11 12:01:00','2021-11-11 12:02:00','2021-11-11 12:03:00','2021-11-11 12:04:00',
+                    '2021-11-11 12:05:00','2021-11-11 12:06:00','2021-11-11 12:07:00','2021-11-11 12:08:00','2021-11-11 12:09:00'],
+    'value1': [1,1,2,3,4,4,4,np.nan,6,6],
+    'value2': [10,10,9,7,np.nan,5,5,5,5,5]
+    }
+
+df = pd.DataFrame(data=d)
+
+## Fill in the missing data in the value1 column
+df['value1'].ffill(axis=0, inplace=True)
+#impyute.imputation.ts.locf(data, axis=0)
+
+df['value2'].bfill(axis=0, inplace=True)
+#impyute.imputation.ts.nocb(data, axis=0)
+
+print(df)
 
