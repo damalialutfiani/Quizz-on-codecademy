@@ -23,13 +23,14 @@ In general, single imputation can be an effective technique to handle missing da
 
     df = pd.DataFrame(data=d)
 
-## Fill in the missing data in the value1 column
-df['value1'].ffill(axis=0, inplace=True)
-#impyute.imputation.ts.locf(data, axis=0)
+    ## Fill in the missing data in the value1 column
+    df['value1'].ffill(axis=0, inplace=True)
+    
+    #impyute.imputation.ts.locf(data, axis=0)
 
-df['value2'].bfill(axis=0, inplace=True)
-#impyute.imputation.ts.nocb(data, axis=0)
+    df['value2'].bfill(axis=0, inplace=True)
+    #impyute.imputation.ts.nocb(data, axis=0)
 
-print(df)
+    print(df)
 
   >   Result  :
