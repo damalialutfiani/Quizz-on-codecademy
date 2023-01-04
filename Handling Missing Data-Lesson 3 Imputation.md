@@ -34,3 +34,5 @@ In general, single imputation can be an effective technique to handle missing da
     print(df)
 
   >   Result  :
+
+   ![2hasil2](https://user-images.githubusercontent.com/74751990/210630067-4eecd426-8530-47dd-be66-7ee46ef7c753.png)
