@@ -36,3 +36,6 @@ In general, single imputation can be an effective technique to handle missing da
   >   Result  :
 
    ![2hasil2](https://user-images.githubusercontent.com/74751990/210630067-4eecd426-8530-47dd-be66-7ee46ef7c753.png)
+
+2.  Coding question
+You are presented with this dataset that has two separate values reported over the course of 10 minutes. Use either LOCF or NOCB to fill in the missing value in the value2 column.
