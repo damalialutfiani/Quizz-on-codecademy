@@ -63,3 +63,5 @@ In general, single imputation can be an effective technique to handle missing da
 
     print(df)
 
+  >   Result  :
+
