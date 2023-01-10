@@ -7,3 +7,17 @@ datasetType = _____
 dataPattern = _____
 missingDataType = _____
 seasonalData = _____
+
+Structurally Missing Data
+linear
+MNAR
+False
+MCAR
+categorical
+cubic
+quadratic
+polynomial
+MAR
+True
+DataFrame
+time-series
