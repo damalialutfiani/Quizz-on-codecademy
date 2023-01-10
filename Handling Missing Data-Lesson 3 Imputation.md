@@ -65,3 +65,4 @@ In general, single imputation can be an effective technique to handle missing da
 
   >   Result  :
 
+  ![ini](https://user-images.githubusercontent.com/74751990/211536456-7052e240-3122-4292-8d87-f1f3ba97e910.jpg)
