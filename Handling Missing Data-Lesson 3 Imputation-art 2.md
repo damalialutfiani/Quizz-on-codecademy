@@ -10,18 +10,31 @@
         seasonalData = _____
 
     a.  Structurally Missing Data
+    
     b.  linear
+    
     c.  MNAR
+    
     d.  False
+    
     e.  MCAR
+    
     f.  categorical
+    
     g.  cubic
+    
     h.  quadratic
+    
     i.  polynomial
+    
     j.  MAR
+    
     k.  True
+    
     l.  DataFrame
+    
     m.  time-series
+    
 
 Click or drag and drop to fill in the blank
 
