@@ -37,7 +37,7 @@
   
     Click or drag and drop to fill in the blank
 
-datasetType = time-series
-dataPattern = linear
-missingDataType = MCAR
-seasonalData = False
+        datasetType = time-series
+        dataPattern = linear
+        missingDataType = MCAR
+        seasonalData = False
