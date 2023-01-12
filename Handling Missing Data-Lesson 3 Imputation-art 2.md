@@ -11,13 +11,13 @@
 
     a.  Structurally Missing Data
     
-    b.  linear
+    b.  **linear**
     
     c.  MNAR
     
-    d.  False
+    d.  **False**
     
-    e.  MCAR
+    e.  **MCAR**
     
     f.  categorical
     
@@ -33,7 +33,7 @@
     
     l.  DataFrame
     
-    m.  time-series
+    m.  **time-series**
   
     Click or drag and drop to fill in the blank
 
