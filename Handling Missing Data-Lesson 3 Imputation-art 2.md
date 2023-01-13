@@ -44,3 +44,9 @@
 
 2. Coding question
 Calculate the missing value in the dataset using linear interpolation and strictly Python (no external libraries).
+
+Set y equal to that missing value and print it to the terminal. The missing data in this case is reported as a None.
+As a reminder, here is the equation for linear interpolation:
+
+
+
