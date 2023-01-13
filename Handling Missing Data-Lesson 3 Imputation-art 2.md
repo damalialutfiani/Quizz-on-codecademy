@@ -50,9 +50,7 @@
 
     iii.  As a reminder, here is the equation for linear interpolation:
 
-
-
-Code :
+    >   Code    :
 
 years = [2000,2001,2002,2003]
 values = [1000,1062,None,1180]
