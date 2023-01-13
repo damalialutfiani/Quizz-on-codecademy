@@ -41,3 +41,6 @@
         dataPattern = linear
         missingDataType = MCAR
         seasonalData = False
+
+2. Coding question
+Calculate the missing value in the dataset using linear interpolation and strictly Python (no external libraries).
