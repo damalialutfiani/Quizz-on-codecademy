@@ -50,3 +50,14 @@ As a reminder, here is the equation for linear interpolation:
 
 
 
+Code :
+
+years = [2000,2001,2002,2003]
+values = [1000,1062,None,1180]
+
+# Calculate the missing value
+x1 = 2001
+y1 = 1062
+x2 = 2003
+y2 = 1180
+x = 2002
