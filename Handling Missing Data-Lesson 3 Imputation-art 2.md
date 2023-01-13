@@ -61,3 +61,10 @@ y1 = 1062
 x2 = 2003
 y2 = 1180
 x = 2002
+
+y = y1 + (x - x1) * ((y2 - y1) / (x2 - x1)) 
+print(y)
+
+(pict)
+Result :
+(pict)
