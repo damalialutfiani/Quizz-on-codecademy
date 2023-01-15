@@ -49,6 +49,8 @@
     ii.  Set y equal to that missing value and print it to the terminal. The missing data in this case is reported as a None.
 
     iii.  As a reminder, here is the equation for linear interpolation:
+    
+    ![3 - art 2 2](https://user-images.githubusercontent.com/74751990/212523046-912db50b-a164-4345-8e6a-89caee96c4ea.jpg)
 
     >   Code    :
 
