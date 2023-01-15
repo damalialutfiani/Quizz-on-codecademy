@@ -67,6 +67,6 @@
         y = y1 + (x - x1) * ((y2 - y1) / (x2 - x1)) 
         print(y)
 
-(pict)
-Result :
+    >   Result :
+    
 (pict)
