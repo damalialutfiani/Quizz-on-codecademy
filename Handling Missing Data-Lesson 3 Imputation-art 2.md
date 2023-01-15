@@ -68,5 +68,5 @@
         print(y)
 
     >   Result :
-    
-(pict)
+
+     ![3 - art 2 2 result](https://user-images.githubusercontent.com/74751990/212523226-a0a5ca89-98cf-449c-834b-85318e37dca7.jpg)
