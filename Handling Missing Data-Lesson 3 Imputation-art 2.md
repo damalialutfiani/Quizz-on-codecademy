@@ -73,9 +73,10 @@
 
 3.  Coding question
 
-You have data on the even years from 2000 to 2008. Calculate the missing values for the odd years (2001, 2003, 2005, and 2007) as odd_values using the .interp() method included with numpy.
+    i.  You have data on the even years from 2000 to 2008. Calculate the missing values for the odd years (2001, 2003, 2005, and 2007) as odd_values using the .interp() method included with numpy.
 
-Then print odd_values to the terminal.
+    ii.  Then print odd_values to the terminal.
+    
 Code :
 import numpy as np
 
