@@ -89,3 +89,6 @@ odd_values = np.interp(odd, evens, even_values)
 
 print(odd_values)
 # y = 1460545.50
+
+Result :
+(pict)
