@@ -74,3 +74,18 @@
 3.  Coding question
 
 You have data on the even years from 2000 to 2008. Calculate the missing values for the odd years (2001, 2003, 2005, and 2007) as odd_values using the .interp() method included with numpy.
+
+Then print odd_values to the terminal.
+Code :
+import numpy as np
+
+evens = [2000,2002,2004,2006,2008]
+even_values = [10000,8300,6124,3971,1795]
+
+# Define odds and odd_values
+odd = [2001, 2003, 2005, 2007]
+
+odd_values = np.interp(odd, evens, even_values)
+
+print(odd_values)
+# y = 1460545.50
