@@ -79,18 +79,18 @@
     
     >   Code :
     
-import numpy as np
+        import numpy as np
 
-evens = [2000,2002,2004,2006,2008]
-even_values = [10000,8300,6124,3971,1795]
+        evens = [2000,2002,2004,2006,2008]
+        even_values = [10000,8300,6124,3971,1795]
 
-# Define odds and odd_values
-odd = [2001, 2003, 2005, 2007]
+        # Define odds and odd_values
+        odd = [2001, 2003, 2005, 2007]
 
-odd_values = np.interp(odd, evens, even_values)
+        odd_values = np.interp(odd, evens, even_values)
 
-print(odd_values)
-# y = 1460545.50
+        print(odd_values)
+        # y = 1460545.50
 
 Result :
 (pict)
