@@ -6,3 +6,15 @@ In the below sections, fill in the properties that we look for when deciding if 
 datasetType = _____
 missingDataType = _____
 
+MNAR
+MCAR
+categorical
+time-series
+Structurally Missing Data
+polynomial
+cubic
+MAR
+linear
+quadratic
+DataFrame
+
