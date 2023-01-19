@@ -7,17 +7,17 @@
         datasetType = _____
         missingDataType = _____
 
-MNAR
-MCAR
-categorical
-time-series
-Structurally Missing Data
-polynomial
-cubic
-MAR
-linear
-quadratic
-DataFrame
+    a.  MNAR
+    b.  MCAR
+    c.  categorical
+    d.  time-series
+    e.  Structurally Missing Data
+    f.  polynomial
+    g.  cubic
+    h.  MAR
+    i.  linear
+    j.  quadratic
+    k.  DataFrame
 
 Click or drag and drop to fill in the blank
 
