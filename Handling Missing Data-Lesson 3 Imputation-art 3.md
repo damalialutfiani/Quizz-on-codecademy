@@ -4,8 +4,8 @@
 
     In the below sections, fill in the properties that we look for when deciding if a dataset is a good fit for multiple imputation.
 
-datasetType = _____
-missingDataType = _____
+        datasetType = _____
+        missingDataType = _____
 
 MNAR
 MCAR
