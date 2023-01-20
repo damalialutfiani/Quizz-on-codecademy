@@ -46,3 +46,8 @@ There are :
         Lesson 2 - Visualizing Data
         Lesson 3 - Handling Data
         
+4.  Handling Missing Data
+
+Lesson 1 Introduction to Missing Data
+Lesson 2 Deletion
+Lesson 3 Imputation
