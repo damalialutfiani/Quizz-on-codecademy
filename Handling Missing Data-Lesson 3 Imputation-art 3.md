@@ -31,5 +31,5 @@
 
     Click or drag and drop to fill in the blank
 
-datasetType = categorical
-missingDataType = MAR
+        datasetType = categorical
+        missingDataType = MAR
