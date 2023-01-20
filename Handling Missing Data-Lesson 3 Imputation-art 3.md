@@ -11,7 +11,7 @@
     
     b.  MCAR
     
-    c.  categorical
+    c.  **categorical**
     
     d.  time-series
     
@@ -21,7 +21,7 @@
     
     g.  cubic
     
-    h.  MAR
+    h.  **MAR**
     
     i.  linear
     
