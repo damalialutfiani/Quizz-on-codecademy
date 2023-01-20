@@ -29,7 +29,7 @@
     
     k.  DataFrame
 
-Click or drag and drop to fill in the blank
+    Click or drag and drop to fill in the blank
 
 datasetType = categorical
 missingDataType = MAR
