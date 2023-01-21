@@ -48,6 +48,6 @@ There are :
         
 4.  Handling Missing Data
 
-        Lesson 1 Introduction to Missing Data
-        Lesson 2 Deletion
-        Lesson 3 Imputation
+        Lesson 1 - Introduction to Missing Data
+        Lesson 2 - Deletion
+        Lesson 3 - Imputation
