@@ -80,3 +80,6 @@ dfComplete = pd.DataFrame(np.round(imp.transform(df),1), columns=['D','E','F','G
 
 # Uncomment the following statement to print the result
 print(round(dfComplete.mean(),2))
+
+Result :
+(pict)
