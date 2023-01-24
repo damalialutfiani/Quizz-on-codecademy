@@ -36,3 +36,7 @@
 
 2. Coding question
 Use the IterativeImputer module within sklearn to impute the missing data values.
+
+Use 10 iterations.
+Set random_state to 1.
+Set dfComplete equal to the resulting DataFrame.
