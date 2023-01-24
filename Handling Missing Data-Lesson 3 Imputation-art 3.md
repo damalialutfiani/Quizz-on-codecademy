@@ -33,3 +33,6 @@
 
         datasetType = categorical
         missingDataType = MAR
+
+2. Coding question
+Use the IterativeImputer module within sklearn to impute the missing data values.
