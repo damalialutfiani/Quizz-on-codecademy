@@ -46,17 +46,17 @@
 
     >   Code :
 
-import numpy as np
-from sklearn.experimental import enable_iterative_imputer
-from sklearn.impute import IterativeImputer
-import pandas as pd
+        import numpy as np
+        from sklearn.experimental import enable_iterative_imputer
+        from sklearn.impute import IterativeImputer
+        import pandas as pd
 
-d = {
-    'D': [6.9,np.nan,5.4,4.7,4.5,5.1,4.1,4.5,np.nan,7.5],
-    'E': [18.5,21.9,np.nan,21.2,12.4,16.7,11,11.5,21.6,np.nan],
-    'F': [np.nan,36.3,50.6,48.7,51.9,np.nan,51.6,50.1,46.9,36.6],
-    'G': [80,70.1,94.5,np.nan,76.3,84.6,np.nan,93.6,68.9,82]
-}
+        d = {
+            'D': [6.9,np.nan,5.4,4.7,4.5,5.1,4.1,4.5,np.nan,7.5],
+            'E': [18.5,21.9,np.nan,21.2,12.4,16.7,11,11.5,21.6,np.nan],
+            'F': [np.nan,36.3,50.6,48.7,51.9,np.nan,51.6,50.1,46.9,36.6],
+            'G': [80,70.1,94.5,np.nan,76.3,84.6,np.nan,93.6,68.9,82]
+        }
 
 dTest = {
     'D': [5.6,np.nan,4.5,3.2,5.9],
