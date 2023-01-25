@@ -65,12 +65,12 @@
             'G': [79.9,71.3,92.4,np.nan,75.6]
         }
 
-# Define df and dfTest as pandas DataFrames 
-df = pd.DataFrame(data=d)
-dfTest = pd.DataFrame(data=dTest)
+        # Define df and dfTest as pandas DataFrames 
+        df = pd.DataFrame(data=d)
+        dfTest = pd.DataFrame(data=dTest)
 
-# Create the IterativeImputer model to predict missing values
-imp = IterativeImputer(max_iter=10, random_state=0)
+        # Create the IterativeImputer model to predict missing values
+        imp = IterativeImputer(max_iter=10, random_state=0)
  
 # Fit the model to the test dataset
 imp.fit(dfTest)
