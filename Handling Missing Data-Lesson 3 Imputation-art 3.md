@@ -78,11 +78,10 @@
         # Transform the model on the entire dataset
         dfComplete = pd.DataFrame(np.round(imp.transform(df),1), columns=['D','E','F','G'])
  
-#print(dfComplete.head(10))
+        #print(dfComplete.head(10))
 
-
-# Uncomment the following statement to print the result
-print(round(dfComplete.mean(),2))
+        # Uncomment the following statement to print the result
+        print(round(dfComplete.mean(),2))
 
 Result :
 (pict)
