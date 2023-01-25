@@ -72,11 +72,11 @@
         # Create the IterativeImputer model to predict missing values
         imp = IterativeImputer(max_iter=10, random_state=0)
  
-# Fit the model to the test dataset
-imp.fit(dfTest)
+        # Fit the model to the test dataset
+        imp.fit(dfTest)
 
-# Transform the model on the entire dataset
-dfComplete = pd.DataFrame(np.round(imp.transform(df),1), columns=['D','E','F','G'])
+        # Transform the model on the entire dataset
+        dfComplete = pd.DataFrame(np.round(imp.transform(df),1), columns=['D','E','F','G'])
  
 #print(dfComplete.head(10))
 
