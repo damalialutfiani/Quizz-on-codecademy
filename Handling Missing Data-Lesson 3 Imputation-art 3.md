@@ -83,5 +83,6 @@
         # Uncomment the following statement to print the result
         print(round(dfComplete.mean(),2))
 
-Result :
-(pict)
+    >   Result :
+    
+    
