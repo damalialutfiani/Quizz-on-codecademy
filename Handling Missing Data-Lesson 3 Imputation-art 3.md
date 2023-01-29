@@ -85,4 +85,5 @@
 
     >   Result :
     
-    
+    ![3 - art 3 2 result](https://user-images.githubusercontent.com/74751990/215310443-8b16a20d-2d57-416f-8f3d-5718bf2a0089.jpg)
+
